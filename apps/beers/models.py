@@ -6,3 +6,6 @@ class Beer(models.Model):
     description = models.TextField(max_length=1000)
     picture = models.ImageField(upload_to="beersImages")
     website = models.URLField()
+
+    def __str__(self):
+        return self.name
