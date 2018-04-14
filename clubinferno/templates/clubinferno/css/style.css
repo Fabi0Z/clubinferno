@@ -1,0 +1,1117 @@
+::-webkit-scrollbar {
+  width : 8px;
+}
+
+::-webkit-scrollbar-track {
+  border-radius      : 12px;
+  background         : rgba(0, 0, 0, 0.2);
+  -webkit-box-shadow : inset 0 0 4px rgba(0, 0, 0, 0.1);
+}
+
+::-webkit-scrollbar-thumb {
+  border-radius : 12px;
+  background    : rgba(0, 0, 0, 0.3);
+}
+
+input:-webkit-autofill {
+  -webkit-box-shadow : 0 0 0 50px #212121 inset;
+}
+
+#background {
+  width                 : 100vw;
+  height                : 100vh;
+  margin                : 0;
+  background            : url(../img/gallery/background/Wood.jpg);
+  background-repeat     : no-repeat;
+  background-attachment : fixed;
+  background-position   : center;
+  background-size       : cover;
+}
+
+.user-panel {
+  width          : 50vw;
+  margin         : auto;
+  padding-top    : 2vh;
+  padding-bottom : 2vh;
+}
+
+.user-panel h4 {
+  margin-top : 3vh;
+}
+
+.overlay {
+  position   : fixed;
+  top        : 0;
+  right      : 0;
+  bottom     : 0;
+  left       : 0;
+  overflow   : auto;
+  background : -moz-linear-gradient(
+                 top,
+                 rgba(0, 0, 0, 0.8) 0%,
+                 rgba(0, 0, 0, 0.73) 17%,
+                 rgba(0, 0, 0, 0.66) 35%,
+                 rgba(0, 0, 0, 0.55) 62%,
+                 rgba(0, 0, 0, 0.4) 100%
+               );
+  background : -o-linear-gradient(
+                 top,
+                 rgba(0, 0, 0, 0.8) 0%,
+                 rgba(0, 0, 0, 0.73) 17%,
+                 rgba(0, 0, 0, 0.66) 35%,
+                 rgba(0, 0, 0, 0.55) 62%,
+                 rgba(0, 0, 0, 0.4) 100%
+               );
+  background : -webkit-gradient(linear, left top, left bottom, color-stop(0%, rgba(0, 0, 0, 0.8)), color-stop(17%, rgba(0, 0, 0, 0.73)), color-stop(35%, rgba(0, 0, 0, 0.66)), color-stop(62%, rgba(0, 0, 0, 0.55)), color-stop(100%, rgba(0, 0, 0, 0.4)));
+  background : -webkit-linear-gradient(
+                 top,
+                 rgba(0, 0, 0, 0.8) 0%,
+                 rgba(0, 0, 0, 0.73) 17%,
+                 rgba(0, 0, 0, 0.66) 35%,
+                 rgba(0, 0, 0, 0.55) 62%,
+                 rgba(0, 0, 0, 0.4) 100%
+               );
+  background : linear-gradient(
+                 to bottom,
+                 rgba(0, 0, 0, 0.8) 0%,
+                 rgba(0, 0, 0, 0.73) 17%,
+                 rgba(0, 0, 0, 0.66) 35%,
+                 rgba(0, 0, 0, 0.55) 62%,
+                 rgba(0, 0, 0, 0.4) 100%
+               );
+  /* FF3.6+ */
+  /* Chrome,Safari4+ */
+  /* Chrome10+,Safari5.1+ */
+  /* Opera 11.10+ */
+  /* W3C */
+}
+
+.welcome {
+  position   : absolute;
+  width      : 100%;
+  height     : 100%;
+  text-align : center;
+}
+
+.welcome h2 {
+  margin-top    : 4vh;
+  margin-right  : 2.5vw;
+  margin-bottom : 0;
+  margin-left   : 2.5vw;
+  color         : darkgrey;
+  text-align    : center;
+  font-family   : 'RM Typerighter old Regular';
+  font-size     : 6vh;
+  font-weight   : normal;
+  line-height   : normal;
+}
+
+.welcome h3 {
+  margin-top    : 5vh;
+  margin-right  : 5vw;
+  margin-bottom : 0;
+  margin-left   : 5vw;
+  color         : lightgray;
+  text-align    : center;
+  font-family   : 'RM Typerighter old Regular';
+  font-size     : 9vh;
+  font-weight   : normal;
+  line-height   : normal;
+}
+
+#mobile {
+  width      : auto;
+  height     : 34vh;
+  margin-top : 7vh;
+}
+
+#desktop {
+  visibility : hidden;
+  width      : 0;
+  height     : 0;
+  margin     : 0;
+}
+
+#buttonSocio {
+  background : transparent;
+}
+
+.welcome li {
+  margin : 1.3vh;
+}
+
+#buttonAccedi {
+  background : #c52927;
+}
+
+#showPassword {
+  display            : inline;
+  -webkit-appearance : none;
+  margin-left        : -60px;
+  color              : whitesmoke;
+  border             : 0;
+  background         : transparent;
+  font-size          : 1.5em;
+}
+
+#showPassword2 {
+  display            : inline;
+  -webkit-appearance : none;
+  margin-left        : -60px;
+  color              : whitesmoke;
+  border             : 0;
+  background         : transparent;
+  font-size          : 1.5em;
+}
+
+.welcome button {
+  width         : 5em;
+  height        : 1.5em;
+  color         : white;
+  border        : 0.05em solid white;
+  border-radius : 0.15em;
+  font-family   : 'RM Typerighter Regular';
+  font-size     : 6vh;
+  font-weight   : bold;
+  transition    : all .5s ease-in-out;
+  cursor        : pointer;
+}
+
+.welcome ul {
+  margin-top    : 4vh;
+  margin-bottom : 6vh;
+  padding       : 0;
+  color         : transparent;
+}
+
+h4 {
+  margin      : 0;
+  color       : lightgray;
+  font-family : 'RM Typerighter old Regular';
+  font-size   : 2.2em;
+  font-weight : normal;
+}
+
+#buttonLogin {
+  width         : 100%;
+  height        : 1.3em;
+  color         : white;
+  border        : 0.05em solid white;
+  border-radius : 0.15em;
+  background    : #c52927;
+  font-family   : 'RM Typerighter Regular';
+  font-size     : 6vh;
+  font-weight   : bold;
+  transition    : all .5s ease-in-out;
+  cursor        : pointer;
+}
+
+#buttonLogin:hover {
+  background : #751818;
+}
+
+#button3:hover {
+  background : #751818;
+}
+
+modal-content#div {
+  visibility : hidden;
+}
+
+/* -------------------- HAMBURGER MMMM ---------------- */
+
+.header {
+  display                 : -webkit-flex;
+  display                 : flex;
+  width                   : 100%;
+  background-color        : #212121;
+  font-family             : 'RM Typerighter Regular';
+  font-size               : 2.5em;
+  font-weight             : bold;
+  -webkit-justify-content : space-between;
+  justify-content         : space-between;
+}
+
+.header .logo a img {
+  height : 100px;
+}
+
+.header .logo {
+  padding : 12px 0px 20px 25px;
+}
+
+.header .menu ul {
+  margin      : 0;
+  padding     : 0;
+  padding-top : 23px;
+}
+
+.header .menu ul li {
+  display    : inline-block;
+  padding    : 30px 40px 30px 0px;
+  list-style : none;
+  transition : all .5s ease-in-out;
+}
+
+.header .menu ul li a {
+  color           : #c52927;
+  text-decoration : none;
+}
+
+.header .menu ul li ul.submenu {
+  display  : none;
+  position : absolute;
+  width    : 180px;
+}
+
+.header .menu ul li ul.submenu li {
+  width : 100%;
+}
+
+.header .menu ul li ul.submenu li a {
+  padding : 20px;
+  color   : #c52927;
+}
+
+.header .menu ul li ul.submenu li a:hover {
+  text-shadow : -1px 0 whitesmoke,
+                0 1px whitesmoke,
+                1px 0 whitesmoke,
+                0 -1px whitesmoke;
+  font-weight : bold;
+  transition  : all .3s ease-in-out;
+}
+
+.header .menu ul li:hover ul.submenu {
+  display : block;
+}
+
+.header .menu ul li i.icon-arrow {
+  display : none;
+}
+
+#user-name {
+  display : inline;
+}
+
+.menu>ul>li>div>a>h2 {
+  display   : inline;
+  font-size : .9em;
+}
+
+#icon {
+  padding-right : 5px;
+}
+
+.subOption {
+  background : #212121;
+  font-size  : 0.7em;
+}
+
+#icona-user {
+  font-size : .5em;
+}
+
+@media
+  screen
+  and (max-width : 1279px) {
+  .header .menu ul {
+    padding : 0;
+  }
+
+  .header {
+    font-size : 2.2em;
+  }
+
+  #icona-user {
+    font-size : 1em;
+  }
+
+  .subOption {
+    background : #161616;
+    font-size  : 1em;
+  }
+
+  .menu>ul>li>div>a>h2 {
+    font-size   : 1.4em;
+    font-weight : bold;
+  }
+
+  .header .menu ul li {
+    padding    : 0;
+    transition : none;
+  }
+
+  .header .menu ul li ul.submenu {
+    width : 150px;
+  }
+
+  .header .logo {
+    padding : 8px 0 6px 0px;
+  }
+
+  .header .logo a img {
+    width  : 150px;
+    height : 49px;
+  }
+
+  .header .menu ul li a {
+    display : block;
+    padding : 4vh 4vw;
+  }
+
+  .header nav.menu ul {
+    z-index            : 1;
+    position           : fixed;
+    top                : 0;
+    bottom             : 0;
+    left               : 0;
+    width              : 75vw;
+    margin-left        : -1000px;
+    overflow-y         : scroll;
+    background-color   : #212121;
+    -moz-box-shadow    : 5px 0px 10px rgba(0, 0, 0, 0.3);
+    -webkit-box-shadow : 5px 0px 10px rgba(0, 0, 0, 0.3);
+    box-shadow         : 5px 0px 10px rgba(0, 0, 0, 0.3);
+    -moz-transition    : margin-left 0.5s;
+    -o-transition      : margin-left 0.5s;
+    -webkit-transition : margin-left 0.5s;
+    transition         : margin-left 0.5s;
+  }
+
+  .header nav.menu.active {
+    position : fixed;
+    top      : 0;
+    bottom   : 0;
+    left     : 0;
+    width    : 100%;
+  }
+
+  .header nav.menu.active ul {
+    width              : 75vw;
+    margin-left        : 0;
+    overflow-y         : scroll;
+    -moz-transition    : margin-left 0.5s;
+    -o-transition      : margin-left 0.5s;
+    -webkit-transition : margin-left 0.5s;
+    transition         : margin-left 0.5s;
+  }
+
+  .header nav.menu.active ul li {
+    display : block;
+  }
+
+  .header nav.menu.active ul li:hover .submenu {
+    display : none;
+  }
+
+  .header nav.menu.active ul li a {
+    width : auto;
+  }
+
+  .header nav.menu.active ul li .flexbox-container {
+    display                 : -webkit-flex;
+    display                 : flex;
+    -webkit-justify-content : space-between;
+    justify-content         : space-between;
+  }
+
+  .header nav.menu.active ul li .flexbox-container i.icon-arrow {
+    display    : inline-block;
+    padding    : 26px 25px;
+    text-align : center;
+    cursor     : pointer;
+  }
+
+  #user-name {
+    padding-top : 32px;
+  }
+
+  .header nav.menu.active ul li .flexbox-container h2 {
+    display : inline;
+  }
+
+  .header nav.menu.active ul li .flexbox-container i.icon-arrow svg {
+    width : 0.5em;
+  }
+
+  .header nav.menu.active ul li .submenu {
+    max-height : 0;
+    overflow   : hidden;
+    box-shadow : none;
+  }
+
+  .header nav.menu.active ul li.showSubmenu .submenu {
+    display          : block;
+    position         : relative;
+    width            : 100%;
+    max-height       : 1000px;
+    overflow         : inherit;
+    background-color : #161616;
+  }
+
+  .header nav.menu.active ul li.showSubmenu .submenu .subOption a {
+    padding : 15px 40px;
+  }
+
+  .header nav.menu.active ul li.showSubmenu i.icon-arrow {
+    -moz-transform    : rotate(180deg);
+    -ms-transform     : rotate(180deg);
+    -webkit-transform : rotate(180deg);
+    transform         : rotate(180deg);
+  }
+
+  .header nav.menu .hamburger {
+    z-index  : 2;
+    display  : inline-block;
+    position : absolute;
+    top      : 20px;
+    right    : 10px;
+    padding  : 12px 22px;
+    color    : #c52927;
+    cursor   : pointer;
+  }
+
+  .header nav.menu .hamburger span,
+  .header nav.menu .hamburger span:after,
+  .header nav.menu .hamburger span:before {
+    content            : '';
+    display            : block;
+    position           : absolute;
+    left               : 0;
+    width              : 30px;
+    height             : 3px;
+    border-radius      : 2px;
+    background         : #c52927;
+    -moz-transition    : all 0.5s ease-in-out;
+    -o-transition      : all 0.5s ease-in-out;
+    -webkit-transition : all 0.5s ease-in-out;
+    transition         : all 0.5s ease-in-out;
+  }
+
+  .header nav.menu .hamburger span:before {
+    top : -8px;
+  }
+
+  .header nav.menu .hamburger span:after {
+    bottom : -8px;
+  }
+
+  .header nav.menu .hamburger.active span {
+    background-color : transparent;
+  }
+
+  .header nav.menu .hamburger.active.active span:after,
+  .header nav.menu .hamburger.active span:before {
+    top : 0;
+  }
+
+  .header nav.menu .hamburger.active span:before {
+    -moz-transform    : rotate(-45deg);
+    -ms-transform     : rotate(-45deg);
+    -webkit-transform : rotate(-45deg);
+    transform         : rotate(-45deg);
+  }
+
+  .header nav.menu .hamburger.active span:after {
+    -moz-transform    : rotate(45deg);
+    -ms-transform     : rotate(45deg);
+    -webkit-transform : rotate(45deg);
+    transform         : rotate(45deg);
+  }
+
+  #user {
+    padding : 38px 25px;
+  }
+}
+
+*/ .dimmer {
+  z-index          : 0;
+  display          : none;
+  position         : fixed;
+  top              : 0;
+  width            : 100%;
+  height           : 100%;
+  background-color : rgba(0, 0, 0, 0.7);
+}
+
+.dimmer.active {
+  display : block;
+}
+
+.no-scrolling {
+  position : fixed;
+  overflow : hidden;
+}
+
+/* ------------------- LOGIN STYLE -------------------- */
+
+/* Full-width input fields */
+
+input[type=date],
+input[type=password],
+input[type=text] {
+  display       : inline-block;
+  box-sizing    : border-box;
+  width         : 100%;
+  margin-top    : 1vh;
+  padding       : 0.4em 4.5vw;
+  color         : lightgray;
+  border        : 0.05em solid white;
+  border-radius : 0.3em;
+  background    : #212121;
+  font-family   : 'RM Typerighter old Regular';
+  font-size     : 2em;
+}
+
+span.psw {
+  float      : right;
+  margin-top : 5vh;
+}
+
+.modal {
+  z-index          : 1;
+  visibility       : hidden;
+  position         : fixed;
+  top              : 0;
+  left             : 0;
+  width            : 100vw;
+  height           : 100vh;
+  opacity          : 0;
+  overflow         : auto;
+  background-color : rgba(0, 0, 0, 0.9);
+  transition       : opacity 500ms;
+  /* Hidden by default */
+  /* Stay in place */
+  /* Sit on top */
+  /* Full width */
+  /* Full height */
+}
+
+.modal:target {
+  visibility : visible;
+  opacity    : 1;
+}
+
+/* Modal Content/Box */
+
+.modal-content {
+  position         : relative;
+  top              : 50%;
+  width            : 88vw;
+  margin           : 0 auto;
+  background-color : transparent;
+  transform        : translateY(-50%);
+}
+
+/* The Close Button (x) */
+
+.close {
+  position    : absolute;
+  top         : -7vh;
+  right       : -2vw;
+  margin      : 0;
+  color       : #c52927;
+  text-shadow : -1px 0 lightgrey,
+                0 1px lightgrey,
+                1px 0 lightgrey,
+                0 -1px lightgrey;
+  font-family : 'RM Typerighter old Regular';
+  font-size   : 18vh;
+  transition  : all .3s ease-in-out;
+}
+
+.close:hover {
+  color       : red;
+  text-shadow : -1px 0 white,
+                0 1px white,
+                1px 0 white,
+                0 -1px white;
+  cursor      : pointer;
+}
+
+#labelRestaConnesso {
+  margin-top      : 1vh;
+  margin-bottom   : 5vh;
+  text-decoration : none;
+  font-family     : 'RM Typerighter old Regular';
+  font-size       : 2.5em;
+}
+
+a#label3 {
+  margin-top      : 3vh;
+  color           : lightgray;
+  text-decoration : none;
+  font-family     : 'RM Typerighter old Regular';
+  font-size       : 2.5em;
+  transition      : all .3s ease-in-out;
+}
+
+a#label3:hover,
+label3:focus {
+  color : darkgray;
+}
+
+#labelRegistrazione {
+  margin-top  : 1vh;
+  text-shadow : -1px 0 #212121,
+                0 1px #212121,
+                1px 0 #212121,
+                0 -1px #212121;
+}
+
+#buttonRegistrazione {
+  width         : 100%;
+  height        : 1.3em;
+  margin-top    : 3vh;
+  color         : white;
+  border        : 0.05em solid white;
+  border-radius : 0.15em;
+  background    : #c52927;
+  font-family   : 'RM Typerighter Regular';
+  font-size     : 6vh;
+  font-weight   : bold;
+  transition    : all .5s ease-in-out;
+  cursor        : pointer;
+}
+
+#mobileNav {
+  width  : 100vw;
+  height : auto;
+}
+
+.navbar-inverse {
+  border-color : transparent;
+  background   : Transparent;
+}
+
+/* ---------------------------- News Page ----------------------------------- */
+
+.newsbox {
+  display : none;
+}
+
+/* ---------------------------- Admin Page ---------------------------------- */
+
+.admin {
+  width       : auto;
+  height      : auto;
+  margin      : auto;
+  color       : darkgray;
+  text-align  : center;
+  font-family : 'RM Typerighter Regular';
+  font-size   : 2em;
+}
+
+.admin h3 {
+  margin-top    : 15px;
+  margin-bottom : 10px;
+  margin-left   : 5vw;
+  text-align    : left;
+  font-size     : 1em;
+}
+
+.admin select {
+  width         : auto;
+  margin-top    : 20px;
+  margin-bottom : 20px;
+  color         : white;
+  border-radius : .15em;
+  background    : #212121;
+  font-family   : 'RM Typerighter Regular';
+  font-size     : .9em;
+}
+
+.admin input[type=submit] {
+  width         : auto;
+  margin-top    : 20px;
+  color         : white;
+  border-radius : .15em;
+  background    : #c52927;
+  font-family   : 'RM Typerighter Regular';
+  font-size     : .9em;
+}
+
+.admin form {
+  width         : 50vw;
+  margin        : auto;
+  margin-top    : 20px;
+  border-radius : 0.3em;
+  background    : rgba(0, 0, 0, 0.8);
+}
+
+.admin input[type=text] {
+  width          : 40vw;
+  margin         : 0;
+  padding-top    : 2px;
+  padding-bottom : 2px;
+  font-size      : 1em;
+}
+
+.admin h2 {
+  margin      : 0;
+  padding-top : 20px;
+}
+
+/* ---------------------------- Sponsor Page -------------------------------- */
+
+.popup {
+  position      : relative;
+  top           : 50%;
+  width         : 75%;
+  max-height    : 80vh;
+  margin        : 0 auto;
+  padding       : 20px;
+  overflow      : auto;
+  border-radius : 8px;
+  background    : #212121;
+  text-align    : center;
+  font-family   : 'RM Typerighter Regular';
+  font-size     : 2em;
+  transform     : translateY(-50%);
+  transition    : all .5s ease-in-out;
+}
+
+.popup i {
+  font-size : 0.5em;
+}
+
+.overlay2 {
+  visibility : hidden;
+  position   : fixed;
+  top        : 0;
+  right      : 0;
+  bottom     : 0;
+  left       : 0;
+  opacity    : 0;
+  overflow   : auto;
+  background : rgba(0, 0, 0, 0.7);
+  transition : opacity 500ms;
+}
+
+.overlay2:target {
+  visibility : visible;
+  opacity    : 1;
+}
+
+.popup p {
+  color : darkgrey;
+}
+
+.popup #close {
+  position    : absolute;
+  top         : 3px;
+  right       : 15px;
+  margin      : 0;
+  padding     : 0;
+  font-family : 'RM Typerighter old Regular';
+  font-size   : 2.5em;
+  font-weight : normal;
+  transition  : all 300ms;
+}
+
+.popup #close:hover {
+  color : #c52927;
+}
+
+.sponsor {
+  width        : 40vw;
+  height       : auto;
+  margin-right : auto;
+  margin-left  : auto;
+  padding-top  : 5vh;
+  padding-left : 5vw;
+}
+
+.sponsor img {
+  width      : auto;
+  max-width  : 100%;
+  height     : auto;
+  max-height : 120px;
+  text-align : center;
+}
+
+.popup img {
+  width      : auto;
+  max-width  : 100%;
+  height     : auto;
+  max-height : 100px;
+}
+
+.sponsor p {
+  margin        : 0;
+  padding       : 8px 4px 8px 4px;
+  overflow      : auto;
+  border-radius : 0.15em;
+  background    : rgba(0, 0, 0, 0.8);
+}
+
+.sponsor h3 {
+  margin     : 0;
+  color      : lightgray;
+  font-size  : 1.3em;
+  transition : all .3s ease-in-out;
+}
+
+.popup h3 {
+  margin     : 0;
+  color      : darkgrey;
+  transition : all .3s ease-in-out;
+}
+
+.sponsor h2 {
+  padding    : 0;
+  color      : lightgray;
+  font-size  : 1.5em;
+  transition : all .3s ease-in-out;
+}
+
+.popup a {
+  display         : block;
+  padding-bottom  : 20px;
+  color           : lightgray;
+  text-decoration : none;
+  font-size       : 1.4em;
+  font-weight     : 600;
+  transition      : all .3s ease-in-out;
+}
+
+.popup h2 {
+  margin         : 0;
+  padding-top    : 10px;
+  padding-bottom : 30px;
+  color          : lightgray;
+  font-size      : 1.4em;
+}
+
+.sponsor a {
+  text-decoration : none;
+}
+
+.popup a:hover {
+  color : darkgrey;
+}
+
+.sponsor h2:hover {
+  color : darkgrey;
+}
+
+/* ------------------------------ MEDIA QUERIES ------------------------------- */
+
+@media
+  screen
+  and (min-width : 1280px) {
+  /* ---------------------------- Sponsor Page -------------------------------- */
+
+  .sponsor-container {
+    margin-left : 2em;
+  }
+
+  .popup {
+    width : 35%;
+  }
+
+  .popup .close {
+    top   : 20px;
+    right : 30px;
+  }
+
+  .sponsor {
+    width        : 220px;
+    padding-top  : 80px;
+    padding-left : 100px;
+    font-size    : 2em;
+  }
+
+  .popup #close {
+    top   : 15px;
+    right : 25px;
+  }
+
+  .sponsor img {
+    max-height : 150px;
+  }
+
+  .popup img {
+    max-height : 120px;
+  }
+  /* ---------------------------- News Page ----------------------------------- */
+
+  .newsbox {
+    display    : block;
+    position   : absolute;
+    top        : 137px;
+    bottom     : 0;
+    left       : -250px;
+    opacity    : .4;
+    transition : all .5s ease-in-out;
+  }
+
+  .newsbox span {
+    display           : inline;
+    margin-left       : -51px;
+    padding           : 8px 16px 8px 16px;
+    color             : darkgray;
+    background        : #212121;
+    font-family       : 'RM Typerighter old Regular';
+    font-size         : 5em;
+    -moz-transform    : rotate(-90deg);
+    -webkit-transform : rotate(-90deg);
+  }
+
+  .news {
+    width       : 250px;
+    height      : 100%;
+    margin      : auto;
+    color       : darkgray;
+    overflow    : auto;
+    background  : #212121;
+    text-align  : center;
+    font-family : 'RM Typerighter Regular';
+    font-size   : 2em;
+  }
+
+  .newsbox:hover {
+    left    : 0;
+    opacity : 1;
+  }
+
+  .news h3 {
+    margin         : 0;
+    padding-bottom : 20px;
+    font-size      : 1.5em;
+  }
+
+  .news hr {
+    width         : 80%;
+    margin        : 0;
+    margin-right  : auto;
+    margin-left   : auto;
+    border        : 1px solid darkgrey;
+    border-radius : .3em;
+  }
+
+  .news img {
+    width      : auto;
+    max-width  : 100%;
+    height     : auto;
+    max-height : 100px;
+  }
+  /**
+  * ---------------------------- Login/Register Page
+  * -----------------------------------
+  */
+
+  #showPassword {
+    margin-left : -60px;
+  }
+
+  #showPassword2 {
+    margin-left : -60px;
+  }
+
+  #showPassword {
+    margin-left : -50px;
+  }
+
+  #showPassword2 {
+    margin-left : -50px;
+  }
+
+  input[type=password],
+  input[type=text] {
+    padding : 0.7em 1.5vw;
+  }
+
+  input[type=date] {
+    padding   : 0.2em 1.5vw;
+    font-size : 2em;
+  }
+
+  h4 {
+    font-size : 2.5em;
+  }
+
+  #mobile {
+    visibility : hidden;
+    width      : 0;
+    height     : 0;
+    margin     : 0;
+  }
+
+  #desktop {
+    visibility : visible;
+    width      : auto;
+    height     : 52vh;
+    margin-top : 2vh;
+  }
+
+  .welcome h2 {
+    font-size : 9vh;
+  }
+
+  .welcome h3 {
+    margin-top : 5vh;
+    font-size  : 13vh;
+  }
+
+  .welcome button {
+    width  : 5.5em;
+    height : 1.8em;
+    border : 0.07em solid white;
+  }
+
+  .welcome li {
+    display : inline;
+    margin  : 0.1em;
+  }
+
+  .welcome ul {
+    margin-top    : 5vh;
+    margin-bottom : 3vh;
+    color         : transparent;
+  }
+
+  .modal-content {
+    width : 40vw;
+  }
+
+  .close {
+    top   : -35px;
+    right : 0px;
+  }
+}
+
+/* ---------------------------- MEDIA QUERY DESKTOP --------------------------- */
+
+@media
+  screen
+  and (min-width : 1920px) {
+  input[type=password],
+  input[type=text] {
+    padding : 0.9em 1.5vw;
+  }
+
+  input[type=date] {
+    padding   : 0.45em 1.5vw;
+    font-size : 2em;
+  }
+
+  .header {
+    font-size : 3em;
+  }
+
+  .close {
+    top   : -65px;
+    right : 0px;
+  }
+}
+
+/**
+ * ---------------------------- END MEDIA QUERY DESKTOP
+ * ---------------------------------
+ */
+
+.welcome button:hover {
+  background : #751818;
+}
