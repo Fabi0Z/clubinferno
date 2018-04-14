@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="it">
+
+<head>
+  <!-- Basic Page Needs -->
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, user-scalable=no">
+  <title>Club Inferno</title>
+  <meta name="description" content="Club Inferno, Centro Sportivo Educativo Nazionale">
+  <meta name="keywords" content="bar, rock, inferno, circolo, club inferno, club, radical spaghetti">
+  <meta name="author" content="Radical Spaghetti">
+
+  <!-- Stylesheet and other stuffs -->
+  <link rel="stylesheet" type="text/css" href="css/style.css" />
+  <link rel="stylesheet" type="text/css" href="fonts/RM_Typerighter_Regular/RM_Typerighter_Regular.css" />
+  <link rel="stylesheet" type="text/css" href="fonts/RM_Typerighter_old_Regular/RM_Typerighter_old_Regular.css" />
+  <link rel="stylesheet" type="text/css" href="fonts/Font_Awesome/css/font-awesome.css" />
+  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.6.4/jquery.min.js" type="text/javascript"></script>
+  <script type="text/javascript" src="js/showHideMobile.js"></script>
+  <script type="text/javascript" src="js/hidePopup.js"></script>
+
+</head>
+
+<body id="background">
+  <div class="overlay">
+    <div class="home">
+      <header class="header">
+        <div class="logo">
+          <a href="home"><img src="img/logo-sinistra.svg"></a>
+        </div>
+        <nav class="menu">
+          <ul>
+            <li>
+              <div class="flexbox-container">
+                <a href="user" id="icona-user"><i class="fa fa-user-circle" aria-hidden="true"></i></a>
+                <a href="user" id="user-name">
+                  <h2>username</h2>
+                </a>
+                <i class='icon-arrow' id="user">
+                  <svg xmlns="http://www.w3.org/2000/svg" viewBox="120.6 59.5 612 359.1">
+                      <path fill="#c52927" d="M715.7,163.2c-21.1,22.2-248,237.4-248,237.4c-11.6,11.6-26.3,18-41.2,18s-30.6-6.3-41.2-18c0,0-225.9-215.2-248-237.4c-21.1-22.2-23.2-61.2,0-85.5c23.2-23.2,54.825.3,83.3,0l205.8,198.5l206-198.4c28.5-25.3,60.1-23.2,83.3,0C738.8,102.1,737.8,141.1,715.7,163.2z"/>
+                  </svg>
+                </i>
+              </div>
+              <ul class="submenu">
+                <li class="subOption"><a href="user">Pannello Utente</a></li>
+                <li class="subOption"><a href="php/logout">Logout</a></li>
+              </ul>
+            </li>
+            <!-- Getting rid of that annoying space at desktop size-->
+            <li>
+              <a href="">Chi siamo</a>
+            </li>
+            <li>
+              <a href="birre">Le nostre birre</a>
+            </li>
+            <li>
+              <div class="flexbox-container">
+                <a href="">Gallery</a>
+                <i class='icon-arrow'>
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="120.6 59.5 612 359.1">
+                        <path fill="#c52927" d="M715.7,163.2c-21.1,22.2-248,237.4-248,237.4c-11.6,11.6-26.3,18-41.2,18s-30.6-6.3-41.2-18c0,0-225.9-215.2-248-237.4c-21.1-22.2-23.2-61.2,0-85.5c23.2-23.2,54.825.3,83.3,0l205.8,198.5l206-198.4c28.5-25.3,60.1-23.2,83.3,0C738.8,102.1,737.8,141.1,715.7,163.2z"/>
+                    </svg>
+                </i>
+              </div>
+              <ul class="submenu">
+                <li class="subOption"><a href="photoGallery">Foto</a></li>
+                <li class="subOption"><a href="">Video</a></li>
+              </ul>
+            </li>
+            <li>
+              <a href="">Per soli Bikers</a>
+            </li>
+            <li>
+              <a href="sponsors">Sponsors</a>
+            </li>
+          </ul>
+          <div class="hamburger"><span></span></div>
+          <div class="dimmer"></div>
+        </nav>
+      </header>
+    </div>
+    <!-- <div class="newsbox">
+      <span>Notizie</span>
+      <div class="news">
+        <?php
+                    require 'php/config.php';
+                    $sql = "SELECT *
+                            FROM notizia
+                            ORDER BY data DESC
+                            LIMIT 5";
+                    $result = $conn->query($sql);
+                    if ($result->num_rows > 0) {
+                        while ($row = $result->fetch_assoc()) {
+                            echo "<hr>";
+                            echo "<div>";
+                            echo "<h2>" . htmlentities(utf8_encode($row['titolo']), 0, 'UTF-8') . "</h2>";
+                            echo "<img src='img/notizie/$row[immagine]'/>";
+                            echo "<p>" . htmlentities(utf8_encode($row['testo']), 0, 'UTF-8') . "</p>";
+                            echo "</div>";
+                            echo "<br>";
+                        }
+                    }
+                ?>
+      </div>
+    </div> -->
+    {% block content %}
+    {% endblock content %}
+  </div>
+</body>
+<script>
+  $(function() {
+    $('.hamburger').click(function() {
+      showHideMobile();
+    });
+
+    $(".dimmer").click(function() {
+      showHideMobile();
+    });
+
+    $('li .icon-arrow').click(function() {
+      $(this).parent().parent().toggleClass('showSubmenu');
+    });
+  });
+  hidePopup();
+</script>
+
+</html>

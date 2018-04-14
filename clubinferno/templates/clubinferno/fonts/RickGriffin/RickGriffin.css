@@ -1,0 +1,31 @@
+/**
+ * @license
+ * MyFonts Webfont Build ID 3369671, 2017-04-05T11:05:57-0400
+ * 
+ * The fonts listed in this notice are subject to the End User License
+ * Agreement(s) entered into by the website owner. All other parties are 
+ * explicitly restricted from using the Licensed Webfonts(s).
+ * 
+ * You may obtain a valid license at the URLs below.
+ * 
+ * Webfont: RickGriffin by K-Type
+ * URL: http://www.myfonts.com/fonts/k-type/rick-griffin/regular/
+ * Copyright: Rick Griffin (version 1.02)  by Keith Bates                                  &#xFFA9; 2006    www.k-type.com      keith@k-type.com               Based on the 1960s psychedelic poster lettering of Rick Griffin. 
+ * Licensed pageviews: 20,000
+ * 
+ * 
+ * License: http://www.myfonts.com/viewlicense?type=web&buildid=3369671
+ * 
+ * © 2017 MyFonts Inc
+*/
+
+
+/* @import must be at top of file, otherwise CSS will not work */
+
+@import url("//hello.myfonts.net/count/336ac7");
+@font-face {
+    font-family: 'RickGriffin';
+    src: url('webfonts/336AC7_0_0.woff2') format('woff2'), 
+         url('webfonts/336AC7_0_0.woff') format('woff'), 
+         url('webfonts/336AC7_0_0.ttf') format('truetype');
+}
