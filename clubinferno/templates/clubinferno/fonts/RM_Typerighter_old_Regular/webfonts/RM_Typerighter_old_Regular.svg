@@ -1,0 +1,895 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
+<metadata>
+Created by FontForge 20170104 at Wed Dec  9 17:14:19 2009
+ By myTaste
+Copyright Ray Meadows 2009
+</metadata>
+<defs>
+<font id="RM-Typerighter-old" horiz-adv-x="300" >
+  <font-face 
+    font-family="RM Typerighter old"
+    font-weight="400"
+    font-stretch="normal"
+    units-per-em="1024"
+    panose-1="0 0 4 0 0 0 0 0 0 0"
+    ascent="819"
+    descent="-205"
+    x-height="236"
+    cap-height="336"
+    bbox="-112 -140 512 448"
+    underline-thickness="51"
+    underline-position="77"
+    unicode-range="U+000D-FB02"
+  />
+<missing-glyph horiz-adv-x="648" 
+d="M224 63v71h-72v-71h72zM295 146v72h-143v-72h143zM224 229v72h-72v-72h72zM295 313v70h-71q-30 0 -51 -20q-21 -21 -21 -50h143zM0 0v448h448v-448h-448z" />
+    <glyph glyph-name=".notdef" horiz-adv-x="648" 
+d="M224 63v71h-72v-71h72zM295 146v72h-143v-72h143zM224 229v72h-72v-72h72zM295 313v70h-71q-30 0 -51 -20q-21 -21 -21 -50h143zM0 0v448h448v-448h-448z" />
+    <glyph glyph-name="glyph1" horiz-adv-x="24" 
+ />
+    <glyph glyph-name="glyph1" horiz-adv-x="24" 
+ />
+    <glyph glyph-name="uni000D" unicode="&#xd;" horiz-adv-x="0" 
+ />
+    <glyph glyph-name="space" unicode=" " horiz-adv-x="144" 
+ />
+    <glyph glyph-name="exclam" unicode="!" horiz-adv-x="84" 
+d="M20 0l-8 4l-8 4l-4 8h-8v8h4v8h-4v8h8l4 8v4h8v4h8v4h8v-4l8 -4l8 -4l4 -8l4 -8v-16h-4l-4 -8v-4h-8v-4h-16zM16 80l-4 8v24h-4v72h4v8h-4v64h4v32h-4v16h4v16h-4v8h4q0 3 2 5q2 3 6 3h16q3 0 5 -3q3 -2 3 -5v-8h4v-8h-4v-24h4v-48h-4v-24h4v-8h-4v-32h4v-24h-4v-16h4v-8
+h-4v-8h4v-8h-4v-20l-8 -4l-8 -4l-8 -4h-4z" />
+    <glyph glyph-name="quotedbl" unicode="&#x22;" horiz-adv-x="152" 
+d="M24 264l-4 8l-4 8v8h-4v8h4v8h-4v8h-4v8l-4 8l-4 8v16h4l4 8l8 4v4h16l8 -4l8 -4v-8h4l4 -8v-8l-4 -8h-4v-8l-4 -8l-4 -8v-24l-4 -8l-4 -8h-8zM88 264l-4 8l-4 8h4v24h-4v8h-4l-4 8v8h-4l-4 8v8h8v8h-4l4 8l8 4l8 4h8l8 -4v-4h8l4 -8l4 -8v-16h-4l-4 -8l-4 -8l-4 -8v-24
+l-4 -8l-4 -8h-8z" />
+    <glyph glyph-name="numbersign" unicode="#" horiz-adv-x="264" 
+d="M136 148v4h8l4 8h4v16h8v8l2 4h-18v4h-8v-4h-8v4h-16v-4h-6l-2 -4v-8h-4l-4 -8v-8h-4v-8h-4l-2 -4h10v4h16v-4h8v4h8v-4h8zM24 56l-8 8v8l4 8v8h4v8h4l4 8l4 8h-4v12h-8v-4l-8 4v20l8 4v4h8v-4h22l2 4v8h4l4 8l4 8h4l8 8v8h-16l-8 -4l-8 4v20l8 4h8v4h8v-4h8v4h8v-4l4 8
+v8h4l4 8h4v8l4 8h4v8l4 8h4v4l8 4h16l4 -8v-8h-4l-4 -8v-8h-4v-8h-4l-4 -8l-4 -8h-4v-4h40v-4h8v4h8v-4l4 8l4 8v8h4v8h4l4 8v8h4v8h4l4 4l4 4h12l8 -8v-16h-4v-8h-4l-4 -8h-4v-8l-4 -8l-4 -8h8v4h8v-4l8 -4v-20l-8 -4h-30l-2 -4l-4 -8v-8h-4v-8h-4l-4 -8v-4h16l8 -4v-20
+l-8 -4h-8v4h-16v-4h-8l-4 -8h-4v-16h-4l-4 -8h-8v-16l-4 -8h-1l-3 -4l-4 -4h-4q-2 0 -3 1t-1 3q0 -2 -2 -3q-1 -1 -2 -1h-8l-4 8l4 8v8h4v8h4l4 8h4v8l4 8v8h4v4h-16v-8h-24v4h-8v-4h-8v-4h-4v-8h-4v-8h-4l-4 -8l-4 -8l-4 -8v-8h-5l-3 -4l-4 -4h-12z" />
+    <glyph glyph-name="dollar" unicode="$" horiz-adv-x="208" 
+d="M124 56l8 4v4h4l4 4l4 4l4 8v8h4v16l-4 8l-4 8h-4v4l-4 4l-4 4h-8v4l-8 4h-8v4l-8 4v-4h-4v-8h4v-24h-4v-32h4v-8h-4l4 -8l8 4l8 -4l4 -8h4zM68 192v16h4v16h-4v16h4v24h-4v16h4l-4 8l-8 -4l-8 -4h-8v-4l-4 -4h-4v-4l-4 -4l-4 -8v-8h-4v-16l4 -8v-8h4l4 -4v-4h4l4 -4h8
+v-9l4 -3h12zM72 0l-4 8h-4v8h4v4l-8 4l-8 4l-8 4h-12l-4 8h-8v8l-4 8l-4 -8h-8v8h-4v56l4 8h24l4 -8v-16h4v-8l4 -8h4v-8h4v-8l4 -4v-1l4 -3l4 -4v-4h4v8h4v8h-4v56h8v16h-4v20l-8 4v4l-4 4h-4v-4l-8 4l-8 4v4h-8v8h-8l-8 8v8h-8l-4 8l-4 8v8h-4v32l4 8v8h4l4 8l8 8v8h8v8h8
+v4h8v4h8l8 4h16v12h4v8h24l4 -8h-4v-8h4v-4h8l8 -4h8v4h8v-4h4l4 8h24l4 -8h-4v-16h4v-16h-4l-8 -4l8 -4v-16h4v-16l-4 -8h-24l-4 8v16l-4 8l-4 8h-12l-4 8l-4 -8h-12v-8h4v-32h-4v-40h4v-8l8 -4h8v-4h8v-4l8 -4h8v-4h8v-4h8v-8l8 -8l8 -8l4 -8h4v-8l4 -8v-32l-4 -8v-8h-4
+l-4 -8v-8h-8v-8h-8l-8 -8l-8 -4v-4h-8v-4h-24v-4h-8v-8h-4v-8h-24z" />
+    <glyph glyph-name="percent" unicode="%" horiz-adv-x="240" 
+d="M160 24v8l4 8h4v8l4 8h4l8 4l-8 4h-4v16h4v8h-4v8l-4 4h-8l-8 -4l-4 -8v-8h-4l-4 -8v-8h-4v-32h4l4 -4h8v-4h8zM128 0v4l-8 4h-8v8l-4 8l-4 8v8q0 1 1 2q1 2 3 2q-2 0 -3 1t-1 3v32h4l4 8v8h4l4 8v8h8l8 8v4h8l8 4h32v-4l8 -4l8 -8l4 -8h4v-24l-4 -8l4 -8v-16h-4v-8h-4
+v-8h-4l-4 -8l-8 -8v-8h-8l-8 -4l-8 -4h-32zM48 180l8 4v8h4v8h4l4 8v8h4v24l-4 8l-4 4h-8l-8 -4v-8h-4l-4 -8v-8h-4l-4 -8v-24l4 -8h4v-4h8zM32 0v8l4 8h4v8l4 8l-4 8l4 8h4v8l8 4v12h4l4 4v12l-4 8h4l4 8h4v8l4 8l4 8h8l-4 8l4 8l4 8h4v16h4l4 8l4 8h4v8l4 8l4 8v8h4l4 8
+l4 8l4 8l-8 -4h-16l-8 4v-8h-1l-3 -4l4 -4v0h-1l-3 -4l4 -4v-16h-4l-4 -8l-4 -8v-8h-4v-8h-8v-8h-8v-4h-8l-8 -4l-4 8l-4 -8h-24v4l-8 4l-8 8l-4 8h-4v48h8v8h-4l4 8l4 8h4v8l8 8h8v8l8 4v-4h8v8h24l8 -4v4h32v-8h24v-4l8 4l8 8v8h8v8h4l4 8h32l-4 -8l-4 -8v-8h-4l-4 -8v-8
+h-4l-4 -8l-4 -8l-4 -8l-4 -8l-4 -8l-4 -8l-4 -8v-16h-8v-16h-8v-8h-4l-4 -8l-4 -8l-4 -8l-4 -8l-4 -8v-8h-4l-4 -8v-8h-4l-4 -8l-4 -8l-4 -8v-8h-4l-4 -8l-4 -8l-4 -8l-4 -8l-4 -8l-4 -8l-4 -8l-4 -8l-4 -8h-16z" />
+    <glyph glyph-name="ampersand" unicode="&#x26;" 
+d="M80 24l4 8h8l8 4v4h8v8h8l8 8v8h8l-4 4l4 4v8l-4 4l4 4l-8 8v8h-8v12l-4 4h-12v8h-8l-8 8v8h-8v12l-4 4h-4v-8l-8 8v-8h-8v-16h-8v-8l-4 -8h-4v-8l-4 -8h-4v-16h4v-8h4v-8h4v-8h4v-8l8 -8h8v-8h8v-4l8 -4l4 -8v0zM72 200l4 8v-1l4 -3l3 4h1l8 4v4h8l4 8v8h-4v8l-8 8l-8 4
+h-8v4h-8v-4l-8 -4v-8h-8v-8h-4v-16l4 -8l8 -8l8 8l4 -8v0zM68 0v4h-8l-8 4h-8v4l-4 4l-4 4v0l-4 4h-4v4l-4 4h-4v4l-4 4l-4 8l-4 8h-4v8l-4 8h4v8h-4v8h4v16h-4v8l4 8v8h4l4 8v8h8v4l4 4l4 4v4h4l4 4v4h4l4 4l2 1l-2 3v8h-8v8h-4l-4 8v8h-4l-4 8v0l4 4l-4 3v25h4l4 8l8 8v8
+h8v4h8v4h8v4h16v-4h8v4h8v-4l8 -4v-4h8v-8h8l8 -8v-8h4l4 -8h-1l-3 -4l4 -4v-24h-4l-4 -8v-8h-5l-3 -4l-4 -4h-1l-3 -4v-4h-5l-3 -4l-8 -4l8 -8h8v-8h8v-8l8 -8h8v-8h16v-8l8 8l8 -4v-4l4 8l4 8v8h8v8h8l8 4v8h16v-4h8l8 -4h8v-4h-4l4 -8v-24h-5l-3 -4l-8 -4h-8v-8h-8l-4 8
+l-4 -8h-8v-8h-4l-4 -8v-8l8 -8v-8h8l8 -8v-8h8v-4h8v-4h8v4h8v4h12l4 4l8 4h4l4 -8v-8l-4 -8v-8h-4v-8h-8l-8 -4v-4h-24l-8 4v4h-8l-8 8l-8 8v8h-8l-8 4l-8 4h-5l-3 -4v-4h-5l-3 -4l-4 -4h4v-4h-8v-4h-5l-3 -4l-4 -4h-1l-3 -4v-4h-8v-4h-16v-4h-8v4h-8v-4h-16z" />
+    <glyph glyph-name="quotesingle" unicode="'" horiz-adv-x="80" 
+d="M-4 260v8l8 4v8h8v8h4l4 8v16h-8v4l-8 4h-4v8h-4v8h-4v8h4l4 8l4 8l8 4v4h16l8 -4l8 -4l4 -8l4 -8l4 -8v-24h-4v-8h-4v-8h-4v-8h-8l-8 -8l-8 -8l-8 -4l-8 -4l-8 -4v0z" />
+    <glyph glyph-name="parenleft" unicode="(" horiz-adv-x="148" 
+d="M100 -68v1l-4 3h-4v5l-4 3h-4v5l-4 3l-4 4v1l-4 3l-4 4v1l-4 3h-4v5l-4 3h-4v5l-4 3l-4 4v1l-4 3h-4v8h-4v8l-4 8h-4v8l-4 8l-4 8h-4v8h-4v8h-4v8l-4 8l-4 8v16h-4v48h4v16h-4v8h4v16h-4v40h4v24h-4v8h4l4 8h4v8l4 8l4 8l4 8l4 8h4l4 4v12l4 8h4v8l4 8l4 4l4 4l4 4l4 4
+l4 4v-4h4l4 4v4h-4l4 4l4 4l4 4l4 4h12v8h8v8h8v4l8 -4v-8l-4 -8h-4v-8h-8v-8l-8 -8h-5l-3 -4v-4l-8 -8l-8 -8l-4 -8l-4 -8h-5l-3 -4v-12l-4 -8h-4v-8l-4 -8l-4 -8l-4 -8v-8h-4v-16h4v-16h-4v-8h4v-8h-4v-8h-4v-32h4v-8h-4v-8h4v-16h-4v-24h4v-32h4v-8h4v-8h8v-8l4 -8h4
+l4 -8l-4 -8l4 -8h4v-8h4v-8l4 -8h8v-8h8v-8l8 -8l8 -8h8v-8l4 -8h4v-16l-8 -4h-8z" />
+    <glyph glyph-name="parenright" unicode=")" horiz-adv-x="156" 
+d="M8 -68l-8 4v8l4 8l4 8l8 8v8h8v8h8l8 8v8h12v16h4l4 8l4 8l4 8v8h4v8h4l4 8l4 8v8h4v8h4v16h-4v8h4v16h-4v24h-4v8h4v8h-4v8h4v24h-4v40h4v16h-4v8l-4 8l-4 8h-4v8h-4v8l-4 8h-4v8h-4v8l-4 8l-4 8h-8v8h-8v8l-8 8l-8 8h-8v8h-4v8l-4 8v8l8 4v-4h8v3l4 -3h12v-8h8v-8h8v-8
+h8v-13l4 -3l4 -4v-1l4 -3l4 -4v-1l4 -3l4 -8h4v-8l4 -8h4v-8h4v-8h-1l-3 -4l4 -4v0h4l4 -8l4 -8h4v-8h4v-8h4v-8h4v-16h-4v-8h4v-24h-4v-8h4v-8h-4v-16h-1l-3 -4l4 -4v0l4 -8v-32h-4v-16h4v-24h-4v-8l-4 -8l-4 -8v-8h-4l-4 -8l-4 -8l-4 -8v-8h-4l-4 -8v-8h-4l-4 -8l-4 -8h-1
+l-3 -4v-4h-5l-3 -4l-4 -4h-1l-3 -4v-4h-5l-3 -4v-4h-5l-3 -4l-4 -4h-1l-3 -4l-4 -4h-1l-3 -4v-4h-5l-3 -4h-8zM16 403l-1 1h1v-1v0z" />
+    <glyph glyph-name="asterisk" unicode="*" horiz-adv-x="176" 
+d="M40 264l-8 8l-8 8l4 8h4v8l4 8h4v8h-24l-4 8l-4 -8l-8 4v24l8 4h8l8 -4h8l8 4l8 -8v8l-8 8h-4l-4 8v8h-4l-4 8l8 8l8 8h12l4 -8l4 -8h4v-8l4 -8l4 -8v8h4l4 8l4 8l4 8v8h16l8 -8l8 -8v-8h-4l-4 -8v-8h-8v-4h16v-4h8v4h8v-4l8 -4v-24l-8 -4l-8 -4l-8 4h-8v-8h4v-16l4 -8
+l-8 -8l-8 -8h-12l-4 8l-4 8h-4v8l-4 8h-8l-4 -8h-8v-8h4l-4 -8l-4 -8h-12z" />
+    <glyph glyph-name="plus" unicode="+" horiz-adv-x="208" 
+d="M76 88l-4 8v16l4 8l-4 8v16l8 4l-8 4v4h-16l-8 4q-2 0 -3 1t-1 3q0 -2 -2 -3q-1 -1 -2 -1h-16l-8 -4h-8l-8 4v8v0l4 4l-4 3v5l8 4v4h8v-4h16v4h8v-4h8v4h16v4h4v8h4v16h4v8h-8l4 8v8l4 8h24l4 -8v-8h4v-8h-4v-8h4v-28h4v-4h16v4h16v-4h8v4h8v-4h8l8 -4v-20l-8 -4h-8v4h-8
+v-4h-24v4h-16v-4h-8v-4h4v-8h-4v-8h4v-8h-4v-8h4v-16h-4v-8l-4 -8h-12l-4 8l-4 -8h-4z" />
+    <glyph glyph-name="comma" unicode="," horiz-adv-x="88" 
+d="M0 -52v8l8 4l8 8h8v8h-4l4 8v16l-8 4v4h-8l-4 8l-4 8v8l4 8h4v8l8 4l8 4h16v-4l8 -4l4 -8h4v-8l4 -8v-8h4v-8h-4l-4 -8v-8h-4l-4 -8l-8 -8l-8 -8v-8h-8l-8 -4v-4h-8l-8 -4v0z" />
+    <glyph glyph-name="hyphen" unicode="-" horiz-adv-x="208" 
+d="M8 156l-8 4v8l8 4l-8 4v4l8 4h40q1 0 2 -2q2 -1 2 -2q0 1 1 2q1 2 3 2h88v-1l4 -3l3 4h1l4 -8l4 8h8l8 -4v-20l-8 -4h-8l-8 4l-8 -4h-32l-8 4l-8 4l-8 4h-8v-4l-8 -4v-4h-40v4h-16v-4h-8z" />
+    <glyph glyph-name="period" unicode="." horiz-adv-x="96" 
+d="M40 -8v8h8v-8h-8zM-8 8v8h8v-8h-8zM16 -8v8h-8v8l-8 8v4h-8v4h-8v8h8v8h8v8h8v4h8v8h8v-4h8l8 -4v4h16v-4h-8v-4h16v-8h-12l4 -8h8v-8h-8l8 -8v-8h-8v-8h-8v4h-8l-8 -4h-8v-8h-8zM32 56v8h8v-8h-8z" />
+    <glyph glyph-name="slash" unicode="/" horiz-adv-x="216" 
+d="M4 0l-4 8l4 8v8h4v8h4l4 8l4 8v8h4l4 8v8h4v8h4l4 8l4 8v8h4l4 8l4 8v8h4l4 8l4 8l4 8h4v8l4 8l4 8v8h4l4 8v8h4l4 8l4 8v8h4v8h4l4 8l4 8h4v8l4 8l4 8h4v8h4v8l4 8h4v8l4 8h4v8l4 8h4v4l8 4v-1l4 -3l3 4h9l4 -8l-4 -8l-4 -8h-12l4 -8l-4 -8v-8l-4 -8l-4 -8h-5l-3 -4v-12
+l-4 -8h-4v-8l-4 -8l-4 -8l-4 -8h-4v-8l-4 -8l-4 -8v-16l-8 -4v-12h-4l-4 -8h-4l-4 -8l-4 -8h-4v-8l-4 -8v-8h-4v-8h-4l-4 -8l-4 -8h-4v-8l-4 -8h-4v-8l-4 -8v-8h-4v-8h-4l-4 -8l-4 -8h-4v-8l-4 -8h-1l-3 -4l-4 -4h-4l-4 8l-4 -8h-8z" />
+    <glyph glyph-name="zero" unicode="0" horiz-adv-x="268" 
+d="M64 51l-1 1h1v-1v0zM108 12l3 4h1l4 8h4l4 -8l4 8l8 4v-4h8v8l8 4l8 4h8v4l4 4l4 4l4 4h4v4l4 4l4 8h8v8l4 8h4v16l4 8v32h4v24h-4v32h4v16h-4v8l-4 8h-4v8h-4v8l-4 8h-4v8h-4v8l-4 4v0l-4 4h-4v4l-4 4l-4 4h-8v4h-8v4l-8 4h-8v4h-8v4h-16l-8 -4v-4h-8l-8 -8v-8h-4v-8
+l-4 -8l-8 -4v-4h-4l-4 -8v-8h-8l-8 -4v-4h-4l-4 -8v-8l-4 -8h-4v-4l-4 -4v-8h4v-8h-4v-8h8v-8h-4v-8h4v-16h-4v-8h4v-16h-8v-8h4v-16l4 -8l4 -8v-8l4 -8h4l4 -8l4 -4v-9l4 -3h4v3l4 -3l4 -4v-4h8l8 -4v-4h4l4 -4v-1l4 -3l4 -8v-1l4 -3v0zM96 -4l-8 4h-8v4h-8v4l-8 4l-8 4h-8
+v8h-8v8h-8v8l-8 8l-4 8h-4v-4l-4 4l-4 8v16l-4 8v8h-4l-4 8v8h-4v40l4 8v16l-4 8v24h4v8h-4v16h4l4 8l4 8v8h4l4 8l4 8v8h4v8h4l8 8l8 8v8h8v8h8l8 4l8 4v4h8v4h8l8 4h8l8 -4l8 4h16l8 -4l8 -4l8 -4h8l8 -4l8 -4h8v-8l8 -8h8v-8h8v-8l4 -8l4 -8l4 -8h4v-8l4 -8h4v-8l4 -8v-8
+h-4v-32h4v-56h-4v-16h4v-16l-4 -8v-8h-4v-8h-4v-8h-4l-4 -8l-4 -8l-4 -8v-8h-8l-8 -8v-8h-8v-8h-8l-8 -4v-4h-8v-4h-8l-8 -4v-4h-56z" />
+    <glyph glyph-name="one" unicode="1" horiz-adv-x="208" 
+d="M64 -4v4h-56v4l8 4l8 4l4 4h8l4 4l8 4v4h8v4h8v24h4v16h4v24h-4v72h4v16h-4v8h4v24h-4v16h8v8h-4v24h4v8h-4v8h-4v8h-4v4h-8l-8 -4h-8v-4l-8 -4h-8v-4l-8 -4l-4 8l-4 -8l-4 8l-4 8l4 8h12v8l8 4l8 4h8v4l8 4l8 4v-4h4l4 4v4l8 4l8 4q1 0 2 -2q2 -1 2 -2q0 1 1 2q1 2 3 2
+h8q3 0 5 -3q3 -2 3 -5h4v-16h-4v-8h4v-8h-4v-16h4v-8h-4v-40h4v-80h-4v-8h4v-48h-4v-32h4v-8h-4v-8h4v-8h-4v-12h16v-4h8v4h8v-4h16v4h16l8 -4v-8h-1l-3 -4l4 -4v-4l-8 -4h-8v-4h-8v8h-16v-8h-8v4h-8v-4h-16v4h-16v-4h-24z" />
+    <glyph glyph-name="two" unicode="2" horiz-adv-x="264" 
+d="M0 -4v28h8v8h-4l4 8l4 8h4v4l4 4h4l4 8h4v4l-8 4l4 8l4 8v8h8v4l4 4h4l8 8v4l4 4h4v8h8v8h8l8 8l8 8l8 4v4h8l8 4v4h8v4h8v4h8l8 4l8 4l8 4v4h8v8h8l8 8v8h4l4 8l-4 8v24h-4v8l-4 8h-12v8l-8 4v0l-4 4h-4v8l-8 4h-8l-8 4l-8 4l-8 4h-16l-8 -4l-8 -4l-8 -4v-4h-8v-8h-8
+l-8 -8l-4 -8l-4 -8v-8h-4l-4 -8l-4 -8l-4 -8h-20l4 8v8h8v8l-4 8l4 8v8l7 3v1h1v-1l4 -3h4v12l4 4h8l4 4v12h4l4 4v4h8v8l7 3v1h1v-1l4 -3h12l8 8h8l8 4h24l8 -4h8v-4h8v-4h8v-4l8 -4l8 -8l8 -8h8v-8h8v-8l4 -8l4 -8h4v-8h4v-8l-8 -4l8 -4v-24l-4 -8l-4 -8l-4 -8l-4 -8v-8
+h-5l-3 -4v-4h-5l-3 -4v-4h-5l-3 -4l-8 -4l-8 -4l-8 -4l-8 -4v-4h-8l-8 -4v4h-5l-3 -4v-4l-8 -4l-8 -4h-8v-4l-4 -4h-4v-4l-4 -4h-9l-3 -4v-8l-4 -4h-1l-3 -4l-4 -4h-1l-3 -4v-4h-4l-4 -8v-8h-4l-4 -8l4 -8h-1l-3 -4v-4l4 -8l4 -8v-1l4 -3l3 4h49v4h56v-4h16q1 0 2 -2
+q2 -1 2 -2q0 1 1 2q1 2 3 2l8 4h16l8 -4v-8h-1l-3 -4l4 -4v-4l-8 -4h-16v-4h-16v4h-8v-4h-8v4h-16v4h-8v-4h-8v4h-8v-4h-8v4h-16v-4h-8v4h-8v-4h-8v-4h-24v4h-8v-4h-16v4h-32v-4h-8z" />
+    <glyph glyph-name="three" unicode="3" horiz-adv-x="260" 
+d="M44 -64l-8 4v4l8 4l-8 4v8l8 4h8l8 -4l8 4h24v4h8v4h8v4h8l8 4l8 4v4h8l8 4l8 4l4 4l4 4v4h4l4 4l4 4v8h4v8h4l4 8v40h-4l-4 8v12l-4 4h-4v12l-4 4h-4v4l-8 4l-8 4l-8 4h-8v4l-8 4h-8v4h-8v-4h-16v4l-8 4v20l8 4v4h8v-4h8v4h8l8 4l8 4v4h8l8 4v4h8v8h4l4 8v20l4 4l4 8v8
+l-8 8l-4 8h-4v8l-8 8l-4 8h-4v4l-8 4l-8 4l-8 4h-16q-2 0 -3 1t-1 3q0 -2 -2 -3q-1 -1 -2 -1l-8 -4l-8 -4h-8v-4l-8 -4l-8 -4v-4h-5l-3 -4l-4 -4h-4v-8h-4l-4 -8h-8l-8 4v4h-8l-4 8h4v8l8 8h8v8l8 8l8 8h8v4l8 4h8v4l8 4h8v4h8v-4h8v4h24v-4h24v-4l8 -4h16v-4l8 -4l8 -8
+l8 -8h8v-8h8v-8h4v-8h4v-8h4v-8l4 -8v-16h-1l-3 -4l4 -4v0l-4 -8l-4 -8l-4 -8v-8h-4l-4 -8h-1l-3 -4l-4 -4h-1l-3 -4v-12h-4v-8h-4v-8l8 -8l8 -8l8 -8l8 -8l4 -8l4 -8l4 -8l4 -8v-8l-8 -4l8 -4l-4 -8l4 -8v-8l-4 -8h-4l-8 -4v-4l4 -8l-4 -8l-4 -8l-4 -8h-5l-3 -4v-8l-4 -4
+h-1l-3 -4l-4 -4h-1l-3 -4l-8 -4h-8v4h-8l-8 4h-5l-3 -4l-4 -4v-8l-4 -8v-4l-8 -4l-8 -4l-8 -4h-64z" />
+    <glyph glyph-name="four" unicode="4" horiz-adv-x="260" 
+d="M156 0q-4 0 -6 2t-2 6v16h-4v32h4v12h-32v-4h-32v4h-8v-4h-16v4h-8v-4h-8v4h-16v-4h-8v4h-8v-4h-8l-4 8l4 8l4 8h4v8l4 8h4v8l4 8l4 8l4 8h4v8h8v8h-4l4 8v8h4v24h-4v8h4v16h-4v8h4v8h-4v8h4v16h-4v24h4v8h-4v8l-4 4l4 4l-4 8h-4v8h-4v8h-4v8l-4 8l-4 8h-4v8h-4v8l-4 8
+l4 4l4 4h20l8 -8v-16h8l4 -8l4 -8v-8h4l4 -8v-8h4l4 -8v-8h4v-24h-4v-16h-4v-16h4v-8h-4v-16h4v-8h-4v-16h4v-8h4v-16h-4v-24l-4 -8l-4 -8h-8v-8h4l-4 -8l-4 -8h-4v-8l8 -8l4 -8h12v4h16v-4h16v4h24l8 4l4 8v24h4v16h-4v24h4v8h-4v40h4v8h-4v8h4v8q0 3 2 5q2 3 6 3h16
+q3 0 5 -3q3 -2 3 -5h4v-24h-4v-24h4v-8h-4v-8h4v-8h-4v-16h4v-24h-4v-24h4v-8h-4v-4h16v-4h8v4h16v-4h8v-20h-24v-8h-16v4h-8l-4 -8v-8l-4 -8l-8 -8l8 -8v-5l4 -3l4 -4v-4q0 -4 -3 -6q-2 -2 -5 -2h-16z" />
+    <glyph glyph-name="five" unicode="5" horiz-adv-x="244" 
+d="M12 -48l-8 4v4l8 8v8h8l8 4v4h8l8 4l8 4l8 4v4h8l8 4v4h8l8 4l8 4h4l4 4v4l8 8h4l4 4v4l8 8v8h8l8 8h4l4 4v12l4 8h4v8l4 8l4 8v24l-4 8h-4v4l-8 -4l-8 4l-8 4h-8v8l-8 -4l-8 4h-4l-4 4v4h-4l-4 8l-8 4v0l-4 4h-4v-4l-4 -4h-4l-8 4l-8 4h-8l-8 -8l-8 4l-8 -4h-28v8h-4
+l-4 8l4 8v8h4v16h-4v8h4v8h-4v16h-4v8h4v8l-4 8v24h4v8h-4v8h4v8q0 3 2 5q2 3 6 3h8v-4h8v4h16v-4h16v4h8v-4h8v4h8v-4h8v4h16v-4h16v4l4 -8l4 8l8 -4v-1l4 -3l4 -8l4 8l4 4v4l8 -4h8v4h8v-4h16v4h8l8 -4v-20l-8 -4h-16v4h-16v-4h-32v4h-8v-4h-32v4h-24v0l-4 4l-4 -4h-8v-4
+h-24v-4h-4v-40h4v-8h4v-16h-8v-16h4v-12l8 4l8 4h16l8 -4h16l8 4h32v-4h8v-4l8 -4l8 -4h8v-4h8v-8h8v-8l8 -8l8 -8h4v-8h4v-8l4 -8l4 -8l8 -4l-8 -4l-8 -4l8 -4v-8l-4 -8v-8h-4v-8h-4l-4 -8l-4 -8l-4 -8v-8h-4v-8h-4v-8h-5l-3 -4l-4 -4h-1l-3 -4v-4h-5l-3 -4v-4h-5l-3 -4v-4
+h-5l-3 -4l-4 -4h-1l-3 -4l-4 -4h-1l-3 -4v-4h-8l-8 -4l-8 -4v-4h-8v-4h-8l-8 -4v-4h-8v-4h-8l-8 -4v1l-4 3l-4 -4v0v1l-4 3l-4 -4h-16z" />
+    <glyph glyph-name="six" unicode="6" horiz-adv-x="260" 
+d="M120 16l4 8h8v4h8l8 4h8v4l4 4l4 4l4 4h4v4l4 4h12v12l4 4h4v8l8 4v20h-4v16h4v16h-4v8l-4 8v8h-4l-4 4v0l-4 4l-4 4v4h-8v4l-4 4l-4 4v0l-4 4h-4v4l-8 4h-8v4l-8 4h-40l-8 -4v-4h-8l-8 -4v-4h-5l-3 -4v-4h-5l-3 -4l-4 -4h-1l-3 -4l-4 -4h-1l-3 -4v-4h-4l-4 -8l-4 -8v-8
+h4v-16h-4v-8h4v-8h-4v-8h4v-16l4 -8h4v-5l4 -3h4v-5l4 -3h4v-5l4 -3l4 -4v-1l4 -3l4 -4h8v-4h8v-4l8 -4h16v-1l4 -3l3 4h1l4 -8v0zM84 -4l-8 4l-8 4l-8 4l-8 4v4h-8l-8 8v8h-8l-8 8v8h-8v8h-4l-4 8v8h-4l-4 8l-4 8h4v16h-4v24h4v24q0 1 1 2q1 2 3 2q-2 0 -3 1t-1 3v16v0l4 4
+l-4 3v9h-4v8l4 8v8h4v8h4v8h4l4 8l4 8l4 8v8h4l4 8v8h4v8h4v8h8l8 8l8 8l8 8v8h8l8 8v8h8v4h8v4h8l8 4l8 4l8 4v4h8v4h8l8 4h8v4l8 4h8q3 0 5 -3q3 -2 3 -5l-8 -4l8 -4l-4 -8h-4v-4l-8 -4l-8 -4v-4l-8 -4l-8 4h-5l-3 -4v-4l-8 -4l-8 -4h-8v-4l-8 -4l-8 -8v-8h-8l-8 -8v-8h-4
+v-8h-4l-4 -8h-1l-3 -4l-4 -4v-8h-4v-4l8 -4h8v-8l8 -4v4h8v-4h8v4h24v-4h16v-4h16v-4l8 -4l8 -4v-4h8v-8h8l8 -8l8 -8v-8h8l4 -8l4 -8v-8h4l4 -8v-8h4v-8h-4v-32h4v-8h4v-8h-4l-4 -8l-4 -8h-4v-8l-4 -8l-4 -8h-8v-8l-8 -8h-8v-8h-8v-8l-8 -4l-8 -4h-8v-4l-8 -4l-8 -4h-8v4
+h-24v-4h-16v4h-8v-4v0z" />
+    <glyph glyph-name="seven" unicode="7" horiz-adv-x="272" 
+d="M104 -48q-4 0 -6 3q-2 2 -2 5v24h-4v56h4v16h-4v16h4v8h-4v8h4v8h-4v8h4v32l8 4l-8 4l-4 4l4 4v8h4v8h4v8h4l4 8l4 8l4 8v8h4l4 8l4 8v8h4l4 8l4 8v8h4v8h4v8h4l4 4v4h4l4 4v12h-8v8h-16v4h-16v-4h-24v4h-8v-4h-40v4h-32v-4h-8v4h-8l-8 4v20l8 4v4h8v-4h8v4h8v-4h16v4h24
+v-4h24v4h8v-4h8v4h48v-4h8v4h16v-4h8v4h8v-4h8v4h16v-4h8v-5l4 -3h4v-8l-8 -8l-8 -8l-8 -8l-8 -8v-8h-8v-8h-8l-8 -8v-8h-4l-4 -8l-4 -8l-4 -8l-4 -8v-8h-4v-8h-4l-4 -8l-4 -8v-8h-4v-8h-4l-4 -8v-8h-4l-4 -8v-8h4v-8h-4v-32h4v-8h-4v-8h4v-16h-4v-8h4v-8h-4v-8h4v-8h-4v-8
+h4v-8h-4v-8h4v-48h-4v-8l-4 -8h-4l-4 8l-4 -8h-8z" />
+    <glyph glyph-name="eight" unicode="8" horiz-adv-x="260" 
+d="M124 16l4 8h24l8 4v4l8 8l8 8h8v8h8v8l4 8h4v8l4 8v8l4 8h4v8h4v16h-8v8h-4v8h4v8h-4l-4 8l-4 8h-4v8h-8v8l-8 8l-8 8h-8v8l-8 4l-8 4l-4 -8l-4 8h-16l-4 -4l-4 4h-8v-4l-8 -4h-8v-4l-4 -4l-4 -8l-8 -4v-4h-8l-4 -8v-8l4 -8l-4 -8h-1l-3 -4v-4h-4l-4 -8v-8h-8l-8 -4
+l-4 -4v-8h4v-16h-4v-8h4v-8l4 -8h4v-8l8 -8h8v-8h8v-8l8 -8h8v-4l8 -4h8l4 -8l4 8h16l4 -8v0zM136 240v4l8 4h8v8l8 8h8v8h8v16h-4v24h4v8h-4v8l-4 8l-8 8v8h-8l-8 4h-24v4h-8v-4h-8v4h-8v-4h-8l-8 -4v-8h-8v-8h-8l-4 -8v-8h4v-8h-4v-8h4v-8l8 -8l4 -8h4v-5l4 -3h4v-8l4 -8
+h4v-8l8 -4h8v-4h8v4h8v-4h8zM88 -4l-8 4l-8 4l-8 4h-8v4l-8 4h-8v8l-8 8h-8v8l-8 8l-4 8l-4 8l-4 8h-4v8l-4 8v8h4v8h-4v16h-4v16h4v8h-4v8h4l4 8l4 8l4 8v8h4l4 8l8 8v8h8v8h8l8 8l-4 4l4 4v8h-8v24l-4 8l-4 8h-4v16h4v16h-4v8h4v16h4l4 8l4 8l4 8v8h8l8 8v4h8v4h8l8 4h8
+v-4h8v4h8v-4h24v4h8l8 -4l8 -4l8 -4l8 -8v-8h8l4 -8l4 -8v-8h4l4 -8q0 -2 -2 -3q-1 -1 -2 -1q1 0 2 -2q2 -1 2 -2v-8l-8 -4l8 -4v-24l-4 -8l-4 -8l-4 -8v-8h-4l-8 -8l-8 -8l8 -4l8 -4v-8h8v-8h8l8 -8l8 -8l4 -8h4v-16h4l4 -8l4 -8v-8h-4v-24h4v-8h-4v-8l4 -8v-8l-4 -8l-4 -8
+h-4v-8l-4 -8h-4v-8h-5l-3 -4v-4l-8 -8l-8 -8h-8v-8l-8 -4v4h-5l-3 -4v-4l-8 -4l-8 -4l-8 -4h-8v4l-4 4l-4 -4h-8v-4h-16v4h-8v-4h-8z" />
+    <glyph glyph-name="nine" unicode="9" horiz-adv-x="256" 
+d="M132 128l8 4l8 4h8v4l4 4l4 4v-4h4l4 4v4h-4l4 4v4h4l4 4v4h4l4 4l4 4h4v8l4 8v56h-4v8l-4 8h-4v4l-4 4h-4v4l-4 4l-4 4v0l-4 4l-4 4v0l-4 4h-4v4l-8 4l-8 4l-8 4h-40l-8 -4v-4h-8l-8 -4l-4 -4h-1l-3 -4v-4h-5l-3 -4l-4 -4h-1l-3 -4v-4h-5l-3 -4v-12l-8 -4v-4l-4 -8l4 -8
+l-4 -8v-24l4 -8v-16h4l4 -4v-1l4 -3h4v-5l4 -3l4 -4v-1l4 -3h4v-8h8v-4l8 -4h8v-4h8v-4h8l4 4l4 -4h8l8 4l8 -4v0zM36 -48l-8 4v4l8 4l-8 4v8l8 4h24v4h8v4h8l8 4v4h8v4h8l8 4l8 4h8v4l4 4l4 4v4h4l4 4l4 4l4 4v4h4l4 4l4 4h4v8h4l4 8l4 8h4v8l4 8l4 8v8h-8v8h-8v4l-8 -4v-4
+h-8l-8 -4v-4h-8v4h-16v-4h-16v4h-8v-4h-16l-8 4h-8v4l-8 4h-8v4h-8v4l-8 8l-8 8h-8v8h-8v8l-4 8l-4 8l-4 8h-4v8l-4 8v8h4v8h-4v16h4v16h-4v8l4 8l4 8l4 8v8h4l4 8v8h8l8 8l8 8h8v8h8v4l8 4h8v4l8 4l8 4v-4h8v4h16v-4h16v4h16v-4h8v-8h8v4l8 -4v-4l8 -4h4l4 -8v-8l8 -8h12
+l-4 -8v-8l8 4l8 -4v-29l4 -3h4v-24l-4 -8l4 -8q0 -2 -2 -3q-1 -1 -2 -1q1 0 2 -2q2 -1 2 -2v-8l8 -8l-8 -4l8 -4v-8l4 -8v-16h-4v-8h4v-16l-4 -8h-8v-16l-4 -8h-4v-8l-4 -8l-4 -8l-4 -8h-4v-8l-4 -8h-1l-3 -4v4h-8v-12l-4 -4h-1l-3 -4l-4 -4h-4v-4l-4 -4h-4v-4l-4 -4h-1
+l-3 -4l-4 -4h-1l-3 -4v-4h-8l-8 -4l-8 -4v-4h-8v-4h-8l-8 -4v-4h-8v-4h-8l-8 -4l-8 4h-8l-8 -4h-8z" />
+    <glyph glyph-name="colon" unicode=":" horiz-adv-x="96" 
+d="M16 -8v12l-8 4l-4 8l-4 8v16h4l4 8h8v4l8 4h8l8 -4v-4h8v-8h4l4 -8l-4 -8h-4l4 -8l-4 -8h-8v-4l-8 -4v-4h-8v-4h-8zM24 144l-8 4l-8 4l-4 8l-4 8v16h4l4 8l8 4v4h16l8 8l8 -4l8 -4l4 -8h4v-8l-4 -8l-4 -8v-8h-4l-4 -8l-8 -4v-4h-16z" />
+    <glyph glyph-name="semicolon" unicode=";" horiz-adv-x="88" 
+d="M0 -52v8l8 4l8 8l4 8v8h4v8h-4v8h-4v4l-8 4l-4 8h-4v24h4l4 8v4h8l8 4v4h8v-4h8v-4l8 -4l4 -8h4v-8l4 -8v-8l4 -8l-4 -8h-4v-8h-4v-8h-4v-8h-8l-8 -8v-8h-8v-4h-8v-4h-8l-8 -4v0zM24 144l-8 4v4h-8l-4 8l-4 8v8l4 8h4v8l8 4v-4h12l4 -4l8 -4h8v-8h8v-8l-4 -8h-4v-8h-8v-4
+l-8 -4h-8z" />
+    <glyph glyph-name="less" unicode="&#x3c;" horiz-adv-x="204" 
+d="M164 84l-8 4l-8 4v4h-8l-8 4l-8 4v4l-4 4h-12l-8 4l-8 4v8l-8 8h-16q-2 0 -3 1t-1 3q0 -2 -2 -3q-1 -1 -2 -1l-8 4v4h-8l-8 4l-8 4v4l-4 4h-12l-8 4v0l-4 4l4 4l8 4l8 4v4h8v4h8l8 4v4h8l8 4l8 4v4h8l8 4l8 4v4h8l8 4l8 4v4h8v4h8v4h8l8 4v4h8l8 4l8 -4v-16q0 -2 -2 -3
+q-1 -1 -2 -1q1 0 2 -2q2 -1 2 -2l-8 -4v-4h-8l-8 -4v-4h-8l-8 -4l-8 -4l-8 -4v-4h-8l-8 -4l-8 -4l-8 -4v-4h-8l4 -8v-8l4 -4v-4h8l8 -4v-4h8l8 -4l8 -4l8 -4l8 -4l8 -4v-4h8l8 -4l8 -4v-8l-8 -4l8 -4v-8l-8 -4v0z" />
+    <glyph glyph-name="equal" unicode="=" horiz-adv-x="208" 
+d="M24 120v8h-8v4h-8l-8 4v20l8 4h8v4h8v-4h16v4h40v-4h8v4h8v-4h16v4h8v-8h40v4h8l8 -4v-20l-8 -4h-72v-4h-24v4h-32v-4h-8v-8h-8zM8 188l-8 4v20l8 4h8v-4h64v4h24v-4h8v4h8v-4h16v4h8v-4h8v4h16l8 -4v-20l-8 -4h-48v4h-8v-4h-8v4h-8v-4h-16v4h-24v-4h-24v4h-8v-4h-16z
+" />
+    <glyph glyph-name="greater" unicode="&#x3e;" horiz-adv-x="196" 
+d="M8 84l-8 4v24h8v4l8 4v4h8l8 4h8v4l8 4v4h8v4h8l8 4v4h8l8 4l8 4v8h-8v8h-8v8l-8 4l-8 4h-8v4l-8 4h-8v4l-8 4l-8 4h-8v4h-8v4l-8 4v16h8l8 -4l8 -4l8 -8l8 4l8 -4h4l4 -4v-1l4 -3l4 -8l8 -4l8 4h8l4 -8l4 8l8 -4l8 -4v-5l4 -3h12l8 -4h8v-4l8 -4v-4h8l8 -4v-1l3 -3h1h-1
+l-3 -4v-4h-8l-8 -4l-8 -4v-4h-8v-4h-8l-8 -4l-8 -4l-8 -4v-4h-8l-8 -4v-4h-8v-4h-8l-8 -4l-8 -4v-4h-8l-8 -4l-8 -4h-8v-4l-8 -4v-4h-8z" />
+    <glyph glyph-name="question" unicode="?" horiz-adv-x="216" 
+d="M80 0l-8 4l-8 4l-4 8h4v8h-8v8l4 8h4v8h8v4l8 4h8l8 -4v-4h8l4 -8l4 -8v-8h-8v-16l-8 -4v4h-8v-8h-8zM76 80l-4 8h-4v24h4v8h-4v8h4v8h-4v16h4v8l4 8l4 4v4h4l4 4v4h8v4l8 4l8 4v4h8v8h8l8 8h8v8l4 8h4v8l8 4l-8 4v16q0 1 1 2q1 2 3 2q-2 0 -3 1t-1 3h-4l-4 8v8h-8l-8 8
+l-8 8l-8 4l-8 4h-8l-8 -4l-8 4l-8 -4l-8 -4v-8h-8v-24h-4l-4 -8l-8 -4l-8 -4h-8l-8 4l-8 4l-4 8l-4 8v16h4l4 8v8h8l8 8l8 4v4h8v4h8v4h8l8 4h8v-4h16v4h16v-4h16v-5l4 -3h12l8 -4l8 -4v-8h8l8 -8l4 -8l4 -8v-8h4l4 -8v-12l-4 -4h-4v-8h4l4 -4v-12l-4 -8l-4 -8v-8h-4l-4 -8
+v-8h-8l-8 -8l-8 -4v-4h-8v-4h-8v-4h-8l-8 -8v-8h-4v-24h-4v-8h4v-8h-4v-8h4v-16h-4l-4 -8h-24z" />
+    <glyph glyph-name="at" unicode="@" horiz-adv-x="260" 
+d="M112 116v4h8l4 8l4 8v8h4l4 8v32h-8v8h4l-4 4h-8l-8 -4l-4 -8l-4 -8v-8h-4l-4 -8v-32l4 -8h4v-4h8zM112 -4v4h-32l-8 4l-8 4l-8 4l-8 4l-8 8l-8 8l-8 8l-8 8v0l4 4l-4 3v17v0l4 4l-4 3v1l-4 8l-4 8v32l8 4l-8 4v8l4 8l-4 8v16l-8 8l4 8l4 8l4 8h4v8l4 8l4 8v8h4l4 8v8h8
+l8 8v8h8v8h8l8 4l8 4l8 4v4h8l8 4l8 4h40l8 -4l8 -4h8v-4l8 -4l8 -8h8v-8h8v-8h8v-8l4 -8l4 -8l4 -8h4v-16h4v-8h-4v-8h4v-16h-4v-8h4v-16h-4v-8h4v-32h-4v-8l-4 -8h-1l-3 -4v-4h-5l-3 -4v-4h-8l-8 -4v-4h-8v4h-16l-8 4h-8v4l-4 4h-4v4l-4 4l-2 2l-2 -2v-8h-8l-8 -4l-8 -4
+h-32v4l-8 4l-8 8l-4 8h-4v56h8v16l4 8h4v8l8 8v8h8l8 4l8 4h32v-4l8 -4h8v-8l4 -8l4 -8v-40l4 -8h4v-8h8l8 -8h4l4 4v4h-4v8h4v24h-4v24h4v24l-4 8h-4v8l-4 8l-4 8v8h-8l-8 8l-8 4v4h-8l-8 4h-24v-4h-8l-8 -4l-8 -4l-8 -4v-4h-5l-3 -4l-4 -4h-1l-3 -4v-4h-5l-3 -4v-4h-4
+l-4 -8l-4 -8l-4 -8v-8h-4l-4 -8l-4 -8l-4 -8q0 -2 -2 -3q-1 -1 -2 -1q1 0 2 -2q2 -1 2 -2q0 -2 -2 -3q-1 -1 -2 -1q1 0 2 -2q2 -1 2 -2v-32l4 -8v-8l-4 -8v-16l4 -8l4 -8v-8h4l4 -8l8 -8v-8h8v-8h16l8 -4h8v-4h16v4h8v-4h16v4h16v-4h8v8l8 4l8 4h8v4l8 4h16v-8h-8v-8h8v-8
+l-8 -4l-8 -4l-8 -4l-8 -4l-8 -8v-4h-16v4h-8v-4h-32z" />
+    <glyph glyph-name="A" unicode="A" horiz-adv-x="432" 
+d="M208 96l8 4l4 4h28l4 8l4 4l8 4v12l4 4l-4 8l-4 8l-4 8l-4 8l-4 8l-8 4v0l-4 4l-4 8v8l-4 8v8l-4 8q-4 0 -6 2t-2 6v8l-4 8l-4 8v-4l-8 -4h-8l-8 -8l-4 -8l-4 -8l-4 -8l-4 -8v-8l-4 -8l-4 -8l-4 -8v-8l-4 -8l-8 -8l-4 -8l-4 -8l-8 -8l-4 -8l4 -8q0 -4 2 -6t6 -2h24l8 4
+l8 -4l8 -4h8l8 -4h8zM16 0l8 8l4 8h4v8l4 8h4l4 8l4 8l4 8l4 8l4 8l4 8l4 8l4 8l4 8v8l4 8l4 8l4 4l4 4l4 8l4 8l4 8l4 8h4l8 8v16l4 8l4 8l4 8l4 8v8l4 8l4 8v8l8 8q3 0 5 2q3 2 3 6l4 8l4 8v8l4 8l4 8l8 8l4 8l4 4l8 4l8 -4v-1l4 -3h4l4 -8v-8l4 -8l4 -8l4 -4v-4l4 -8
+l4 -8l4 -8l4 -8l4 -8l4 -8l4 -8l4 -8l4 -8l4 -4v-1l4 -3l4 -8v-8l4 -8l4 -8l4 -8l4 -8l4 -8l4 -8l4 -8l4 -8l4 -8l4 -8l4 -8l4 -8l4 -8l4 -8l8 -8l8 -8l4 -8l4 -4v-1l4 -3l4 -8l8 -8h16l8 -4v-24l-8 -4h-24v4l-8 4l-8 -8h-56l-8 4v24l8 4h8l8 8l-8 4v0l-4 4l-4 8v8l-8 4
+l-8 4h-8l-8 -4q0 -2 -2 -3q-1 -1 -2 -1h-8l-4 4l-8 4h-125l-3 -4l-8 -4l-8 -8l-8 -8l-4 -8l4 -8h16l8 -4v-4l-8 -4l8 -4v-12l-8 -4h-88z" />
+    <glyph glyph-name="B" unicode="B" 
+d="M180 32l4 4l8 4h16l8 4l4 4l4 4l4 4l4 8v8l4 8l4 4v12l-4 8l-4 8l-4 8l-4 4v0l-4 4l-4 4v0l-4 4h4q0 3 -3 5q-2 3 -5 3q0 3 -3 5q-2 3 -5 3h-8v-4l-8 4l-8 4l-8 4h-48l-8 -4l-4 -4h-1l-3 -4l-8 -4l-4 -8h-1l-3 -4v-20l-4 -8v-8l4 -8v-24l4 -8l4 -4l8 -4l8 -8l4 -8h64z
+M168 192l8 4l8 4l8 4l4 4l4 4l4 4l4 4l4 4l4 8l4 8l4 8v8l-4 8l-4 8l-4 8l-4 4v0l-4 4l-4 4l-8 4l-8 4l-8 4h-68l-4 -8l-8 -8l-4 -8h-1l-3 -4v-20l4 -8l-4 -8v-24l4 -8l4 -8l8 -8h64zM8 0l-8 4v24l8 4l8 -4h8l8 4h8q3 0 5 2q3 2 3 6v8l8 4v4l-8 8v8l4 8v8l4 8l-4 8l-4 4v28
+l8 8v8l4 8l4 8v16l-4 8v16l4 8v4l-4 4v8l-4 8l-4 8l-4 8v20l4 4l-4 4v0l-4 4l-4 8l-8 8h-24l-8 4v12l8 4h8l8 4l8 4l8 4h136l8 -8l8 -4l8 4h8l8 -4l8 -4l8 -8l8 -8l8 -8l4 -8v-8l-4 -8v-8l8 -8l4 -8v-16l-4 -8l-4 -8l-4 -8l-8 -8l-8 -8l-8 -8l-8 -4l-8 -4l8 -4l8 -4l8 -4
+l8 -4l8 -8l8 -8l8 -8l4 -8l4 -8l4 -8v-48l-4 -8l-4 -8l-4 -8l-4 -8v-8h-1l-3 -4l-8 -4l-8 -4h-8l-8 -4l-8 -4l-8 -4h-56l-8 8h-8l-8 -4h-16l-8 -4h-96z" />
+    <glyph glyph-name="C" unicode="C" horiz-adv-x="288" 
+d="M100 -4l-8 4l-8 8h-8l-8 4l-8 4l-8 8l-8 8l-8 8l-8 8l-4 8l-4 8l-4 8l-4 8l-4 8v8l4 8l-8 8l-4 8v112l4 8l4 8l4 8v8l4 8v8l4 8l8 8l8 4l8 4l8 8l8 8l8 4l8 4l8 4l8 4l8 4h16l8 -4h24l8 4h16l8 -4l8 -4h8l8 -4h8l8 4l4 4h36l4 -8v-16l-4 -8v-8l4 -8v-16l-4 -8l-4 -8v-8
+l4 -4v-8l-8 -4l-4 -8v-8l-4 -8h-16l-4 8v24l-4 8l-4 8l-4 8l-4 8h-4l-8 8v4l-4 4l-4 4l-8 4h-8l-8 4v0l-4 4l-4 4h-40l-8 -4l-8 -4l-8 -4v-4l-4 -4l-4 -8l-8 -4l-8 -4l-4 -8h-1l-3 -4l-4 -4l-4 -8l-4 -8l-4 -8l-4 -8v-8l4 -8v-8l4 -8l4 -4v-4q0 -2 -2 -3q-1 -1 -2 -1
+q1 0 2 -2q2 -1 2 -2l-4 -8l-4 -8l-8 -8v-8l4 -8v-24l4 -8l4 -8l4 -8l4 -8l4 -4v-1l4 -3l4 -8l8 -8l8 -4v-1l4 -3l4 -8l8 -4l8 -4l8 -4h24l8 4l8 -4l8 4l8 4l8 4l8 4l4 4l4 8l4 8h4l8 8l4 8l4 8l8 4h24l8 -4v-24l-4 -8l-4 -8l-8 -8l-8 -4l-8 -4l-8 -8l-8 -8l-8 -4l-8 -4
+l-8 -4l-8 -4l-8 -4h-72z" />
+    <glyph glyph-name="D" unicode="D" horiz-adv-x="296" 
+d="M148 32l8 4l8 4l8 4h16l4 4l4 4l4 4l4 4l4 4l4 8l8 8v8l4 8l4 8l4 8v48l-4 8q0 1 1 2q1 2 3 2q-2 0 -3 1t-1 3v16l4 8v24l-4 4v0l-4 4l-4 8l-8 8l-4 8v8l-4 8v4l-4 4l-4 4v0l-4 4l-4 4l-8 4l-8 4l-8 4h-24l-8 8h-8l-8 -4l-8 -4h-16q-4 0 -6 -3q-2 -2 -2 -5v-16h4v-8h-4
+v-16h4v-56h-4v-32h4v-8h-4v-8h4v-8h-4v-8h4v-8h-4v-48l8 -8l4 -8l4 -8l8 -4v-1l4 -3l4 -8l8 -4l8 -4h16zM44 -4l-8 4h-16l-8 4l-8 4l-8 8v8l-4 8l4 4h8l8 -4h8l8 4q0 1 1 2q1 2 3 2h4q3 0 5 2q3 2 3 6v48l-4 8l-4 4v20l4 8v40l4 8v20l4 4v8l-4 4v0l-4 4l-4 8l8 4l-8 4v8l4 8
+l4 8v28l-4 4l-4 4l-8 4h-20l-4 4l-8 4v20l8 4q1 0 2 -2q2 -1 2 -2q0 1 1 2q1 2 3 2h48l8 -4h8l8 4h24v-4h16v8h24v-8h16v4l8 -4h16l8 -4l8 -4l8 -4l8 -8l8 -8l8 -8l8 -8l4 -8l4 -8l4 -8l4 -8l4 -8l4 -8l4 -8v-56l-4 -8v-32l4 -8v-24l-4 -8l-4 -8l-4 -8l-4 -8l-4 -8l-4 -8
+l-4 -8l-8 -8l-4 -8l-4 -8l-8 -4l-8 -4l-8 -4l-8 -4l-8 -4l-8 -4h-68l-4 4h-32l-8 -4h-21l-3 -4v0z" />
+    <glyph glyph-name="E" unicode="E" 
+d="M112 -4v4h-40v4h-8v-4h-8v4h-8v-4h-8v0l-4 4l-4 -4h-8l-4 8l-4 -8h-8l-8 4v24l8 4h28l4 4l4 4v8l4 8l4 8l-4 8v52l4 4v8l-4 8v24l4 8v8l4 8l8 8v16l-4 8l-4 8v8l4 8v8l-4 8l-4 8l-4 8v16l-8 8h-16l-4 8l-4 4v16l8 4h72l4 4l4 -4h8l8 4h8l8 -4h40l8 -4h24l8 4h48q3 0 5 -3
+q3 -2 3 -5v-16h4v-8h-4v-8h4v-24h-4v-24l-4 -8l-4 -8v-8l-4 -8h-1l-3 -4l-8 -4h-12l-4 8v64l-4 8l-4 4l-8 -4l-8 4v0l-4 4l-4 4l-8 4h-93l-3 -4l-4 -4l-4 -8v-8l4 -8v-8l-4 -8v-40l4 -8l4 -4v-1l4 -3l4 -8h24q3 0 5 2q3 2 3 6l4 8l-4 8v8l4 8h28l4 -8v-8l4 -8v-80l-4 -8h-8
+l-4 8h-8l-4 -8h-8l-4 8v16l-4 8l-4 4l-8 4h-24l-8 -8v-24l4 -8v-24l4 -8v-12l-4 -4h-1l-3 -4v-20h4q1 0 2 -2q2 -1 2 -2v-4q0 -4 2 -6t6 -2h8l8 4l4 4h12l8 -4l8 -4h32l8 4l4 4l4 4l8 4l8 8v8l-4 8v8l4 4v4l4 8l4 8l8 8v8l4 8h32l4 -8v-8h-4v-32h4v-36l-4 -4h-1l-3 -4v-4
+l4 -8v-8l4 -8q0 -4 -3 -6q-2 -2 -5 -2h-64v4h-8v-4h-16v4h-8v-4h-8v-4h-48z" />
+    <glyph glyph-name="F" unicode="F" 
+d="M8 0l-8 4v24l8 4l8 -4l8 4h8l8 4l4 4l4 4v36l-4 8l-4 4v20l4 8l4 8v64v0l4 4l-4 3v1q0 1 1 2q1 2 3 2q-2 0 -3 1t-1 3l8 4l-8 4v20l8 4l8 8l-4 8l4 8l-8 4v0l-4 4l-4 8v16l-8 8h-32l-8 4v8l8 4l8 4l8 4h8l8 4l4 4h28v4h8v-4h40v4h16v-4h8v4h8v-4h48v-4h16v4h32l8 -4h8v-1
+l4 -3l4 -8v-24l4 -8v-16l-4 -8v-16h4v-16h-4v-16l-4 -8h-32l-4 8q0 1 1 2q1 2 3 2q-2 0 -3 1t-1 3v4l-4 4v8l4 8l4 8l-4 8v24l-4 8l-4 4v0l-4 4h-16l-4 4h-8l-8 -4h-16l-8 4h-16l-8 -4h-24l-8 -4l-4 -4h-1l-3 -4l-8 -4v-24h4v-8h-4v-16h-4v-8h4v-24l4 -8l4 -4l8 4h8l8 8l8 4
+l8 4l4 8l4 8l4 8l4 4h8l8 -4l4 -8l4 -8v-24l-4 -8v-16l4 -4v-44l-4 -8h-4l-4 8l-4 -8h-20l-4 8v4l-4 4l-4 8v8l-8 8h-24q-4 0 -6 -3q-2 -2 -2 -5v-8l4 -8l-4 -8v-16l-4 -8v-16l4 -8v-32l8 -4v-1l4 -3l4 -8h8l8 4l8 -4l8 -4v-24l-8 -4h-36l-4 4h-8l-4 -4h-68z" />
+    <glyph glyph-name="G" unicode="G" horiz-adv-x="332" 
+d="M92 -4l-8 4l-8 4l-8 4l-8 4l-8 4l-8 8l-8 8l-8 8l-8 8l-4 8l-4 8l-4 8l-4 8l-4 8l-4 8l-4 8v40l4 4l4 4l-4 4v12l4 8l4 8v8l-8 8l-4 8v24l4 8l4 8l4 8l4 8l4 8l4 8l4 8l8 8l8 8l8 8l8 8l8 4l8 4l8 4l8 4l8 4h72l8 -4l8 -4l8 -4h24l8 -4l8 4l8 8h16l4 -8v-48l-4 -8v-37
+l4 -3v-16l-4 -8l-8 4l-8 4h-16l-4 8v16h-4l-4 8l-4 8v8l-4 8l-4 4v0l-4 4l-4 4v0l-4 4l-4 4l-8 4l-8 4l-8 4l-8 4l-8 -4h-8l-8 -4l-4 -4h-4l-8 4h-8l-8 -4h-8l-8 -4l-4 -4h-1l-3 -4l-4 -4h-1l-3 -4l-4 -4l-4 -8l-4 -8h-1l-3 -4l-8 -4l4 -8l-4 -8l-4 -8v-40l-4 -8v-16l4 -8
+v-40l4 -8l4 -8l4 -8l8 -8l4 -8l4 -8v-5l4 -3l4 -4v-1l4 -3l4 -4l8 -4l8 -4l8 4h16l8 -4h16l8 -4h8l8 4l8 4l8 4v4h4l4 4l4 4l4 4l4 4l4 8v8l-4 8l-4 8l-8 8l-4 8l-4 4l-8 4v24l8 4h16l8 -4h4l4 -4h16l8 4h4l4 4h48l8 -4v-16l-8 -4l8 -4l-8 -4h-16l-8 -4l-8 -8l-4 -8v-24h-1
+l-3 -4v-4l-8 -4l8 -4v-8l4 -8v-32l-4 -8h-8q-2 0 -3 1t-1 3q0 -2 -2 -3q-1 -1 -2 -1q-2 0 -3 1t-1 3q0 -2 -2 -3q-1 -1 -2 -1q-2 0 -3 1t-1 3q0 -2 -2 -3q-1 -1 -2 -1l-4 8h-28l-8 -4l-8 -4l-8 -4h-72z" />
+    <glyph glyph-name="H" unicode="H" horiz-adv-x="352" 
+d="M8 0l-8 4v24l8 4l8 -4l8 -4l8 4l4 4l4 4l4 4l4 8v16l8 8v8l-4 8v16l4 4l4 4v8l-4 8v4l-4 4l-4 8v20l4 4l4 8v8l-4 8l4 4l4 4l4 8v8l-8 8v8l-4 8v16l-4 8v16l-4 8l-4 4v0l-4 4l-4 8h-16l-4 8l-4 4l-8 4v12l8 4h32l4 -8l4 8h32l8 -4h8v-1l4 -3l4 -4h8l8 -4h8l8 4v-16l-8 -4
+h-32q-4 0 -6 -3q-2 -2 -2 -5v-8l-4 -8v-16l4 -8v-32l4 -8l-4 -8v-5l4 -3l4 -4l8 -4h32q1 0 2 -2q2 -1 2 -2q0 1 1 2q1 2 3 2h16l7 3v1h1v-1l4 -3h44l8 4l8 4l8 8l-8 8v40v0l4 4l-4 3v17l-4 8l-4 8l-8 8h-8l-8 4v4v0l4 4l-4 3v13l8 4l8 -4h24l8 4h64l8 -4v-24l-8 -4h-4l-4 4
+l-8 4h-8l-8 -8l-4 -8h-4v-24q1 0 2 -2q2 -1 2 -2q0 -2 -2 -3q-1 -1 -2 -1v-16l4 -8l-4 -8v-48l-8 -8l-4 -8v-16l4 -4v-1l4 -3l4 -8v-8h-1l-3 -4l4 -4v-80l4 -8l4 -4l8 -4h4l4 4l4 4h8l4 -4l8 -4v-20l-8 -4h-8l-8 4l-8 4h-5l-3 -4l-4 -4h-32l-4 4h-24l-8 -4h-16l-8 4v12
+q0 1 1 2q1 2 3 2q-2 0 -3 1t-1 3v4l8 4h8l8 4l8 -4h8l8 8v8l4 8l4 4v20l-4 8v16l-4 8v36l-4 4l-4 4l-8 4h-16l-8 4v0l-4 4l-4 4h-16l-8 -4l-8 -8l-4 8l-4 -8h-16l-4 8l-4 -8l-4 8l-4 -8h-8l-8 -8l-8 -8v-40l-8 -4l8 -4v-40h-1l-3 -4l4 -4v-8l-4 -8h-1l-3 -4v-4l8 -4h16l8 4
+l8 8h8l8 -4v-24l-8 -4l-4 8l-4 -8h-64l-4 8l-4 -8h-40z" />
+    <glyph glyph-name="I" unicode="I" horiz-adv-x="248" 
+d="M8 0l-8 4v12l8 4l-8 4v4l8 4h60l4 4l4 4h4v4l4 4l4 8v48l4 8v32l4 8l-8 8v64h-4v32h4v8h-4v8l4 8v16l-8 8h-72l-8 4v24l8 4h24l8 -4h8l8 -4h24l8 4l8 -4h4l4 4h8l8 4h88l8 -4v-16l-8 -4l-8 -4l-4 -4h-52l-4 -8h-1l-3 -4l-8 -4v-96h-4v-8h4v-8h-4v-40l4 -8v-88q0 -4 2 -6
+t6 -2h28l4 -4h16v4h24l8 -4v-24l-8 -4h-64q-2 0 -3 1t-1 3q0 -2 -2 -3q-1 -1 -2 -1h-80l-8 4h-8l-8 -4h-24z" />
+    <glyph glyph-name="J" unicode="J" horiz-adv-x="312" 
+d="M72 -20l-8 4l-8 4l-8 4l-8 8l-8 8l-8 8l-8 8l-4 8l-4 8l-4 8l-4 8v8q0 1 1 2q1 2 3 2q-2 0 -3 1t-1 3l8 4l-8 4l4 8l4 8l8 4l8 4h8l8 -4l8 -4l4 -8l4 -8v-8l-4 -8l-4 -8v-8l4 -8l4 -4v-1l4 -3h4l8 -4v-1l4 -3l4 -8l8 -4h32l8 4l8 4l4 4l4 4l4 4l4 4l4 4l4 8l8 4l4 4l4 8
+l4 8v8l4 8v4l-4 4l-4 8v160l-8 4v0l-4 4l-4 8l-8 8h-24l-8 4v4h-4l-4 4v16l8 4h16v-4h8v4h8v-4h8v4h16v-4h8v4h24v-4h8v4h16v-1l4 -3l3 4h9l4 -8l4 8h16l8 -4v-24l-8 -4h-40l-8 -4q0 -2 -2 -3q-1 -1 -2 -1h-1l-3 -4v-24l-4 -4v-8l4 -8l4 -8v-24h-4v-16h4v-8h-4v-16h4v-16h-4
+v-16h4v-8h-4v-48l-4 -8l-4 -8l-4 -8l-4 -8l-4 -8l-4 -8l-8 -8l-8 -8l-8 -8l-8 -8l-8 -4l-8 -4l-8 -4h-24l-8 4h-16l-8 -4h-8z" />
+    <glyph glyph-name="K" unicode="K" horiz-adv-x="312" 
+d="M256 -4v8h-8v-4h-8v4h-24v-4h-56l-8 4v4v0l4 4l-4 3v1v0l4 4l-4 3v5l8 4h32l4 -8l4 -4l4 4l-4 8l-4 8l4 8l-4 8l-4 4l-8 4l-4 8l-4 8v8h-4l-4 8l-4 8l-4 8v8l-4 8l-4 8h-4l-4 8l-4 8l-4 8l-8 4v0l-4 4l-4 4l-8 4l-4 8h-8l-4 -8l-4 -8h-1l-3 -4l-4 -4l-4 -8v-16h4v-8h-4
+v-16h4v-16h-8v-8h4v-24h4v-16h-4v-5l4 -3l4 -4l8 -4h8l8 -4v-24l-8 -4h-96l-8 4v24l8 4l8 4h8l8 -4h8v12l4 4l4 8v8l-4 8v8l-4 8l4 8v24h-4v16h4v8h-4v52l4 4l4 4v12l-4 8l4 8v16l-4 8l-4 8v32l-8 8h-16l-8 4v16l8 4l8 4l8 -4h8l8 8h56l8 -4v-12l-8 -4l8 -4v-4l-8 -4h-16v-4
+q0 -2 -2 -3q-1 -1 -2 -1l-4 -8v-16l4 -8l4 -8l8 -8l4 -8l4 -4l8 -4h4v8l4 4l4 4l4 4l4 4l4 4l4 4l4 4l8 4h8v12l4 4l4 4l4 4l4 4l4 4h-28l-8 4v24l8 4h16v-4h8v4h16v-4l8 -4l8 4h24l8 4h8l8 -4v-24l-8 -4h-20l-4 4l-4 -4l-4 -8l-8 -8h-8v-8h-8v-8l-8 -8l-8 -8l-8 -8l-8 -8
+l-8 -8l-8 -8l4 -8l4 -8l4 -8l4 -8v-8h4l4 -8l4 -8l4 -8v-16h4l4 -8l4 -8h4l4 -8l4 -8l4 -8l4 -8l4 -8l4 -8v-8h4l4 -8l4 -8l4 -8l8 -4l8 -4l8 -8h16l8 -4v-24l-8 -4h-8v-4h-8z" />
+    <glyph glyph-name="L" unicode="L" horiz-adv-x="296" 
+d="M48 -4v4h-40l-8 4v12l8 4l-8 4v4l8 4h12l4 8l8 4l4 4l4 4l8 4v16h4v8h-4v16h4v24h-4v48h-4v8h4v40h4v16h-4v8h4v8h-4v16l-4 8l-4 4v4l4 8l-4 8l-8 4h-16v4h-8l-8 4v24l8 4h8v4h8v-4h8v4h32l8 4h8v4h8v-4h12l4 -4l8 -4h16l8 -4v-24l-8 -4h-32q0 -4 -3 -6q-2 -2 -5 -2v-16
+h-4v-8h4v-16h-4v-32h-1l-3 -4l-8 -4l4 -8l4 -4v-4l4 -8v-8l4 -8v-24h4v-8h-4v-16h4v-24l-4 -8l-4 -8v-16l4 -4v-20l8 -8l8 -4l8 -4h44l4 4l8 4h16l8 -4h8l4 4l4 8l4 8v32h4v8h-4v8h4v16l4 8h32l4 -8v-8h4v-8h-4v-8h4v-8l4 -8v-12l-4 -4h-4v-8h4v-8h-4v-8h4v-24h-4v-8
+q0 -4 -3 -6q-2 -2 -5 -2h-56v4h-48v-4h-8v4h-8v-8h-32v4h-40v-4h-8z" />
+    <glyph glyph-name="M" unicode="M" horiz-adv-x="432" 
+d="M16 -4v4h-8l-8 4v4v0l4 4l-4 3v13l8 4h8l8 -4h8l4 4h12v48l8 4l-8 4v40l4 8l-4 8v68l4 4v16l-4 8v48l-4 8l-4 4v0l-4 4h-28l-8 4v24l8 4h8v4h8v-4h8v4h16v-4h-8v-4h48v4h24l4 -8l4 -8l4 -8l4 -8l4 -8h4l4 -8l4 -4v-1l4 -3v-16l4 -8l4 -8l4 -8v-8l8 -8l4 -8l4 -8l4 -8
+l4 -8l8 -4v-1l4 -3l4 -8h8l4 8l4 8l4 8l4 8l4 8l4 8l4 8l4 8l4 8l4 8l4 8h4q3 0 5 2q3 2 3 6v8h-4l4 8l4 8l4 8l4 8l4 8l4 8l4 4l8 4q1 0 2 -2q2 -1 2 -2q0 1 1 2q1 2 3 2q1 0 2 -2q2 -1 2 -2q0 1 1 2q1 2 3 2h4l4 -4l8 -4l8 -4l8 4l8 8h40l8 -4v-24l-8 -4h-4l-4 4l-8 4h-13
+l-3 -4l-8 -4v-80h4v-8h-4v-24h4v-16h-4v-8h4v-8h-4v-32h4v-16h-8v-48h4v-28h32v-4h8l8 -4v-24l-8 -4h-8l-8 8l-8 -8h-28l-4 4l-8 4h-21l-3 -4l-8 -4q-2 0 -3 1t-1 3q0 -2 -2 -3q-1 -1 -2 -1h-16l-8 4v24l8 4h8v-4h16v4h16v64h4v16l4 8l4 8v8l-4 4v0l-4 4v8h-4v8h4v24h-4v8h4
+v24h-4v16h4v8h-4v24l-4 8l-4 4l-8 -4l-4 -8l-4 -8l-4 -8l-4 -8l-4 -8l-4 -8l-4 -8l-4 -8l-4 -8l-4 -8l-4 -8v-8h-1l-3 -4l-4 -4h-4l-8 -8v-16l-4 -8l-4 -8l-4 -8l-4 -8l-4 -8l-4 -8h-8l-8 -4v0l-4 4l-4 8v8l-4 8l-4 8l-4 8l-4 8l-4 8l-4 8l-4 8l-4 8l-4 8l-4 8v8h-4l-4 8
+l-4 8l-4 8l-4 8l-4 4l-8 4l-8 4l-4 -4l-4 -8l-8 -8v-16h4v-8h-4v-16h4v-24h-4v-8h4v-56l-4 -8v-56h16l8 -4v-4l-8 -4l8 -4v-12l-8 -4h-16v-4h-16v4h-16v-4h-40z" />
+    <glyph glyph-name="N" unicode="N" horiz-adv-x="376" 
+d="M8 0l-8 4v4q0 1 1 2q1 2 3 2q-2 0 -3 1t-1 3q0 1 1 2q1 2 3 2q-2 0 -3 1t-1 3v4l8 4h16l8 4l8 4l4 8l4 4v12l-4 8v32l4 8h4v16l-4 8l4 8v8l-4 8l-4 8v8l4 8l-4 8v24l4 8v32h-4v8h4v16l-4 8l-4 8l-8 8h-24l-8 4v12l8 4l-8 4v4l8 4h16l4 -8l4 8h24l8 -4l8 4h40l4 -8l4 -8
+l4 -8h4v-8l4 -8h4v-8l4 -8l4 -8l4 -8l4 -8l4 -8l4 -8l4 -8l4 -8l4 -8l4 -8l4 -8l4 -8v-16l4 -8l4 8l4 -8l4 -8l4 -8h4v-8l4 -8l4 -8l4 -8l4 -8l4 -8h4v-8l4 -8l4 -8l4 -8l4 -8l4 -8v-8l4 -4h8l8 4l-8 4v0l-4 4l-4 8v8h4v8h-4v24h4v32h-4v32h4v8h-4v8h4v8h-4v104l-8 8h-12
+l-4 4l-8 4h-8l-8 4v16l8 4h16v-4h8v8h16v-4h24l4 -8l4 8h48l8 -4v-24l-8 -4h-8l-8 -4l-4 -4h-1l-3 -4l-8 -4l-4 -8v-32h-4v-16h-4v-8h4v-24h-4v-8h4v-8h4v-8h-4v-8h4v-24h-4v-56h4v-8h-4v-16h4v-40l4 -8l4 -8l4 -8h-8v0l-4 4l-4 -4h-32v0l-4 4l-4 -4h-24v8h4l-4 8l-4 8h4
+l-4 8v8l-4 8v0l-4 4l-4 -4v0l-4 8l-4 8l-8 8l-8 4v0l-4 4l4 8v8l-4 8h-4v8l-4 8l-4 8l-4 8l-4 8l-4 8l-4 8l-4 8l-4 8l-4 8h-4v8l-4 8l-4 8l-4 8h-4v8l-4 8l-4 8l-8 4v0l-4 4l-4 4l-8 4l-4 -8l-4 -8v-16l8 -8v-8h-1l-3 -4l4 -4v-40l-4 -8h-1l-3 -4v-20h4v-8h-4v-24h-4v-8
+l4 -8l4 -8v-16l-4 -8l8 -4v-1l4 -3l4 -4h16l8 4h8l7 3v1h1v-1l4 -3l-4 -8l4 -8l-4 -8l4 -8h-1l-3 -4h-8l-8 -4h-32q-2 0 -3 1t-1 3q0 -2 -2 -3q-1 -1 -2 -1q-2 0 -3 1t-1 3q0 -2 -2 -3q-1 -1 -2 -1h-24q-2 0 -3 1t-1 3q0 -2 -2 -3q-1 -1 -2 -1h-40z" />
+    <glyph glyph-name="O" unicode="O" 
+d="M156 24l8 8l8 8l8 4l4 4l4 4v4h4l4 4l4 4l4 8v8h4l4 8v8h4l4 8l8 8l-4 8v24l4 8l4 8v16l-4 4v0l-4 4v40l-4 8l-4 8l-4 8v8l-8 8l-4 8l-4 4v0l-4 4h-4v4l-4 4l-4 4l-8 4h-8v4l-8 4l-8 4h-40l-8 -4l-8 -4l-8 -4h-8l-8 -8v-4l-4 -4h-1l-3 -4v-4h-4l-4 -8v-8h-4l-4 -8l-4 -8
+l-4 -8l-8 -8l8 -8l-8 -8l4 -8v-40l4 -8l-4 -8v-32l4 -8l4 -8h4l8 -8l4 -8h4v-8l8 -8v-8l8 -8l4 -8h4l8 -4l8 -4l8 -4h8l8 4h8l8 -4h8l8 -4v0zM92 -4l-8 4l-8 4l-8 4l-8 4l-8 4l-8 8h-8v8l-8 8l-8 8l-4 8l-4 4v0l-4 4l-4 8l-8 8v16l-4 8v24h4v8h-4v48l4 8v28l-4 4v8l4 8l4 8
+l4 4l4 4l4 4l8 4l4 8l4 4l8 4l8 8v8l4 8v8l4 8l8 4l8 4h8l8 4h8l8 4l8 4h32l8 -4l8 4h8l8 -4h8v-4l8 -4l8 -4l8 -4h8v-8l8 -8h8v-8l8 -8l4 -8h4v-8l4 -8l4 -8l4 -8h4v-8l4 -8v-16h4v-16h-4v-16h4v-8h-4v-8h4v-32h-4v-32l-4 -8v-8h-4l-4 -8l-4 -8l-4 -8l-4 -8l-4 -8v-8h-8v-8
+h-8l-8 -8v-8h-8l-8 -4l-8 -4l-8 -4l-8 -4l-8 -4h-8v4h-24v-4h-8v4h-8v-4h-24z" />
+    <glyph glyph-name="P" unicode="P" horiz-adv-x="284" 
+d="M160 196v4h24l8 4l4 4l4 4v4h4l4 4l4 4l4 8l4 8v24h-4v8l-4 8l-4 4v0l-4 4l-4 4v0l-4 4h-4v4l-8 4h-32v-4h-16v4h-4l-4 4h-8v-4h-8v-4h-8v4h-8l-8 -8v-16l4 -8l4 -8v-8l-8 -4l8 -4v-16l-8 -8v-8l4 -8l4 -4l8 -4h8v-4h16v4h8v-4h24zM8 0l-8 4v24l8 4v-4h16v4h24v32h-4v40
+h4v8h-4v8h4v32h4v32h-4v32h4v8h-4v56h-4v8h4l-4 8l-4 8h-16v4l-4 4l-4 4v0l-4 4l-4 8q0 1 1 2q1 2 3 2q-2 0 -3 1t-1 3h8v-1l4 -3l3 4h81l4 4l4 -4h8v-4h32v4h16v-4h16v4l4 4l4 -4l8 -4l8 -4l8 -4l8 -4l8 -8h8v-8l8 -8l4 -8h4v-8l4 -8l-4 -8v-16l4 -8v-8l-4 -8l-4 -8l-4 -8
+v-8h-8v-8h-8l-8 -8l-8 -4l-8 -4l-8 -4v-4h-8v-4h-32l-8 4h-24v-4h-8v4h-13l-3 -4l-8 -4v-4l-4 -4l-4 -8v-32h4v-8h-4v-8h4v-24h-4v-8h4v-16h-4v-12h8v-4h8v4h24v-4l8 -4v-24l-8 -4h-120z" />
+    <glyph glyph-name="Q" unicode="Q" horiz-adv-x="312" 
+d="M156 24l4 8h4l4 -4l8 4l8 4v4l4 8l-4 8h4l-4 8v8h-4l-4 8l-4 8l-4 8h-4l-4 4l-8 4h-4l-4 4v0l-4 4h-4v8l8 4l-8 4v4l8 4h8l8 -4l8 -4l8 -4l8 -4h8v-8h8v-8l8 -8l4 -8l4 -8l4 8l4 8l4 8v24l-4 8v24l-4 8l4 8l4 8v24l4 4v4l8 4l-8 4l-4 8l-4 8v8l-4 8l-4 8v8l-4 8l-4 -8
+l-4 8l-4 4v0l-4 4l-4 4v0l-4 4h4l-4 8h-12l-8 4h-72l-8 -4l-8 -4l-4 -4h-1l-3 -4v-4h-5l-3 -4v-4h-4l-4 -8l-4 -8l-4 -8v-8h-4l-4 -8l-4 -8v-16l-4 -8v-16l-4 -8h-1l-3 -4v-9l4 -3l4 -4v-1l4 -3v-16h-4v-8l4 -8v-24l4 -8l4 -8l4 -8l4 8l4 8l8 8l8 8v8h8l8 4v4h8l8 4l8 4
+l4 -8h-1l-3 -4v-9l4 -3l4 -4l8 -4h-16l-8 -4l-4 -4h-1l-3 -4v-4h-4l-4 -8v-8h-4l-4 -8v-8h4v-16h-4v-4l8 -4l8 -4h32l8 4h16l4 -8v0zM248 -56l-8 4v1l-4 3l-4 4l-8 4h-8l-8 4l-8 4l-4 8l-4 8l-4 8l-4 8v4l-8 -4l-8 -4h-56l-8 4h-8l-8 8l-8 -4l-8 4l-8 4l-8 4l-8 8l-8 8h-8v8
+l-8 8l-4 8h-4v16h-4l-4 8l-4 8l4 8v8l-4 8l-4 4v4l-4 8v48l-4 4v36l4 8v8l4 8l4 8l4 8v8l-4 8l4 8l4 8l4 4l8 4l8 8l8 4l8 4l8 8l8 4l8 4l8 4l8 4l8 4h72l8 -4l8 -4l8 -4l8 -4l8 -4h8v-8l8 -8h8v-8h8v-8l4 -8h4v-8l4 -8l4 -8l4 -8l4 -8l4 -8v-24l4 -8v-8q0 -2 -2 -3
+q-1 -1 -2 -1q1 0 2 -2q2 -1 2 -2v-48l4 -8v-16l-4 -8l-8 -8l-4 -8l-4 -8l-4 -8l-4 -8l-4 -8l-4 -8l-8 -8l-8 -8v-8h-4v-8h4v-8h-4v-8h-4v-8h8l4 -8l4 -4l8 -4h16l8 -4l8 4v5l-4 3l-4 8l4 8h32l4 -8v-16h-4l-4 -8v-8h-8l-8 -8l-8 -4v-4h-16l-4 8l-4 -8v0z" />
+    <glyph glyph-name="R" unicode="R" horiz-adv-x="320" 
+d="M160 188v4h8v8h16l8 4v4h4l4 4v4h4l4 4l4 4l4 8v8h4v8l4 8l-4 8l-4 8v4l-4 4l-4 4v0l-4 4h-4v4l-4 4l-4 4l-8 4h-32l-4 -4l-4 4l-8 8l-8 -8h-8l-8 -4l-4 -4h-1l-3 -4l-8 -4l-8 -8l-8 -4l8 -4v-24l-4 -8v-16l4 -8l4 -8l4 -4v-1l4 -3h12v-4h8v-4h8v-4h32zM8 0l-8 4v24l8 4
+h16v-8l8 4v8l8 4l4 8v16l4 8h4v24h-4v8h4v24h-4v8h4v16h-4v-8h-4v24h4v-8h4v24l-4 8l4 8v32l-4 8h-4v16h4v32h-4v8l-4 4l-8 4h-16l-4 8l-4 -8l-8 4v4l8 4l-8 4v12l8 4h16v-4h8v4h48v-4h8v4h8v-4h8v4h8v4h32v-8h8v4h40l8 -4l8 -4l8 -8l4 -8v-8l4 -4v-1l4 -3l4 -8l4 -8l4 -4
+v-8l-4 -4l4 -8l8 -8l4 -8l4 -8v-16h-4l-4 -8v-8h-8l-8 -8l-8 -8l-8 -4v-4h-8l-8 -4l-8 -4l8 -8h8v-8l4 -8h4v-16h8v-8l4 -8l4 -8l4 -8h4v-16q1 0 2 -2q2 -1 2 -2q0 -2 -2 -3q-1 -1 -2 -1v-8q0 -2 -2 -3q-1 -1 -2 -1q1 0 2 -2q2 -1 2 -2q0 -2 -2 -3q-1 -1 -2 -1q1 0 2 -2
+q2 -1 2 -2v-16h24l8 -4v-4l4 -8h4l8 -8v-4l-8 -4h-60l-4 4v0l-4 4h-4l-8 4v0l-4 4v40l4 8v8l8 4l-8 4l-4 8l-4 8l-4 8l-4 8l-4 8l-4 8l-4 8l-4 4v0l-4 4l-4 4v0l-4 4l-4 4v0l-4 4l-4 4v0l-4 4h-36l-8 -4l-4 -4l-4 -8h-1l-3 -4l4 -4v-104h4l4 -4v-1l4 -3h4v4h16v-4h8l8 -4
+v-24l-8 -4h-120z" />
+    <glyph glyph-name="S" unicode="S" horiz-adv-x="268" 
+d="M88 -8v4h-8l-8 4l-8 4l-8 4l-8 8v-8l-4 -8h-4l-4 8l-4 -8h-16l-4 8v16l4 8l-4 8v16l4 8l8 8l4 8l-4 8v4q0 1 1 2q1 2 3 2h16l4 -8v-16l4 -8l4 -8v-8h4l4 -4v-1l4 -3l4 -4l8 -4l8 -4h16v-4h8v4h8v-4h8v4h16v-4h24l8 4v4l4 8l4 4l4 4l4 8l4 8l4 8v0l4 4l-4 3v25l4 8h4v4
+l4 4l-4 8l-8 4v4h-4l-4 4l-8 4l-8 4v0l-4 4l-4 4l-8 4l-8 4h-72l-8 4l-8 4l-8 4h-8v4l-8 4l-8 8l-8 8h-8v8l-4 8q-2 0 -3 1t-1 3v4l-4 8l-4 8v40h4l4 8v8h4v8h4l8 8l8 8v8h8l8 4l8 4l8 4h24l8 -4h8l4 -8l4 8h16l8 4h16l8 -4l8 -4h16l8 4h24l4 -8l4 -8l8 -8l-4 -8l-4 -8
+l-4 -8v-16l4 -8v-24l4 -8h-1l-3 -4l-8 4l-8 4l-8 4h-12l-4 8v16l-4 8h-4v16h-4l-4 4v0l-4 4h-4v4l-8 4l-8 4h-40l-8 -4h-8l-8 4l-8 -4l-8 -4v-4h-5l-3 -4v-4h-4l-4 -8v-8h-4l-4 -8v-16l4 -8l4 -8v-8l4 -8l4 -4l8 -4h8l8 -4l8 -4l8 -4h8l8 -4h8l8 -4v-1l4 -3h12l8 8l8 4h8
+l8 -4l8 -4l8 -4l8 -8h4q1 0 2 -2q2 -1 2 -2v-4l8 -8l8 -8l4 -8l4 -8l4 -8l4 -8v-8h4v-8h-4v-16h4v-16h-4v-8l-4 -8v-8h-4l-4 -8l-4 -8h-8v-8h-8v-8l-8 -8l-8 -4l-8 -4l-8 -4h-16v-4h-16v4h-8v-4h-8v4h-32v-4h-8z" />
+    <glyph glyph-name="T" unicode="T" horiz-adv-x="308" 
+d="M84 0l-4 4l-8 4v8l8 4l-8 4v8h40l8 -4l4 4l-4 8v24h4v16h-4v8h4v8h-4v8h4v96h-4v-8h-4v32h8v24h-4v24h4v8h-4v12l-4 4l-4 4l-8 4h-37l-3 -4l-8 -4l-4 -8h-1l-3 -4l-8 -4v-48l-8 4v4h-8v8l-4 8l-4 4l-8 4l-8 8v8q0 1 1 2q1 2 3 2q-2 0 -3 1t-1 3v40q0 3 2 5q2 3 6 3l8 -8
+l8 -4v4h8v-4h32v4l8 4l8 -4v-4h16l8 4l8 4h40v4h16v4h48v-4h16v-4h8v4h8v-4h8v4h16q3 0 5 -3q3 -2 3 -5l4 -4l-4 -4h-1l-3 -4l4 -4v-56l-4 -8l4 -8v-24l-4 -8h-32l-4 8v8h-4v32h4v8h4v8h-4v8l-4 8l-4 8l-8 8l-4 8l-4 -8h-48q-4 0 -6 -3q-2 -2 -2 -5v-16l-8 -4l8 -4v-72l4 -8
+l4 -8v-8h-1l-3 -4l4 -4v-36l-4 -4l-4 -8v-80l8 -4l8 -4h8q1 0 2 -2q2 -1 2 -2q0 1 1 2q1 2 3 2q1 0 2 -2q2 -1 2 -2q0 1 1 2q1 2 3 2h40l8 -4v-4q1 0 2 -2q2 -1 2 -2q0 -2 -2 -3q-1 -1 -2 -1v-12l-8 -4h-40l-8 4h-24l-8 -4h-76z" />
+    <glyph glyph-name="U" unicode="U" horiz-adv-x="352" 
+d="M120 -4l-8 4h-8v4l-8 4h-8v8l-8 8l-8 8h-8v8l-4 8l-4 8h-4v8l-4 8v24h-4v64h4v8h-4v8h4v24h-4v16h4v8h-4v32l4 8v16h-4v8h4v12l-8 4l-8 -4l-8 -4l-8 8h-8l-8 4v16l4 4h4l8 4l8 4h56l8 -4h16l8 4h16l8 -4v-24l-8 -4h-16l-4 8l-4 -8l-8 -4l-4 -4v-8h-4v-16l4 -8v-88h-4v-24
+l4 -8v-8h-4v-8h4v-40l4 -8l8 -8l4 -8l4 -8l8 -8l8 -8h8l8 -4l8 -4l8 -4h16l8 4l8 4v4h8l8 4v4h4l4 4v4h4l4 8l4 8h4v36l4 4l4 4v4h4v16l4 8l-8 8l-4 8v8h-4l-4 8v64h4v32h-4v8l-4 8v4l-8 4l-8 8h-16l-8 4v24l8 4h120l8 -4v-12l-8 -4l8 -4v-4l-8 -4h-8l-4 8l-4 -8h-24v-24
+l4 -8l4 -4v-44l-4 -8l-4 -8v-136l-4 -8l-4 -8l-4 -8l-4 -8l-8 -8l-8 -4l-4 -4l-4 -8h-8v-8l-8 -4l-8 -4l-8 -4h-8v4h-24v-4h-16v4h-16v-4h-16z" />
+    <glyph glyph-name="V" unicode="V" horiz-adv-x="368" 
+d="M152 0l-4 8l-4 8v8q0 3 -3 5q-2 3 -5 3v8h-4l-4 8l-4 8l-4 8l-4 8l-4 8h-4v8l-4 8h-4v8l-4 8l-4 8h-4v8l-4 8h-4v8l-4 8l-4 8l-4 8l-4 8l-4 8l-4 8l-4 8l-4 8l-4 8l-4 8l-4 8h-4v8l-4 8h-4v8l-4 8h-4v8h-4v8l-4 8l-8 8l-8 8l-8 4v4l8 4l-8 4l8 4l-8 4v4l8 4h16l8 -4h24v4
+h8v-4h8v4h8l8 -4v-24l-8 -4h-13l-3 -4l-4 -4l4 -8l4 -8l4 -8v-16l4 -8l4 -4l8 -4l4 -8l4 -8l4 -8l4 -8l4 -8l4 -8l4 -8h-4v-8l8 -8h4l4 -8l4 -8l4 -8v-8h4l4 -8l8 -8l4 -8l4 -4l8 -4l8 8l4 8l4 4l8 4l4 8l4 8l4 8l4 8l4 8v8l4 8l8 8l4 8l4 8v8h4l4 8l4 8l4 8v8h4v8h4v8h4v8
+h4l4 8l4 8v16h-8l-8 4v24l8 4h16v4h8v-4h16v4h32v-4h8l8 -4v-24l-8 -4h-8l-8 -4l-4 -4h-4l-8 -8l-4 -8l-4 -8l-4 -8l-4 -8l-4 -8l-4 -8l-4 -8v-8h-4v-8h-4v-8h-4l-4 -8l-4 -8l-4 -8l-4 -8h-4l-4 -8v-16l-4 -8h-1l-3 -4l-4 -4l-4 -8l-4 -8v-8h-4l-4 -8l-4 -8v-8h-4l-4 -8
+l-4 -8l-4 -8v-8h-4v-8h-4l-4 -8l-4 -8h-8v-8h4l-4 -8l-4 -8h-4v-8v0z" />
+    <glyph glyph-name="W" unicode="W" horiz-adv-x="544" 
+d="M320 0v16l-4 8l-4 8l-4 8l4 8l-4 8h-4l-8 8l-4 8l-4 8v8h-4l-4 8l-4 8h-4v8l-4 8l-4 8l-4 8h-4v8l-8 8l-8 8l-4 8l-4 -8l-4 -8l-4 -8l-4 -8l-4 -8v-8h-4v-8h-4v-8h-4l-4 -8v-8h-4l-4 -8l-4 -8v-8h-4l-4 -8l-4 -8v-8h-4l-4 -8l-4 -8v-8h-4q-2 0 -3 1t-1 3q0 -2 -2 -3
+q-1 -1 -2 -1h-4l-4 4v0l-4 4l-4 8l-4 8l-4 8l-4 8l-4 8v8v0l4 4l-4 3v9h-8v-8l-4 8l-4 8l-4 8l-4 8l-4 8l-4 8l-4 8l-4 8v16l-4 8l-4 4v0l-4 4h-4l-4 8l-4 8l-4 8h-4v8l-4 8l-4 8v16l-4 4l4 4l8 4l-8 4h-4l-4 8v4l-8 4h-4l-4 4v8l-8 4v24l-4 8l-4 -8v-8h-16l-8 4v24l8 4h40
+v-4h16v4h8v-4h8v4h8l8 -4v-24l-8 -4l-8 -8l-4 -8v-8l4 -8h4v-8l4 -8l4 -8l4 -8l4 -8h4v-8h4v-8l4 -8h4v-8l4 -8l4 -8h4v-8l4 -8l4 -8l4 -8h4v-8h4v-8h4v-8l4 -8l4 -8l4 -8l4 -8l8 4l8 -4l4 8l4 8l4 8h4v16h4l4 8l4 8l4 8h8v8h-4l4 8l4 8l4 8v8l4 8l-4 8v24l-4 8h-4v8l-4 8
+h-4v8h-4l-4 4v0l-4 4l-4 8l-8 8l-4 8h-12l-8 4v12l8 4l-8 4v4l8 4h8l8 4h8l8 -4v-4h32l8 -4h8v4l8 4l8 -4v-24l-8 -4h-12l-4 -8v-8l4 -8l4 -8l4 -8l4 -4l8 -4l4 -8l4 -8l4 -8l4 -8l4 -8l4 -8l-4 -8l4 -8l4 -8h4v-8h4v-8l4 -8l4 -8l4 -8l4 -8h4v-8l4 -8h12v-8l8 -4v4h8v8l4 8
+l4 4l8 4l8 8l4 8l4 8l4 8l4 4l8 -4l8 8v24h-4l4 8l4 8l4 8v8h4l4 8h4l4 4v12l4 8l4 8v32h-8l-8 4v4l4 8l-4 8v4l8 4h16v4h8v-4h8l8 -4l8 4h8v4h24v-4h8l8 -4v-24l-8 -4l-8 -4l-4 -4l-4 -8h-8l-8 -4l-4 -4l-4 -8v-8h-4l-4 -8l-4 -8v-8h-4v-8h-4l-4 -8l-4 -8l-4 -8l-4 -8v-8
+h-4l-4 -8l-4 -8l-4 -8l-4 -8v-8h-4v-8h-4v-8h-4l-4 -8v-8h-4l-4 -8v-8h-4v-8h-4l-4 -8l-4 -8l-4 -8l-4 -8v-8h-4l-4 -8l-4 -8l-4 -8l-4 -8h-4v-8l-4 -8l-4 -8h-8z" />
+    <glyph glyph-name="X" unicode="X" horiz-adv-x="312" 
+d="M72 -4v8h-16v-4h-32l-8 4v12l-4 4l4 4v4l8 4h16l4 8l4 8l4 8h4l8 8v4l-4 4l4 8l4 8h4v8l4 8h4v8l4 8l4 8h4l4 4l8 4l8 8v8l4 8l-4 8v4l8 4v0l4 4l-4 3v1l-8 4v0l-4 4l-4 8l-8 8h-4v8l-4 8h-4v8h-4v8l-4 8h-4v8l-4 8l-4 8l-4 8h-4v8h-4v8l-4 8l-8 4h-8l-8 -4h-8l-8 4v24
+l8 4h24l8 -4l8 4h24v-4h8v4h8v4h16v-4h8l8 -4v-4l-8 -4l8 -4v-12l-8 -4h-24v-8h-4l4 -8l4 -8v-8l4 -4v-1l4 -3v-8l-4 -8l8 -4v-1l4 -3l4 -4v4h4v-8l4 -8v-8l4 -8h4l4 -8l-4 -8l8 -4l8 4v16l-4 8l4 8l4 8l4 8h4l4 4v4h-4l4 8v8h4l4 8l4 8l4 8q0 3 -3 5q-2 3 -5 3l-8 4l-8 4
+l-8 8v20l8 4h8v4h32v-4h8v4h8v-4h8v4h8v-4h32l8 -4v-24l-8 -4v-4h-16v4h-8v-8h-8v-8h-8l-4 -8l-4 -8v-16l-4 -8v-8h-1l-3 -4l-4 -4h-4v-8l-8 -8l-8 -4v-4l4 -8h-4l-8 -8l-4 -8l-4 -8l4 -8h4v-8l4 -8l4 -8l4 -8l4 -8l4 -8h4v-8l4 -8l4 -8l4 -8h4v-8l4 -8h4v-8l4 -8l4 -8l4 -8
+h4v-8h16v-4h8l8 4l8 -4v-24l-8 -4h-16v4h-8v-4h-8v4h-8v-4h-16v4h-40v-4h-8l-8 4v4l8 4l-8 4v12l8 4v4h16v-4h16l-4 8l-4 8l-4 8l-4 8l-4 8l-4 8h-4v8l-4 8l-4 8l-4 8l-4 8v8h-4l-4 8l-4 8l-4 8l-4 -8l-4 -8l-4 -8v-8h-4l-4 -8v-8h-4l-4 -8l-4 -8l-4 -8l-4 -8l-4 -8v-8h-4
+l-4 -8l-4 -8l-4 -8h24v-1l4 -3l3 4h1l8 -4v-4h-1l-3 -4l4 -4v-12l-8 -4h-8v-4h-32z" />
+    <glyph glyph-name="Y" unicode="Y" horiz-adv-x="328" 
+d="M184 -4v4h-40l-8 4l-8 -4h-28l-4 4v0l-4 4l-4 8h-8l-8 -4l-8 4h-16l-8 4v8l8 4h8v-4h16v8h16v-4h8v4h8v-4h8l8 8h8l4 8v8l-4 8v16h-4v24h4v8h-4v8h4v8l-4 8l-4 8l-4 8h-4v8l-4 8h-4l-8 8l-8 8l-4 8l-4 4v12l-4 8l-4 8v16l-4 8l-4 8l-4 8h-4v4l-8 4l-8 8l-4 8l-4 4l-8 4
+l-4 8h-12l-8 4v24l8 4v4h8v-4h8l8 4h32l8 -4l8 4h16v-4h16l8 -4v-24l-8 -4h-16l4 -8l-4 -8h-8l4 -8l4 -8l4 -8l4 -8l4 -8l4 -8l4 -8l4 -4l8 -4l8 -8h8l8 4l8 4l8 -4l4 4h4v8h4l4 8l4 8l4 8v8h4l4 8h4l4 8l4 8l-4 8q0 3 -3 5q-2 3 -5 3h-16l-8 4v24l8 4h4l4 4h16l8 -4v-4h16
+l8 -4l8 4l8 4h32l8 -4v-24l-8 -4h-32l-4 -8v-8h-4v-8h-4l-4 -8v-8h-4v-8h-4v-8h-4v-8h-4l-4 -8l-4 -8l-4 -8l-4 -8v-8h-4l-4 -8v-8h-4v-8h-4l-4 -8l-4 -8v-8h-4v-8h-4l-4 -8l-4 -8v-28l-4 -4v-16l4 -8v-8l4 -8l4 -8l4 -8h4l8 -4l8 -4h8l8 4h32v-4l8 -4v-4l-8 -4l8 -4v-12
+l-8 -4l-8 -4h-56z" />
+    <glyph glyph-name="Z" unicode="Z" horiz-adv-x="228" 
+d="M76 -8l-4 4l-8 4h-56q-4 0 -6 2t-2 6v8l4 8l4 8v8h4v8h4l4 8l4 8v8h4l4 8l-4 8l4 8l8 4v4h4v8h4l4 8l4 8l4 8l4 8l4 8v8h4v8h4v8h4v8h4l4 8l4 8v8h4l4 8v8h4v8h4l4 8v4l-4 4l4 8l4 8l4 8l8 8v16l-8 4h-16v4h-16v-4h-16l-8 4l-8 -4h-8l-8 -4l-4 -8l-4 -8v-16l-8 -4l8 -4
+h-8l-8 -4v0l-4 4l4 8l-4 8v8l-4 8l-8 8v24l4 8h4v4l4 4h20v-4h8v4h8v-4h32v4h8v-4h8v4h8l4 -8l4 8h44l4 4l8 4l8 4l8 4l8 -8l8 -8l-4 -8l-4 -8v-8l-4 -8h-4v-4l-4 -4l4 -8v-8l-4 -8h-1l-3 -4l-8 -4l-8 -8v-8h-4l-4 -8l-4 -8h-4v-8l-4 -8h-4v-16h-4l-4 -8l-4 -8l-4 -8h-4
+l-4 -8l-8 -8l4 -8l-4 -8l-4 -8l-4 -8v-8h-4l-4 -8v-8h-4l-4 -8l-4 -8l-4 -8h-8v-8h4l-4 -8v-8h-4l-4 -8l-4 -8l4 -8l8 4h8l8 -4l8 4h24l8 -4l8 4h16l8 4l8 4l4 4l4 8v8l-4 8v16l4 8v8l4 8h24l4 -8h4v-16h-4v-8h4v-8h-4v-16h-4v-24h4v-16h-1l-3 -4l4 -4v0q0 -4 -3 -6
+q-2 -2 -5 -2h-8v0l-4 4l-4 -4h-24l-8 8l-8 -8l-8 -4h-16l-8 -4l-8 4l-8 -4h-4l-4 4v-4h-4z" />
+    <glyph glyph-name="bracketleft" unicode="[" horiz-adv-x="124" 
+d="M4 -68v4q-4 0 -6 3q-2 2 -2 5v8h-4v64h4v8h-4v8h4v24h-4v32h4v16h-4v8h4v8h-4v32h4v24h-4v8h4v16h4v8h-4v24h4v8h-4v16h-4v40h4v16h-4v8h4v16h-4v8h4v8h-4v40h4q0 3 2 5q2 3 6 3v4h40v-4h8v4h8v-4h24l8 -4v-20l-8 -4h-56v-4h-4v-24h-4v-8h4v-8h-4v-80h-8v-8h4v-8h-4v-16
+h4v-24h4v-16l-4 -8h-4v-48h8v-16h4v-32h-4v-16h4v-16h-4v-8h8v-24h4v-8h-4v-8h4v-24h-4v-4h56l8 -4v-20l-8 -4h-8v-4h-32v8h-32v-8h-8z" />
+    <glyph glyph-name="backslash" unicode="\" horiz-adv-x="216" 
+d="M168 0l-4 4v0l-4 4h-4v8h-4v8l-4 8l-4 8h-4v8l-4 8h-4v8h-4v8l-4 8l-4 8l-4 8l-4 8l-4 8l-4 8h-4v8l-4 8l-4 4v0l-4 4h-4v8h-4v8h-4v16l-4 8l-4 8l-4 8h-4v8h-4v8h-4v8l-4 8l-4 8h-4v8l-4 8h-4v8h-4v8l-4 8l-4 8l-4 8h-4v8l-4 8l-4 8l-4 8l4 8h20l4 -4v-1l4 -3h4v-8l4 -8
+h4v-8h4v-8l4 -8l4 -8l4 -8l4 -8h4v-8h4v-8l4 -8l4 -8l4 -8h4v-8h4v-8l4 -8h4v-8l4 -8l4 -8v-8h4l4 -8v-13l4 -3h4l4 -8l4 -8v-16l4 -8l4 -4v-1l4 -3h4l4 -8l4 -8l4 -4l-4 -4v-13l4 -3h8l4 -8h4v-8l4 -8v-8h4l4 -8l4 -8l-4 -8h-20z" />
+    <glyph glyph-name="bracketright" unicode="]" horiz-adv-x="132" 
+d="M8 -68v4l-8 4v20l8 4h24v4h4l4 8l8 4v4h4l4 4v4l4 8l-4 8v8l4 8l4 4v4q0 1 1 2q1 2 3 2q-2 0 -3 1t-1 3v136h-8v32h4v16h4v8h-4v8h4v8h-8v32h8v8h-8v24h8v24h-4v16h-4l-8 8v4l-4 4h-4v4h-32l-8 4v20l8 4h16l4 -8l4 8h40l8 -4l8 4q3 0 5 -3q3 -2 3 -5v-8h4v-8h-4v-48h4
+v-16h-4v-8h4v-8h-4v-8h4v-24h-4v-16h4v-8h-4v-24h4v-16h-4v-8h4v-8h-4v-8h4v-16h-4v-16h4v-8h-4v-8h-4v-16h4v-8h-4v-8h4v-8h-4v-40h4v-8h-4v-64l4 -8v-24q0 -3 -3 -5q-2 -3 -5 -3h-16v-4h-32v4h-24v-4h-8z" />
+    <glyph glyph-name="asciicircum" unicode="^" horiz-adv-x="224" 
+d="M0 344v4l4 4l4 4v4h4l4 4l4 4l4 4v4h4l4 4l4 4l4 4v4h8v8h4l4 4l4 4l4 4v4h4l4 4l4 4h4v8h4l4 4l4 4h8l4 -4v-1l4 -3l4 -4v-1l4 -3h4v-5l4 -3l4 -4v-4h4l4 -4v-1l4 -3h4v-5l4 -3h4v-8h8v-5l4 -3l4 -4v-1l4 -3l4 -4v-1l4 -3h4v-5l4 -3l4 -4v-4h-32l-8 8h-8v8h-8v8l-8 8
+l-8 8h-16v4h-8v4h-8v4l-4 -4h-4v-8h-8l-8 -8l-4 -8h-4l-8 -8h-8v-8h-8v-8h-8l-4 8l-4 -8h-16z" />
+    <glyph glyph-name="underscore" unicode="_" horiz-adv-x="264" 
+d="M8 -36l-8 4v20l8 4v4h8v-4h32v4h8v-4h8v4h48v-4h8v4h8v-4h8v4h72v-4h16l8 -4v-20l-8 -4h-48v4h-16v-4h-16v4h-72v-4h-64z" />
+    <glyph glyph-name="grave" unicode="`" horiz-adv-x="128" 
+d="M76 344v4h-8v4h-4v8h-4v8h-4l-4 8l-8 8l-8 8h-8v8h-8v8l-8 8l-8 8l-4 8l4 8l8 4h8v-1l4 -3h4v-8h4l4 -4v-4h4l4 -4v-1l4 -3l4 -4v-1l4 -3h4v-5l4 -3l4 -4v-1l4 -3h4v-5l4 -3h4v-5l4 -3l4 -4v-4h4l4 -4v-1l4 -3l-4 -8l-8 -8h-16z" />
+    <glyph glyph-name="a" unicode="a" horiz-adv-x="272" 
+d="M75 40v0h1h-1zM80 24l8 8h16l8 -4l8 4l8 8h8l8 8l8 4l4 4l-4 8l4 8v16l-4 4l-8 4l-8 8l-8 4v0l-4 4l-4 4l-8 4h-8l-4 8l-4 -8l-4 -8h-4l-4 -8l-4 8h-8l-8 -8l-4 -8v-8l-4 -8l-8 -8l8 -8l-4 -8v-8l4 -4h8l8 -4h3l-3 -4l-4 -4l4 -8h8zM88 -8l-8 4h-16l-8 4l-8 4l-8 4l-8 4
+v4h-8l-8 8l-8 8l-4 8l-4 8v24l4 8l4 4l4 4l4 8v8h8l4 8v8l4 8l8 4l8 4l8 4l8 4l8 4h32l8 4h16l8 -8l8 8l4 8v8l-4 8l-8 8l-4 8l-4 4l-8 4l-4 8l-4 4h-16l-8 -4l-8 -4l-4 -4l-4 -8l-8 -8l-4 -8h-4v-8l-8 -4l-8 -4h-8l-8 4l-8 4l-4 8h-4v8l-4 4l4 4l4 8l4 8l8 4h16l4 4v8l4 8
+l8 4l8 4h16l8 -4h16l4 4h20l8 -4h8v-4l8 -4l8 -4v-8h8l8 -8h4v-8l4 -8v-40l4 -8v-8l4 -8v-12l-4 -4l-4 -8v-24l4 -8l-4 -8v-16l8 -8v-8l8 -8h8l8 8l8 8l4 -8l4 8h4l4 -8v-8l-4 -8l-4 -8l-8 -4l-8 -4h-32l-8 4l-8 4l-4 8l-4 8l-8 -8v-8h-8l-8 -4v-4h-8l-8 -4h-8l-8 -4h-16z
+" />
+    <glyph glyph-name="b" unicode="b" horiz-adv-x="236" 
+d="M116 20l3 4h1l8 4v4h8l8 8v8h8v8h8l8 8l4 8l4 8l4 8v16l4 8v8l-4 8v8l4 4l4 4l4 8l-4 8v8l-4 8l-8 4v0l-4 4l-4 8h-8l-8 8h-8v4l-8 4l-4 8l-4 -8h-8l-4 8l-4 4l-8 4l-8 -8h-5l-3 -4l-4 -4l-4 -8l-8 -8l-8 -8l-8 -8l-8 -8l-4 -8l-4 -8l-4 -8l-4 -8h4v-8h-4v-8h4v-16h-4v-8
+l4 -8l4 -8q0 -2 -2 -3q-1 -1 -2 -1q1 0 2 -2q2 -1 2 -2l4 -8l4 -4l8 -4l8 -8v-8h8l8 -8l8 -4l8 -4v-1l4 -3l3 4h1l4 4l4 -4v-1l4 -3v0zM80 -4l-8 4l-8 4l-8 4l-8 8l-8 4l-4 -4h-1l-3 -4v-4l-4 -8h-24l-4 8v16l-4 8v16h4l-4 8v16h4v8h-4v64h4l8 4l-8 4v24h-4v8h8v8h-4v8h4v16
+h-4v16h4v8h-8v32h4v16h-4v8h4v12l-4 4l-4 4h-8l-8 -4l-8 -4h-8l-8 4v20l8 4l8 4h16l8 4l8 -4h8l8 -4h8q3 0 5 -3q3 -2 3 -5h4v-8h-4v-8h4v-8h-4v-8h4v-72h-8v-8h4v-16l8 8l8 8v8h8l8 4l8 4l8 4h56l8 -4h8v-4l8 -4l8 -8h8v-8h8v-8l8 -8l4 -8l4 -8l4 -8h4v-8l4 -8v-72l-4 -8
+l-4 -8v-8h-4v-8h-4v-8h-4l-8 -8v-8h-8l-8 -8h-8v-8h-8v-4l-8 -4h-8v-4h-56z" />
+    <glyph glyph-name="c" unicode="c" horiz-adv-x="244" 
+d="M108 -8v4h-16l-8 4l-8 4l-8 4l-8 4h-8v4h-8v8h-8v8l-8 8l-8 8l-4 8l-4 8v8l-4 8l-4 4v0l-4 4v40h4v8h-4v8l4 8l4 8l4 8l4 8l4 8v8h8l8 8h8v8l8 8h8v4l8 4v4h8l8 4l8 4h16l8 -4h8l8 4h16l8 -4l8 -4v-4h8l8 -4l8 -4l8 -8h8v-8l4 -8l4 -8l-8 -8l-8 -4h-8l-8 -4v-4l-4 -4h-1
+l-3 -4l-8 4l-4 8l-4 8v8h-8v16l-8 4l-8 4h-16l-4 8l-4 -8l-8 -4l-8 -4l-8 -4l-8 -4l-8 -8l-8 -8l-8 -8l-8 -8l-4 -8l-4 -8l-4 -8v-40l4 -8h4v-8l4 -8v-8l4 -8v-8l4 -8l8 -4h8v-1l4 -3l4 -4l8 -4l4 -8l4 8h16l8 -4l8 4h16q1 0 2 -2q2 -1 2 -2q0 1 1 2q1 2 3 2l8 4l8 4h8v4
+l8 4l8 4h8l8 -4l8 -8v-8l-8 -8l-8 -4l-8 -4l-8 -4l-4 -4l-4 -8h-8v4h-8v-4h-16v4h-8v-4h-24z" />
+    <glyph glyph-name="d" unicode="d" horiz-adv-x="288" 
+d="M120 8l8 4v4h8v8h8l8 8l8 8v8h8l4 4l-4 3v1l-8 8v8h4l4 8l4 8v8l4 4v4l-4 8l4 8l4 8l-4 8l-4 8l-4 8l-8 8l-8 8l-8 8v8h-8l-8 4l-8 4h-24l-8 -4v-4h-8l-8 -8v-8h-8v-8h-8l-8 -8l-4 -8v-8h-4v-8h-4v-56l4 -8l4 -8h4v-8l8 -8l8 -8l8 -8h8v-4h8v-8h8v-4h24zM88 -24v4h-8
+l-8 4l-8 4l-8 4l-8 8l-8 8l-8 8l-8 8l-4 8l-4 8l-4 8l-4 8l-4 8h-4q0 1 1 2q1 2 3 2q-2 0 -3 1t-1 3l4 8v16l4 4l4 4l4 8l-4 8l-4 4v0l-4 4v8l4 8l4 8l4 8l4 8l4 8h8l8 4h8l4 4l4 8h4l4 4v4l4 8l4 4l8 -4l8 4l4 4h4l8 4h8l8 4l8 -4h8l8 -4l8 -4l8 -4l8 -8l8 -4l4 4v16l4 8
+l-4 8v24l4 8v16h-4v8h-4l-8 4h-24l-8 4v8l8 4l-8 4v4l8 4v-1l4 -3l3 4h33l8 4h8l8 -4q3 0 5 -3q3 -2 3 -5l4 -8v-8h-4v-24h4v-80h-4v-40h4v-32h-4v-16h4v-8h-4v-8l4 -8v-32h-4v-16l4 -8l4 -4v-4l8 -4h24l8 -4v-20l-8 -4h-8v-4h-8v4h-8v-4h-24v4h-4l-4 4v1l-4 3l-4 8l-8 8v8
+l-8 -8l-8 -8l-8 -8l-8 -4l-8 -4l-8 -4h-8v-4h-8v4h-16v-4h-16z" />
+    <glyph glyph-name="e" unicode="e" horiz-adv-x="264" 
+d="M172 136l4 8l4 8l8 8v8l-8 8l-8 4l-8 4l-4 8l-4 4l-8 4l-8 4l-8 4h-24l-8 -4l-8 -4h-8v-4l-8 -4l-8 -8v-8h-16v-8l-8 -8l-4 -8l4 -4l8 -4l8 -8h16v4h24v-4h8v4h32v-4h8v4h8v-4h16zM116 -8l-8 4h-16l-8 4l-8 4l-8 4v8h-16v8h-8l-8 8h-8v8h-8v8h-4v8h-4v8l-4 8l-4 8l-4 8
+v32l4 8l-4 8v8l4 8l4 8l4 8l4 8l4 8v8h8v8h8l8 8v8h8l8 4l8 4v4h8v4h8l8 4h24l8 -4h8l8 4h8l8 -4l8 -4v-4h8l8 -4l8 -4v-8h8l8 -8h8v-8l8 -8l4 -8h4v-8h4v-8h4v-8l4 -8v-32h-1l-3 -4l-8 4h-8v-4h-32v4h-16v-4h-24v4h-16v-4h-40v4h-8v-4h-24l-8 -4h-4l-4 -8l4 -8v-8h-1l-3 -4
+l-4 -4l4 -4l8 -4l8 -8l8 -8v-8h8l8 -4v-4h8l8 -4l8 -4h40v4h8v4h8l8 4v4h8v4h8v4h4l4 -4l8 -4l8 -8v-16h-8l-8 -4v-4h-8l-8 -4l-8 -4l-8 -4h-24l-8 -4l-4 8l-4 -8h-8z" />
+    <glyph glyph-name="f" unicode="f" horiz-adv-x="200" 
+d="M8 0l-8 4v12l8 4l-8 4l8 4h32l4 4l4 8v16l4 8v40h-4v8h4v8h-4v64h-4v8h4v12h-16l-8 4l-4 8l4 4l4 4l4 8l4 -8l4 8h8v8h-4v32h4l4 8l4 8h8v8h-4l4 8l8 8h8v8l8 4l8 4l8 4l8 4v-4h8v4l8 4v-4h8v4h16v-4h8l8 -4h8v-4h8v-4l8 -4h8v-4l8 4l8 -4v-1l4 -3l-4 -8l4 -8l4 -8v-5
+l4 -3l4 -4v-8l-4 -4l-4 -8l-8 -4l-4 -4h-4l-8 4l-8 -4l-8 4h-8l-8 4l-8 8l4 8l-4 8v8l4 8l-4 4h-8v4l-8 4h-16v-4h-8l-8 -4l-8 -4v-8h-8v-8h-4l-4 -8l-4 -8l-4 -8v-24h8v-1l4 -3l3 4h1v-1l4 -3l3 4h1l4 4l4 -4h8l8 -4v-4l-4 -8h-4v-8l-8 -4h-8v4h-8v-4h-16v-4h4v-32h-4v-16
+h-4v-8h4v-8q1 0 2 -2q2 -1 2 -2q0 -2 -2 -3q-1 -1 -2 -1v-16l4 -8v-32l-4 -8l-4 -8v-16h4l8 -8l8 -4l8 -4l8 4h8l8 -4v-20l-8 -4h-32l-8 4l-8 -4h-48l-4 8l-4 -8h-8z" />
+    <glyph glyph-name="g" unicode="g" horiz-adv-x="264" 
+d="M67 192v0h1h-1zM112 88l8 4l8 4l8 4l4 4h4l8 4v4l4 8l-4 8l4 8l4 4v4l8 4l-8 4v8l-4 8h-4v8h-4v8h-4v4l-4 4h-4v4l-8 4h-8v4l-8 4l-4 8l-4 -8h-8l-8 -4v4h-8v-8l-8 -4v4h-8v-8h3l-3 -4v-4h-5l-3 -4l-8 -4l-4 -8l4 -8v-8h-1l-3 -4l4 -4v0l-8 -4l8 -4l4 -8l4 -8h4v-8h4v-5
+l4 -3h4v-4h8v-4h8v-4l8 -4h16zM72 -140l-8 4v8h-8v-4l-8 4l-8 4l-8 4v8h-8v8h-8l-4 8h-4v8h-4v8l-4 8v24l4 8l4 8l4 8v8h8l4 4l4 4l4 8l8 4l-8 4l-8 8h-8v8h-8l-4 8l4 8v12l-4 4v8l4 8v8h8l8 4v4h8l4 4l-4 3v1l-4 8h-4v8l-4 8l-4 8v8l-4 8l-4 8l4 8v8l4 8l8 8v8h4l4 8l8 8v8
+h8l8 4v4h8l8 4v4h8l8 4l8 -4l8 4h16l8 -4h8v-4l8 -4l8 8l8 -4l8 -4h8l8 4v4h24l8 -8l8 -4v-1l4 -3v-8l-4 -8l-8 -4v-4h-5l-3 -4l-8 -4h-8l-4 8l-4 -8l4 -8l4 -8v-48h-4l-4 -8v-8h-4l-4 -8l-8 -8l-8 -4h-8l-8 -4l-8 4v-4l-4 -8h-1l-3 -4v-4h-8l-8 -8l-8 -4l-8 4l-8 -4h-8
+l-8 4l-8 4l-8 -4l-4 -8h4v-4l8 -4h8v-8l8 -8h8v-4h16v-1l4 -3h4l8 -4h8v-1l4 -3l4 -4h8v-4l8 -4v-4h-80l-8 -4l-8 -4l-8 -8l-8 -8l-4 -8l-4 -8v-8l4 -4l-4 -4l-8 -4l8 -4l4 -8l4 -8l8 -8h8l8 -4l8 -4v-4h16v-4h8v4h8v-4h24v-4h8v4h16v4h8v-4l8 4v4h8l8 8v8h8v8h4l4 8v24
+l-4 8l-4 8l-8 8l-8 8l-8 4l-8 4v4l8 4h20l4 -8h8l8 -8h8l4 -8h4v-8h4v-8h4v-32l-4 -8v-16h-1l-3 -4l-4 -4l-4 -8l-8 -4v-4h-8v-4h-8v-4h-8l-8 -4l-8 -4l-8 -4v4h-8v-4h-24v4h-8l-4 8l-4 -8l-8 -4l-8 4h-8l-8 -4h-8z" />
+    <glyph glyph-name="h" unicode="h" horiz-adv-x="296" 
+d="M52 -8l-4 8v0l-4 4l-4 -4v0l-8 -4l-8 4h-16l-8 4v4l8 4l-8 4v8l8 4h8l8 4l4 8l4 8l-4 8v40h4v16h4v72h-4l-4 8v56l4 8l-4 8v16l4 8l-4 8v8l-4 4h-16l-8 4v20l8 4h48q3 0 5 -3q3 -2 3 -5h4v-8h-4v-32h4v-72h-4v-20l4 4l4 4v4h4l4 4v4h8l8 4v4h8v4h8v4h8l8 4h24l8 -4l8 4
+l8 -4l8 -4v-4h8l8 -8v-8h8l4 -8l4 -8v-8h4l4 -8v-16l-4 -8v-32l4 -8v-8l4 -8v-40h-4v-8h4v-8l4 -8l8 -4h8l8 -4l8 -4v-8l-4 -4l-4 -8l-8 -4h-16v4h-24v-4h-8v4h-8l-8 4v0l-4 4l-4 4l-8 4l-8 4v4l8 4h8l8 4v8h4v16h4v8h-4v8h4v8h-4v48h4v16h-4v8h4v4l-8 4l-4 8l-4 4l-8 4
+l-8 -4h-16l-8 -4l-8 4v0l-4 4l-4 4l-8 4l-8 -4h-8l-4 -4h-1l-3 -4v-12l-8 -8l-8 -8l4 -8l-4 -8l-4 -8h-1l-3 -4v-4l-8 -4l8 -4v-24h4v-8h-4v-16h4v-24l4 -8l8 4h8l8 -4l4 -4l-4 -4l8 -4l-8 -4v-4l-8 -4h-32l-4 -8v0z" />
+    <glyph glyph-name="i" unicode="i" horiz-adv-x="172" 
+d="M112 -8l-8 4h-16l-8 4h-8v-4h-8v4h-8l-8 4l-8 -4h-8l-8 4v4l8 4l-8 4l8 8l8 4h8l4 4l4 8v32l4 8v16l-4 8v32l4 8v8l-4 8v8h-4v16l-4 8l-8 8l-8 4h-8l-8 4l-8 -4l-8 4v8v0l4 4l-4 3v5l8 4q1 0 2 -2q2 -1 2 -2q0 1 1 2q1 2 3 2h8v4h40l8 -4h8q3 0 5 -3q3 -2 3 -5l4 -8v-8
+l-4 -8v-24l4 -8v-32l-4 -8l4 -8v-64l-4 -8v-8l4 -8l4 -4h8l8 -4h8l8 4h8l8 -4l4 -8l-4 -8v-4l-8 -4h-8v-4h-8l-8 -4v0zM76 252l-4 4v4l-8 4l-4 8l-4 8l-8 4l8 4v8h4l4 8l8 4v4h8l8 4l8 -4l4 -8v-8l4 -8l4 -4l-4 -4l-4 -8l-4 -8v-8l-4 -4l-4 4h-8l-4 -4v0z" />
+    <glyph glyph-name="j" unicode="j" horiz-adv-x="128" 
+d="M-28 -132l-4 4l-4 8l-4 -8l-8 4l-8 4h-8v4l-8 4l-8 8h-8v8l-4 8h-4v8h-4v8l-4 8v8l-4 4l4 4l-8 4l8 4l4 8v8h4l8 4l8 4h8l8 -4l8 -4h8v-4h8v-4l4 -8l4 -8v-8l4 -4l-4 -4l-4 -8v0l-4 -4l-4 -4l-4 -8h4l4 -4h8l8 4h16l8 -4l8 -4h4l4 4l4 4l4 8l8 4l8 4l8 8l4 8v16h4v8h-4
+v64h4v8h-4v16h4v8h-4v72h4v8h-4v8h4v40h-4v8h4v4h-48l-8 4v4h8l-8 4v12l8 4h16l8 -4l8 -4h20l4 4l4 4h12q3 0 5 -3q3 -2 3 -5v-8h4v-8h-4v-56h4v-8h-4v-8h4v-16h-4l-8 -4l8 -4h4v-40h-4v8h-4v-48h4v-8h-4v-32l4 -8l4 -8v-24h-4v-8h-4l-4 -8v-8h-4l-4 -8l-4 -8l-4 -8v-8h-8
+l-8 -8h-8l-8 -4v-4h-16l-8 -4l-8 -4h-16q-1 0 -2 2q-2 1 -2 2q0 -1 -1 -2q-1 -2 -3 -2l-4 -4v0zM56 256v4l-8 4h-4l-4 4v4h-8v8l-4 4l4 4l-8 4l8 4v8h4l4 8v4h8l8 4h8l8 -4v-1l4 -3h4v-4l8 -4h4v-8l4 -8v-16h-4l-4 -8l-8 -4l-8 -4h-16z" />
+    <glyph glyph-name="k" unicode="k" horiz-adv-x="256" 
+d="M172 -8l-4 4v1l-4 3h-4l-8 -4l-8 4h-8l-8 4v20l8 4h8v4l4 8l-4 8l-4 8h-4v8l-4 8l-4 8l-4 8h-4v16h-4l-4 8l-4 8h-4l-8 -4l-8 4l-8 -8v-8l-8 -4l-8 -4l-8 -8v-8h4v-8h-4v-8h4v-16l4 -8l8 -8l4 -8h4v-4l8 -4v-12l-8 -4h-64l-8 8v4l-4 4h-8l-4 8l8 4h16v4h8v40h4v8h-4v8h4
+v40h-4v16h-4v8h4v8h-4v56h4v24h-4v8h4v8h4v24h-4v12l-8 4l-8 8l-8 4l-8 4v20l8 4h8v-1l4 -3l3 4h25v-1l4 -3l3 4h1q3 0 5 -3q3 -2 3 -5v-8h4v-8h-4v-16h4v-40l-4 -8l4 -8v-24h-4v-8h4v-8h-4v-8h4v-8l-4 -8l-8 -4h8l8 -4l8 -8l8 4l8 4l8 8l8 4l4 4l4 4v4h4l4 4v4l-8 4l-8 4
+l8 4l-8 4v12l8 4l4 -8l4 8h64l8 -4v-8l-8 -4l-4 8l-4 -8l-4 8v-8l-4 -8l-8 -4v-4h-8l-4 -8h-1l-3 -4l-4 -4l-4 -8v-4l-4 -4h-4l-8 -4v-4h8l-8 -8v-8h8v-8h8l4 -8l4 -8h4v-8h4v-8l4 -8l4 -8l4 -8h4v-8l4 -8h4v-8h4v-8l4 -4l8 -4h4l4 -4l8 -4l8 -4l8 -4v-20l-8 -4h-8l-8 -4
+l-4 -4h-24z" />
+    <glyph glyph-name="l" unicode="l" horiz-adv-x="188" 
+d="M20 0l-8 4v8l8 4v8h8l8 4h8l8 -4v24h-4v40h8v96h-4v-8h-4v72l4 8v24l-4 8v8l-4 4l-8 4h-4l-4 4h-40l-8 4h-4v8h4v12l8 4h8v4h16v4h16v-4h24v-4h8v4h8v-4h8v-8h8v-8h4v-8h-4v-24l4 -8v-80h-4v8h-4v-16h4v-40h-4v-8h4v-8h-4v-16h8v-8h-4v-16h-4v-8h4v-16h4v-32l4 -8l8 -4
+l8 -4h24l8 4h8l8 -4v-20l-8 -4h-8l-8 4h-8l-8 -4h-80l-4 8l-4 -8h-8z" />
+    <glyph glyph-name="m" unicode="m" horiz-adv-x="404" 
+d="M32 72v8h-4v-8h4zM4 -4v4l-8 4v20l8 4h24v12h-4v48h4v16h-4v8h4v8h-4v64h4v8h-4v16h-4v-4h-16l-8 4v8l-4 4l4 4h8v8h40q3 0 5 -3q3 -2 3 -5l-8 -4l8 -4h12l4 4v4h8l8 4v4h8l8 4h40l8 -4h8v-4l8 -4h8v-8l8 -8h4l4 -4l8 4l8 4l4 4l4 4l8 4l8 4l8 4l8 4h16v-1l4 -3l4 -8
+l8 -4v-1l4 -3h4l4 -8l4 8l8 4l8 -4h8l8 -8l4 -8l4 -8l4 -8l4 -8v-8h4v-8h-4v-8h4v-64h-4v-16h4v-16h-4v-8h4v-16h-4v-4h24l8 -4v-20l-8 -4l-8 4h-40l-8 -4v4h-8v-4h-16l-8 4v4v0l4 4l-4 3v9l8 4h24v28h-8v40l4 8h4v8l-4 8l-4 4v12l4 8l4 4v12h-8v8l-8 8l-8 4h-8l-8 4l-8 4
+l-8 -4h-5l-3 -4l-8 4l-4 -8h-1l-3 -4l-4 -4l-4 -8l-8 -8l-8 -8v-16h-4v-48h4v-8h-4v-8h4v-16l8 -8l4 -8h-4v-4h8l8 -4v-20l-8 -4v-4h-56v4h-5l-3 -4h-8v4l-8 4v20l8 4h8l8 -4h4l4 -4l4 4l-4 8l-4 8v72h-4v20l-4 4l-4 4l-8 4l-4 8v8l-4 8l-8 4l-8 -4h-4l-4 4h-8l-8 4l-8 4
+l-4 -4h-9l-3 -4v-4l-4 -8l-4 -8v-24l-8 -4l8 -4v-16h-8v-8h4v-8h-4v-32l4 -8l4 -8l4 -8l4 -4h8l8 -4q0 -2 -2 -3q-1 -1 -2 -1q1 0 2 -2q2 -1 2 -2v-12l-8 -4h-8v-4h-8v4h-16v4h-16v-4h-8v-4h-24z" />
+    <glyph glyph-name="n" unicode="n" horiz-adv-x="288" 
+d="M8 -4v4l-8 4v20l8 4h8l8 -4h12l-4 8v8h4v8h-4v16h-4v40h4v16h-4v8h8v8h-4v8h4v8h-4v8h-4v24h4v8h-4v8h-4v4h-16l-8 4v20l8 4v4h16v-4h24q3 0 5 -3q3 -2 3 -5l-8 -4l8 -4h8l8 4h8l8 -4l8 4v4h8l8 4v4h8l8 4h40l8 -4l8 -4l8 -4h8v-16l4 -8l4 -4v-1l4 -3l-4 -8v-8l8 -8
+l-8 -8l4 -8l-4 -8v-5l4 -3l4 -4l8 -4v-8l-8 -4l8 -4v-24l-4 -8v-16l-4 -8h-1l-3 -4l4 -4v0l4 -4l-4 -4v-4l8 -4h4l4 -4l8 -4l8 4l8 -4v-8l-8 -4l8 -4v-4l-8 -4h-24v0l-4 4l-4 -4v0v0l-4 4l-4 -4h-32q-2 0 -3 1t-1 3q0 -2 -2 -3q-1 -1 -2 -1l-8 4v4l-4 4l4 4v8l8 4h8l4 4l4 8
+l4 8l4 8v8l-4 8v32h4v32h-4v8h4v8h-4v16h4v8l-4 8l-4 8h-8v8h-8v4l-8 4h-24l-8 -4v-4h-8l-8 -4l-4 -4h-1l-3 -4v-8l-4 -4h-1l-3 -4l-8 -4h-5l-3 -4v-4h-4l-4 -8v-8h-4l-4 -8h4v-8h-4v-8h4v-32h-4v-8h4v-8h-4v-8h4v-24h4v-8h8v-4h8l8 -4v-20l-8 -4v-4h-8l-8 4l-8 -4h-24v8
+h-16v-4h-8v-4h-8z" />
+    <glyph glyph-name="o" unicode="o" horiz-adv-x="268" 
+d="M92 12l4 4l4 4l8 4l4 -8v8h12l8 4l8 4l4 8l4 4l8 4v8h4l4 8v8h12l4 8l8 4l4 4h4v4l4 4v16h4v16h-4v8h-4v8h-4v8h-4v8l-8 8v8h-8l-8 8h-8v8h-8v4h-8v4h-8v4l-8 4h-24l-8 -4l-8 -4h-8v-4l-8 -4h-8v-8l-8 -8v-8h-8l-8 -8l-4 -8l-4 -8l-8 -8v-8l-8 -4v-4h-1l-3 -4l4 -4v-8
+l-8 -4l8 -4v-8l4 -8h4v-5l4 -3l4 -8l4 -8h4v-4l8 -4h8l4 -8h4l8 -4v-1l4 -3l4 -8h8l4 -8l4 -4v0zM84 -4l-8 4h-8v4l-8 4h-8v4l-8 4l-8 8l-8 8h-8v8l-4 8h-4v8h-4l-4 8l-4 8l-4 8l-4 8h4v16h-4v16h4v8h-4v16l4 8v8h4v8h4l4 8l4 8v8h8v8h8l8 8l8 8l8 4v4h8v4h8v4h8l8 4h64v-4
+l8 -4h8v-4l8 -4l8 -4h8v-8l8 -8l8 -8h8v-8h4v-8l4 -8l4 -8h4v-8l4 -8h4v-8h-4v-8h4v-8h-4v-8h4v-24h-4l-4 -8v-8h-4v-8h-4l-4 -8v-8h-4l-8 -8l-8 -8v-8h-8v-8h-8v-4h-8v-4h-8l-8 -4l-8 -4l-8 -4h-24l-8 4h-8l-8 -4h-8z" />
+    <glyph glyph-name="p" unicode="p" horiz-adv-x="248" 
+d="M132 24l8 4l8 4v8h8v8h8l8 8h4l4 4v4l4 8h4v8l4 8l4 8l8 4l-8 4v24l-4 8l-4 8v8h-4v8h-4v4l-4 4h-12l-8 4v0l-4 4h-4v4h-8v4q0 3 -3 5q-2 3 -5 3l-8 8l-4 8l-4 -8h-12l-4 -8h-16l-8 -8l-8 -8v-8h-8v-8h-4l-4 -8l-4 -8v-16h-4v-8h4v-16h-4v-8h4v-24l4 -8h16v-8h8v-8l8 -8
+h8v-8l8 -4l8 -4h16q0 1 1 2q1 2 3 2q1 0 2 -2q2 -1 2 -2v0zM-28 -124v4l-8 4v4l-4 4l4 4v8l8 4h8l8 4l8 8h8v8l4 8v32h4v8h-4v96h4v8h-4v48h4v8l4 8l-4 8v16h-4v24h-4v8h-8v4h-16l-8 4q0 1 2 2q1 2 2 2q-1 0 -2 1q-2 1 -2 3h1l3 4l-4 3v5l8 4h56q3 0 5 -3q3 -2 3 -5h16l4 -8
+l4 8l8 4l8 4l8 4h56l8 -4l8 -4h8v-4l8 -8h8v-8h8v-8l8 -8h4v-8h4v-8h4v-8l4 -8l4 -8v-72l-4 -8v-8h-4l-4 -8v-8h-4l-4 -8v-8h-8v-8h-8l-8 -8l-8 -8l-8 -4v-4h-8l-8 -4h-32l-8 4l-8 -4h-8l-8 4h-8v4l-8 4l-8 8h-8v-4l-4 -4v-8h-4v-16h4v-32h-4v-16h4v-8h-4v-8h4v-8l4 -4l8 -4
+l8 -4l8 4v4h8l8 -4l-8 -4l8 -4v-12l-8 -4h-24v-4h-32v4h-24v-4h-16v4h-8v-4h-8z" />
+    <glyph glyph-name="q" unicode="q" horiz-adv-x="268" 
+d="M96 20q0 1 1 2q1 2 3 2h8l8 4l8 4h8v8l8 8v8h8v8h8l4 8l4 8v8h4l4 8v12l4 4v8l-4 4v12l-4 8l-4 8v8h-4l-4 8v4l-4 4h-12l-4 8l-4 4v0l-4 4l-4 4l-8 4h-4l-4 4l-8 4h-16l-8 -4l-8 -4h-8l-4 -4l-4 4l-8 -8h-4l-4 -8l-8 -4l-4 -4v-8l-4 -8v-21l4 -3v-24l-4 -8v-8l4 -8h4v-8
+h4v-8l4 -8h8v-8l8 -8l8 -8h8v-8h8v-4l8 -4l4 4l4 -4q1 0 2 -2q2 -1 2 -2v0zM132 -120l-8 4v4q0 2 1 3t3 1q-2 0 -3 2q-1 1 -1 2v8l8 4h16l8 -4l8 4h8v4l8 4h-8v12h-4v16h4v8h-4v24h4v16h-4v8l-4 8l-8 4v4l-8 -8v-4h-8l-8 -4l-8 -4h-16l-8 4l-8 -4h-24l-8 4h-8v4h-8v4l-8 8
+h-8v8h-8v16h-8l-4 8h-4v8l-4 8h-4v8h-4v80l4 8l4 8l4 8l4 8l4 8l8 8l8 8l8 8l8 8l8 4l8 4l8 4h8l8 -4h8v-1l4 -3l3 4h1l8 4h16l8 -4l8 -4l8 -4l8 4l8 -4l4 4l4 -4l4 8h24l4 -8v-8l-8 -4l8 -4h-1l-3 -4l4 -4v-16l-8 -4l8 -4v-32h-4v-24h4l-8 -4l8 -4h-4v-8h-4v-8l4 -8v-24h4
+v-8h-4v-16h-4v-29l4 -3l4 -8v-8h-4l-4 -8v-12l4 -4l4 -8v-8l-4 -8l4 -8v-24l8 -4v0l4 -4h4v-4l8 -4l4 -8l4 8v-16h-88v1l-4 3l-4 -4h-8z" />
+    <glyph glyph-name="r" unicode="r" horiz-adv-x="260" 
+d="M16 -4v4h-8l-8 4v20l8 4h8l8 -4l8 4h8v28h8v8h-8v8h8v32h-8v8h8v16h-8v16h8v24h-8v28l-4 4h-4v4h-24l-8 4v20l8 4h8l8 -4h24l8 -4l8 4l8 4q3 0 5 -3q3 -2 3 -5h8l8 -4v-1l4 -3h4l8 4v4h8v4h8v4h8l8 4h48l4 4h4l4 8l4 -8l4 -8h12l8 -4l-8 -4l4 -8h4v-8h-1l-3 -4l4 -4v0
+l4 -4l-4 -4h-4l-4 -8l-8 -4v-4h-8l-4 -8l-4 8l-4 -4l-4 4v4l-8 4l-4 8h-4v16h-8v-4h-16v4l-8 -4l-8 -4v-4h-8v-4h-5l-3 -4l-4 -4h-1l-3 -4v-4h-5l-3 -4l-4 -4h-1l-3 -4v-4l4 -4l-4 -4v-8l-8 -8l-4 -8v-8h-4v-8h4v-16h-4v-8h4v-32h-4v-8h4v-8h-4v-12h32l8 -4l-8 -4l8 -4
+l-4 -8l-4 -8v-4h-64v4h-24v-4h-8z" />
+    <glyph glyph-name="s" unicode="s" horiz-adv-x="212" 
+d="M56 12l-8 4l-8 4l-4 -4h-24l-4 8l-4 8v24l4 8v8l4 8h12l4 8l4 -8h4l4 -8l4 -8h4v-4l8 -4h4l4 -4v-8l8 -4q1 0 2 -2q2 -1 2 -2q0 1 1 2q1 2 3 2q1 0 2 -2q2 -1 2 -2q0 1 1 2q1 2 3 2h16v-1l4 -3l3 4h17l8 4v4h8v8h8l4 8v32l-4 8v8h-8l-8 4v4h-8l-8 4h-8v4h-16v-4h-16v4h-8
+v-4h-24v4h-8v4h-8v4h-8v8l-8 8l-4 8h-4v8l-4 8l-4 8l4 8v8l4 8v8h4l4 8l8 8l8 8l8 4l8 4l8 4h24l8 -4h16l8 4h16l8 -4l8 -4l4 4h4l7 3v1h1v-1l4 -3l-4 -8v-4l8 -4v-8l4 -8l-4 -8v-5l4 -3l4 -4v-4l-4 -8h-24l-4 8h-4v8h-8v8h-4v8h-8v4l-8 4v4h-16v-4h-16v-4h-24l-8 -4h-8v-8
+l-4 -8v-8h-4l-8 -4h8v-16l8 -4v-8h8l8 -4l8 -4h8l4 4l4 -4l8 4l8 -4h32l8 -4l8 -4h8v-4l8 -4h8v-8l8 -8v-8h4l4 -8l4 -8l-4 -8l4 -8v-16l-4 -8l-4 -8h-4v-8l-8 -8h-8v-8l-8 -4l-8 4h-8v-4h-8v-4h-16v8h-8v-8h-8v4h-8v4h-8l-8 -8h-8v-4h-8z" />
+    <glyph glyph-name="t" unicode="t" horiz-adv-x="240" 
+d="M112 -4l-8 4h-8v4l-8 4h-8v8l-8 8v16h-4v16h-4v16h-4v16h-4v48h4v24h-4v8h4v8h-4v16h-4l-4 8l-8 4h-16v4h-8v-4h-8l-8 4v12h8l-8 4v4l8 4l8 -4l8 4h8l8 -4l4 4h4v4l8 4v8h4v8h-4v16h4v56h-4q0 3 2 5q2 3 6 3h16q3 0 5 -3q3 -2 3 -5h-4v-8h4v-16h4v-8h-8v-40l4 -8l4 -8
+l4 -8h8l8 4l4 4h4v-1l4 -3l3 4h17l8 -4v-4h8l8 -4v-12l8 -4l-8 -4l-8 -4h-16l-8 4h-16l-8 -4h-16l-4 -4h-1l-3 -4v-12h4v-8h-4v-32h4v-56h-4v-8h-4v-24h4l8 -8l4 -8l4 -8l8 -4l8 4l7 3v1h1v-1l4 -3l4 -4l8 4h8l8 8h8l4 8l4 8v8l8 4l-8 4v8q0 3 2 5q2 3 6 3h8l4 -8l4 8
+q3 0 5 -3q3 -2 3 -5v-40h-4l-4 -8v-8h-8v-8h-8l-8 -8l-8 -4v-4h-8l-8 -4h-40z" />
+    <glyph glyph-name="u" unicode="u" horiz-adv-x="288" 
+d="M88 -4l-8 4v8h-8v4l-8 4l-4 8l-4 4v4h-8v-4l-8 4l-4 8l-4 8h-4v16h4v32h-4v8h4v8h-4v24h4v16h-4v8h4v8h-4v32h4v4h-24l-8 4q0 1 1 2q1 2 3 2q-2 0 -3 1t-1 3v12l8 4h8v-4h8v4h8v-4h32v4h16v-4h8v4l8 -4v-4l4 -8l-4 -8l-8 -4h-24v-12h4v-16h-4v-8h4v-80h-8v-8h4v-24l4 -8
+h-4v-8h8l8 -8l8 -4l8 -4h24l8 4l8 4l8 4v4h4l4 4l4 4l4 4v4h4l4 4v4h4l4 4v4h4v8h4v8h4l4 8v108h-24l-8 4v8l8 4l-8 4v4l8 4h16v-1l4 -3l3 4h25l4 4l4 -4v-1l4 -3l3 4h1v-1l4 -3l3 4h9l8 -4v-4l-4 -8l4 -8l-8 -4h-24v-12h4v-8h-4v-8h4v-24h-4v-24h4v-8h-4v-16h4v-16h-4v-16
+h4v-8h-4v-8h4v-32h4v4h16l8 -4v-20l-8 -4h-16l-8 4h-8l-8 -4v4h-8v-4q-4 0 -6 2t-2 6v16l-8 4v-4h-8v-4h-8v-4h-8l-8 -4v-4l-8 -4v-4h-8l-8 -4h-16v4h-8v-4h-8v4h-8v-4v0z" />
+    <glyph glyph-name="v" unicode="v" horiz-adv-x="296" 
+d="M112 0l-4 8l-4 8v8h-4l-4 8l-4 8l-4 8l8 4l-8 4h-4l-4 8h-4v8l-4 8l-4 8h-4v8l-4 8h-4v8h-4v8l-4 8l-4 8l-4 8h-4v8l-4 8h-8v16l-4 8h-4v8l-4 8l-2 4h-10l-8 4v8l8 4l-8 4v4l8 4h16l8 -4l8 4h24v-4h8v-20l-8 -8v-16l4 -8h4v-8l8 -8v-16l4 -8h4v-8l4 -8h4v-8l4 -8l4 -8
+l4 -8h4v-5l4 -3l4 -4l8 -4v-5l4 -3h4l4 8l4 8v8h4v8h4v8h4l4 8l4 8l4 8h4l4 8v8h4l4 4v12h8v8h4v8h4l4 8l4 4l4 4l4 8l-8 8l-8 -4h-8l-8 4v20l8 4h16l4 4l4 -4v-1l4 -3l3 4h1l4 -8l4 8h32l8 -4v-4q0 -2 -2 -3q-1 -1 -2 -1q1 0 2 -2q2 -1 2 -2v-8l-8 -4h-26l-2 -4l-4 -8v-8
+h-4l-4 -8l-4 -8v-8h-4v-8h-4l-4 -8v-8h-4l-4 -8l-4 -8l-4 -8l-4 -8v-8h-4l-4 -8l-4 -8l-4 -8l-4 -8l-4 -8v-8h-4l-4 -8l-4 -8h-4l-4 -8l-8 -4v-4h-8v-16h-8z" />
+    <glyph glyph-name="w" unicode="w" horiz-adv-x="400" 
+d="M128 0v8h-8v8l-8 8v4l-8 4v8l4 8l-4 4v12l-4 8h-4v8h-4v8h-4v8l-4 8l-4 8h-4v8h-4v8l-4 8l-4 8h-4v8l-4 8h-4v8h-4v8l-4 8h-4v8l-4 8l-4 4l-8 -4l-8 4h-8l-8 4v20l8 4h8v-4h8v4h8v-4h8v4h16v-4h24v4h8l8 -4v-20l-8 -4l-4 -4h-4v-8l-4 -8l4 -8v-8h4l4 -8l4 -8h-4v-8h8
+l4 -8l4 -8l4 -8h4v-8l8 4l8 -4h8l8 -4l8 4h8l4 8h-4v12l-8 4l8 8l-8 8v4l8 4h8v-4h16v4h24l8 -4v-12l4 -4l-4 -4l-8 -4h-8l-4 -4h4l4 -8l4 -8l4 -8l4 -8l4 -8h4l4 8l4 -8l4 -8l4 8h4l4 8v8h4l4 8v8h4v8h4l4 8v8h4v8h4v8h4v8h4l4 8v8h4v8h4l4 8h-4v4h-16l-8 4l8 4l-8 4v12
+l8 4v4h8v-4h24v4h48v-4l8 -4v-20l-8 -4h-8l-4 -4h-4v-8h-4l-4 -8l-8 -4l-8 -4v-8h-4v-8h-4v-8h-4l-4 -8l-4 -8l-4 -8h-8v-8h-5l-3 -4v-9l4 -3l-4 -8l-4 -8h-8l-4 -8v-16l-4 -8h-4v-8h-5l-3 -4v-4h4l-4 -8l-4 -8l-4 -8h-8v-8h-4l-4 8h-4v8l-4 8l-4 8h-4v8l-4 8h-4v8h-4v8h-4
+v8h-8l-8 -8v-8h-4v-8h-8l-4 -8l-4 -8v-8h-4l-4 -8h-4v-8l-4 -8l-4 -8h-8z" />
+    <glyph glyph-name="x" unicode="x" horiz-adv-x="228" 
+d="M12 -4v4h-8l-8 4v4l8 4l-8 4v8l8 4h8v4l8 4v4l8 4v4h4v8h4l4 8l4 8v8h4v8h4l4 8v8h4v8h4l4 8l-4 8h-4v8l-4 8l-4 8h-4v8h-4v8l-4 8h-4v8h-4v8l-4 8h-8v4h-16l-8 4v8l-4 4l4 4v4l8 4v4h8v-4h8v4h16v-4h16v-4h16v4l8 -4v-12h-1l-3 -4l4 -4v0l-8 -4h-10l2 -4l4 -8h4v-8l4 -8
+h4v-8h4v-8h4l8 -8l8 -4l8 4v8h4v8h4l4 8l4 8v8h4l4 8l2 4h-10l-8 4v20l8 4h8v-4h24v4h24v-4h8v-12h-8v-8h-8v-4h-6l-2 -4l-4 -8h-4l-8 -8v-8h4l-4 -8l-4 -8h-4v-8h-5l-3 -4v-12l-4 -8h-4v-8l4 -8l4 -8v-16h8l4 -8l4 -8v-8h4l4 -8l4 -8l4 -8v-8h4l2 -4h18l8 -4v-8h-1l-3 -4
+l4 -4v-4l-8 -4v4h-16v-4l-8 4h-24l-8 -4v4h-8v-4l-8 4v20l8 4h14l-2 4l-4 8l-4 8l-4 8l-4 8l-4 8h-8v4l-8 4v4l-4 4h-12v-8h-4l-4 -8v-20l-4 -4h-1l-3 -4l-4 -4v-8h4v-4l8 -4v-8l4 -4l-4 -4v-4l-8 -4h-8v-4h-24v4h-16v-4h-8z" />
+    <glyph glyph-name="y" unicode="y" horiz-adv-x="312" 
+d="M0 -128l-4 8h-4v8h-8v8l-4 8h-4v16l4 8l4 8l8 4l8 4h8l8 -4l8 4l8 -4v-4l4 -8v-8l4 -4v-4l8 -4v-4l8 4v4h8l8 8v8h4v8h4v8h4l4 8v8h4v8h4l4 8v8h4v8h4v8l-4 8v4l4 4h4l4 8l-4 8l-4 8h4v8l-8 8h-4l-4 8v8h-4l-4 8l-4 8h-4v8h-4v8h-4v8l-4 8l-4 8l-4 8l-4 8h-4v8h-4v8l-4 8
+h-4l-8 8l-4 8h-4v4l-8 4l-4 8h-4v4h-8l-8 4v20l8 4v4h8v-4h8v4h32v-4h24v-4h8l8 -4v-16l-8 -4h-8l-8 -4v-8l4 -8h4v-8l8 -8h4v-8h4v-5l4 -3l4 -8l4 -8h-1l-3 -4l-4 -4l4 -8h4l4 -8l4 -8h4v-8h4v-8h4v-8l4 -8h4l4 8l4 4v4h4l4 8l8 4v4h8v4l4 4h4l4 8l4 8v8h4v8h4v8h4l4 8v8h4
+v8h4l4 8v8h4l4 8h4v4h-8l-8 4v4h8l-8 4l8 4l-8 4v4l8 4h48l4 -8l4 8h8l8 -4v-12h-1l-3 -4l4 -4v0l-8 -4h-16l-8 4v-4l-4 -4h-4v-8l-4 -8h-4l-8 -8v-8l4 -4l-4 -4l-4 -8h-4v-8l-4 -8h-4l-4 8l-4 -8l4 -8h-1l-3 -4l-4 -4l-4 -8v-8h4l-4 -8l-4 -8l-4 -8h-5l-3 -4v-12l-4 -8h-4
+v-8l-4 -8l-4 -8h-4l-4 -8v-8l-4 -8l-4 -8v-8h-4v-8h-4l-4 -8l-4 -8l-4 -8l-4 -8v-8h-4v-8h-4v-8h-4l-4 -8l-4 -8v-8h-4v-8h-8l-8 -8v-4h-8v-4h-8l-8 -4l-8 -4h-24l-8 4v-4h-16z" />
+    <glyph glyph-name="z" unicode="z" horiz-adv-x="188" 
+d="M28 -4v4h-8v4l-4 4l-4 4v8l4 4l4 8v4l4 4h8l4 4v20h4l4 8v16l8 8v8l4 8h4v8l4 8l4 8v8h4l4 8h8v16l4 8h4v8l-8 8l-4 8h-4v4h-8l-8 4l-8 -4h-8v-4h-8v-24l-4 -8h-24l-4 8v8h-4v16h4v16h-4v8h4q0 3 2 5q2 3 6 3v4h8v-4h24v4h72v-4h16v4h8v-4h8l-4 -8l-4 -8v-8h-4v-8h-4v-8
+h-4l-4 -8l-4 -8l-4 -8v-8h-4l-4 -8l-4 -8l-4 -8l-4 -8l-4 -8v-8h-4v-8h-4v-8h-4l-4 -8q0 -2 -2 -3q-1 -1 -2 -1q1 0 2 -2q2 -1 2 -2v-8l-8 -4l-4 -4v-8h-4l-4 -8l-4 -8v-8l8 -4h16l8 -4h8v-1l4 -3l3 4h1l8 4h8v12l4 8h4v8l4 8h4l4 -8l4 8h12l4 -8v-8l-8 -4h8v-12l-4 -8l4 -8
+v-8q0 -4 -3 -6q-2 -2 -5 -2h-8l-8 -4h-48v4h-8v4h-24v-4h-16v-4h-8z" />
+    <glyph glyph-name="braceleft" unicode="{" horiz-adv-x="160" 
+d="M80 -64v4l-8 4h-8v5l-4 3l-4 4v1l-4 3h-4v5l-4 3h-4v8l-4 8l-4 8v24l4 8l4 8v8h4v8h4v8h4v8h4v8h-4v16h4v16l-4 8h-4v8h-4v8h-4v8h-8v8l-8 8l-8 4l-8 4h-8v12l8 4l8 4v4h8l8 8h8v8l4 8h4v8l4 8l4 8v8h4v8h-4v8h4v8h-4v8l-4 8l-4 8l-4 8l-4 8l-4 8l-4 8h4v16h4v8h-4v8l4 8
+v8h4l4 4v4h4l4 4l4 4l4 4l8 4l8 4v4h24v-1l4 -3l3 4h9l8 -4v-20l-8 -4h-24l-8 -4h-8v-4l-4 -4h-4v-8h-8v-24l4 -8l4 -8h4v-8h4v-8l4 -8h4v-8h4v-8h-4v-16h4v-24h-4v-8l-4 -8l-4 -8l-4 -8l-4 -8v-16h-8v-21l4 -3l4 -8l4 -8l4 -8l4 -8l4 -8h4v-8h-4v-16h-4v-32h4l-4 -8l-4 -8
+v-40l-4 -8h4l-4 -8h-4l4 -8h4l8 -4v-4h8v-4h24l8 -4v-8l-8 -4l8 -4v-4l-8 -4h-8q-2 0 -3 2q-1 1 -1 2q0 -1 -2 -2q-1 -2 -2 -2h-24z" />
+    <glyph glyph-name="bar" unicode="|" horiz-adv-x="64" 
+d="M0 -24l-4 8v8h-4v16h4v8h-4v104h4v40h-4v8h4v8h4v24h-4v8h4v8h-4v24h4v8h-4v48h-4v8h4v16h-4v8h4v8h-4v8h4v8l4 8h4v-1l4 -3l3 4h13l4 -8v-8h4v-8h-4v-8h4v-64h-4v-16h4v-16h-4v-8h4v-16h-4v-8h4v-8h-4v-24h4v-8h-4v-48h-4v-8h4v-16h-4v-72h4v-32l-4 -8h-4l-8 4l-8 -4h-4
+z" />
+    <glyph glyph-name="braceright" unicode="}" horiz-adv-x="152" 
+d="M8 -64l-8 4v4l8 4l-8 4v8l8 4h24v4h8v4h8l4 4l4 8v8h4l4 8v8h-4v8l-4 8l-4 8h-4v8h-4v16h4v16h-4v32h-4v8h4v8l4 8v8h4l4 8l4 8l4 4v24l-4 4h-4v8h-4v8h-4v8l-4 8l-4 8v8h-4v24h4v8h-4v8h8v8h-4l4 8v8h4v8l4 8h4v8h-4l-4 4v8l4 4h4v8h-4v8h4l-4 8h-4v4h-8v4l-8 4h-8v4
+h-16v4h-8v16l8 4h32l8 -4h8v-4h8v-5l4 -3h4v-5l4 -3l4 -4v-1l4 -3h4v-8l4 -8l4 -8v-32h-4v-8h-4l-4 -8l-4 -8v-8h-4l-4 -8v-8h-4v-8h-4v-8h-4v-16h8l4 -8h4l4 -8v-13l4 -3h4v-5l4 -3h4v-8h4v-8h4v-8h8v-8h8l-8 -4l-8 -4l-8 -8v-8h-8l-4 -8l-4 -8v-8h-4v-8h-4v-8h-4v-32h4
+l4 -8h4v-8l4 -8h4v-8h4v-8l4 -8v-32h-4l-4 -8v-8h-5l-3 -4l-4 -4h-1l-3 -4v-4h-5l-3 -4l-8 -4v-4h-8v-4h-40z" />
+    <glyph glyph-name="asciitilde" unicode="~" horiz-adv-x="252" 
+d="M140 340v4l-8 4l-8 4h-8v4l-4 4h-4v4l-4 4l-4 4v4h-4l-4 4v4h-8l-8 4h-16l-8 -4h-13l-3 -4v-4l-8 -4v-4l4 -8l-4 -8h-24l-4 8v8l4 8v8h4v8h4l8 8v8h8l8 4v4h8v4h8v-4h8v4h8v-4h8v-4h8v4h8l8 -4h8v-4h4l4 -8l8 -8l8 -8h8v-8l8 -4h16v4h8l8 4v4h4l4 8l4 8h4v8h24l4 -8h4v-8
+h-4l-4 -8v-8h-4l-4 -8l-8 -8h-8v-8l-8 -4v-4h-8v-4h-8v4h-8v-4h-24z" />
+    <glyph glyph-name="exclamdown" unicode="&#xa1;" horiz-adv-x="88" 
+d="M24 -128q-4 0 -6 3q-2 2 -2 5v16h-4v16h4v16h-4v24h8v64h-4v8h4v8h-4v24h-4v8h4v8h-4v8h4v24h-4v8h4v8l4 8h24l4 -8v-4h4v-12h-4v-4h4v-4h-4v-4h4v-12h-4v-4h4v-20h-4v-4h4v-4h-4v-4h4v-36l-4 -8l-4 -8l4 -8v-8h4v-8h-4v-24h4v-56h-4v-8q0 -3 -3 -5q-2 -3 -5 -3h-16z
+M24 152l-8 4l-8 4l-4 8h4v8l8 4l-8 4h-8l4 8l4 8l8 4l8 4h8l8 -4l8 -4h4v-8l4 -8v-8l-4 -8h-4v-8h-8v-4l-8 -4h-8z" />
+    <glyph glyph-name="cent" unicode="&#xa2;" horiz-adv-x="196" 
+d="M44 64l4 8h8v16l4 8h4v8l4 8l4 8v8h4v8h4v8h4l4 8l4 8v8h4v8h4l4 8l4 8h-12l-8 -4v-4h-8l-8 -4l-4 -4h-4v-8h-8v-4l-4 -4h-4v-8h-4l-4 -8l-4 -8v-8h-4v-8h4v-24h-4v-8l4 -8h4v-8l4 -8v0zM32 0l-8 4v0l-4 4v8l4 8l4 8l1 2l-5 6h-8v8l-4 8h-4v8l-4 8h-4v16h4v16h-4v24h4v8
+h-4v8h4l4 8v8h4v8h4v8h8v8h8l8 8v8h8l8 4l8 4v4h8v4h8l8 4h8v4h16v-4h8l1 -1l3 5l4 4l8 4h8l8 -8v-8l-4 -7l4 -1l8 -8h8v-8l4 -8l-4 -8l-8 -8h-16v8l-8 8l-4 -8h-4v-8l-4 -8l-4 -8l-4 -8h-4v-8h-5l-3 -4v-12l-4 -8l-4 -8h-8v-16l-4 -8h-4v-8l-4 -8l-4 -8l-4 -8l-1 -2l5 -2
+l8 -4h16v4h8v4h8l8 8h8l8 -8l4 -8l-4 -8v-8h-8l-8 -4v-4h-8l-8 -4h-32l-8 4l-8 4h-2l-2 -4h-4v-8l-8 -8h-8z" />
+    <glyph glyph-name="sterling" unicode="&#xa3;" horiz-adv-x="232" 
+d="M0 -4v4l8 4l-8 4v8l8 8l8 8l8 8h8v8h8v8h8v16l4 8h4v8h8v8h-4v32h-8v8h4v8h-4v8h4v4h-32l-8 4v8q0 1 1 2q1 2 3 2q-2 0 -3 1t-1 3v4l8 4v4h8v-4h8v4h16v4h-4v8h4v8h-4v48h4v16h-4v8h4v8h4l4 8v8h4l4 4l4 4l4 4v4h4l4 4l8 4l8 4v4h8v4h24v-4h8v4h8v-4h8v-4l8 -4h8v-4h8v-4
+l4 -8h4v-24h-4v-8h-4l-8 -4v-4h-24v4h-8v4h-8v24l2 4h-18v-4h-8l-8 -4v-4h-4l-4 -8v-8h-4v-24h-4v-8h4v-48h-4v-16h-8v-4h32v4h8l8 -4v-20l-8 -4h-32v-4h4v-8h-4v-8h4v-24h-4v-16h-4v-8h4v-8l-4 -8l-4 -8l-4 -8l-4 -8l-4 -8l-4 -8l8 4l8 4h16v-4h16v-4h8v4h8l8 -4l8 -4v-4
+h16l8 4l8 4l8 4v-4h8l8 -8h-1l-3 -4l4 -4v0l-8 -8h-8v-8l-8 -4h-8v4h-8v-4h-16v4h-8v-4l-8 4l-8 4l-8 4l-8 4h-40l-8 -4l-8 -4l-8 -4l-8 -4h-32z" />
+    <glyph glyph-name="currency" unicode="&#xa4;" horiz-adv-x="160" 
+d="M64 144l8 4l4 4l4 8h4v16h-4l-4 8h-4v4l-8 4l-8 -4l-4 -4h-4v-16h-8v-8h8l4 -8l4 -4v-4h8zM32 219l-1 1h1v-1v0zM8 104l-8 8v16h4l4 4v4h8v8h4l-4 8h-4v16h4v8h-4v8h4l4 8l-4 4v4h-4l-4 4v4h-4l-4 4v12l8 8h12l4 -4v-1l4 -3h-4v-8h8v3l4 -3l4 -4l8 4h32l8 -4l4 4l4 4v4h4
+l4 4l4 4h12v-8h8v-12l-4 -4h-4v-4l-4 -4h-1l-3 -4v-4h-4l4 -8h-8v-24h8v-8l-4 -8l4 -4v-1l4 -3l4 -4v-1l4 -3l4 -4v-12l-8 -8h-24v4l-4 4h-4v8h4l-4 4l-8 -4h-32l-8 4l-4 -4h-4v-4l-4 -4h-4v-4l-4 -4h-12z" />
+    <glyph glyph-name="yen" unicode="&#xa5;" horiz-adv-x="328" 
+d="M80 -4v4h8v4h-16v-4h-8v4h-16v-4l-8 4v24h16v4h32v-4h8v4h24v8l-8 8h-8l-8 4v20h16v4h16v4h-8v12h-24l-8 4v8l8 4l-8 4v4l8 4h24v8h4l-4 8h4l-4 8h-4v8h-4v24h-8l-4 8h-4v8h-8v16h-4v8h-4v8l-4 8l-4 8h-4v8h-4v8l-4 8l-4 8h-4v8h-4v8l-4 8h-4v8l-4 8l-4 -8h-24l-8 4v24
+l8 4h16v4h64v-4h8v-4h8v4h8l8 -4v-24l-8 -4h-32l4 -8l4 -8l4 -8h4v-8h4v-8h4v-8l4 -8h4v-8l4 -8l4 -8v-8h4l4 -8h8v-4h8v4h16v-8h4l4 8l4 8v8h4l4 8h4v8l4 8l4 8l4 8v8h4l4 8l4 8l4 8v8h-28l-8 4v24l8 4h8v-4h40v4h40v-4h8v4h8l8 -4v-24l-8 -4v4h-8v4h-8v4h-8v-4h-16v-4h-8
+v-4l-8 -8v-16l4 -8h-8l-4 -8v-13l3 -3h1h-1l-3 -4v0l-4 4h-4v-8l-4 -8l4 -8h-8v-16l-4 -8h-4v-8l-4 -8l-4 -8l-4 -8h-4v-8l-4 -8l-4 -8v-5l4 -3h4v-8h8v-8h8l8 -4v-20l-8 -4v4h-8v-4h-16v4h-8v-16h8v-4h8l8 -4h8v-4l8 -4v-12l-8 -4h-13l-3 -4v-4h-5l-3 -4v-4h24v4h8v-4h8v4
+h24v-4h8l8 -4v-24l-8 -4h-8v-4h-8v4h-40v-4h-8v4h-8v-4h-24v4h-8v-4h-16v4h-8v-4h-16v4h-8v-4h-16z" />
+    <glyph glyph-name="brokenbar" unicode="&#xa6;" horiz-adv-x="56" 
+d="M0 0l-4 8v24h-4v16h4v8h-4v8h4l4 4l-4 3v1h4v40h-8v32h4v8l4 8h24l4 -8h-4v-8h4v-8h-4v-8h4v-40h-4v-24h8v-24h-4v-8h-4v-8h4v-16l-4 -8h-24zM0 176l-4 8v24h4v40h-4v24h4v8h-4v16h4v16h-8v16h4l4 8h24l4 -8h4v-8h-4v-32h4v-8h-4v-8h4v-32h-4v-8h4v-8h-5l-3 -4l4 -4v-8h4
+v-16h-4v-8l-4 -8h-12l-4 8l-4 -8h-4z" />
+    <glyph glyph-name="section" unicode="&#xa7;" horiz-adv-x="200" 
+d="M124 132v12l-4 8h-4v8h-24v4h-8v-4h-8v4h-32l-8 4v-8h-8v-8h-4l4 -8l8 -8l8 -4h80zM44 -8v4l-8 4l-8 4h-2l-2 -4h-24l-4 8h-4v16h4v16h-4v8h4l4 8h28l4 -8h4v-8h16v-8h8v-8h8v8h8v-8h8v8h28l4 -8v-1l4 -3l3 4h1l4 8h4l4 8v8h4v8h4v8l-4 8l-4 8h-4v8h-8v8l-8 4h-16v4h-16
+v-4h-16v4h-16v-4h-8l-8 4h-8v4l-8 4l-8 8h-8v8l-4 8h-4v8l-4 8v8h4v8h8v8h8v16h-8v8h-4l-4 8l-4 8v32h4l4 8v8h4v8h8v8h8l8 4v4h8l8 4h8v-4h16v-1l4 -3l3 4h17v-1l4 -3l3 4h1v4h16v-4h8l8 -4v-9l4 -3h4l7 3v1h1v-1l4 -3l-4 -8h8v-8h8v-16l-4 -8h-4l-4 8l-4 -8h-16v8h-4l-4 8
+l-8 8l-8 4v4h-56l-8 -4l-8 -4v-8h-8v-8h-4v-16l4 -8h8v-8h8v-8l8 -4h40v-4h16v4h8v-4h24v-4l8 -4h8v-8l8 -8l4 -8h4v-8l4 -8h-4l-8 -4l8 -4v-16h4v-8h-4v-8h4l-4 -8l-2 -4l2 -4l4 -8v-16h-4v-8h4v-8l-4 -8l-4 -8h-4v-8h-8v-8l-8 -8h-8v-4l-8 -4l-8 -4v-4h-8v4h-8v-4h-16v4
+h-24v-4h-24z" />
+    <glyph glyph-name="copyright" unicode="&#xa9;" horiz-adv-x="612" 
+d="M164 24l8 4v4h8l8 4v4h8l8 4l4 4l4 4v4h8v4l4 4l4 8v8h4v8h4l4 8v8h4v8h4v8h-4v40h4v16h-4v8h4v8l-4 8l-4 8l-4 8h-4v8l-4 8h-4v8l-4 4v0l-4 4l-4 4v0l-4 4l-4 4l-8 4l-8 4l-8 4l-8 4l-8 4h-8v4h-24v-4h-8v4h-8v-4h-8l-8 -4l-8 -4v-4h-8v-4h-8l-8 -4l-4 -4h-1l-3 -4v-4
+h-4v-8h-4v-8l-8 -8h-4l-4 -8l-4 -8l4 -4v-4h8v4h8v4h4l4 8v8h8v8h8l8 8v4h8v4h8l8 4l8 4v4h40l8 -4v-5l4 -3l4 -4l8 -4l4 -8h4v-5l4 -3l-4 -8v-5l4 -3h4v-8h4l-4 -8l-8 -4l-8 -4h-8l-8 4l-8 4h-8v8h4l-4 8v8l-8 8h-8v4l-8 -4l-8 -4v-4h-8v-8h-8l-8 -8v-8h-8l-4 -8l-4 -8v-8
+h-4v-32l4 -8h4l-4 -8v-5l4 -3l4 -8v-8l7 3v1h1v-1l4 -3l-4 -8v-5l4 -3h4l8 4l8 -4h4l4 -4l8 -4l4 -8l4 8h8l8 4v-4h4l4 4v4h4l4 4v4h16l8 -8v-8h-1l-3 -4l4 -4v0l-8 -8v-4h-8v-4h-8l-8 -4h-48v4h-8v4l-8 4h-8v4h-8v8l-4 4h-4l-8 8h-8v8l-8 8l-8 -4l-4 -4h-4v-8h4l4 -8l4 -8
+h4v-5l4 -3h4v-8h4l4 -4h8v-4h8v-4h8v-4h8v-4l8 -4v4h16v-4h16v4h24v-4v0zM92 -4l-8 4h-8v4l-8 4l-8 4l-8 4l-8 8h-8v8h-8v8h-8v8l-4 8h-4v8l-4 8l-4 8l-4 8h-4v8l-4 8v16h4v8h-4v16h4v16q0 1 1 2q1 2 3 2q-2 0 -3 1t-1 3l-4 8v24l4 8v8h4l4 8v8h4l4 8l4 8l4 8v8h8l8 8v8h8v8
+h8v4h8v4h8l8 4l8 4v4h16v-4h8v4h16v-4h40v4h16l8 -4l8 -8v-5l4 -3l-4 -8h8l8 4l8 -4v-5l4 -3h12l8 -8h8v-8l4 -8h4v-8l4 -8l4 -8l4 -8h4v-8l4 -8v-8h4v-8h-4v-16h4v-32h-4v-8h4v-16h-4v-8l-4 -8l-4 -8l-4 -8h-4l-4 -8v-8l-4 -8h-9l-3 -4v-12l-8 -8l-8 -8h-8v-8h-8v-4l-8 -4
+l-8 -4l-8 -4l-8 -4h-88z" />
+    <glyph glyph-name="guillemotleft" unicode="&#xab;" horiz-adv-x="188" 
+d="M84 84l-8 4h-8v8l-8 8h-8v8l-8 8l-8 8l-8 8h-8v8h-8v8l-8 8l-4 8h4v8h8v8l8 8l8 8l8 8l8 8v8h8v8h8l8 8v8h8l8 4l8 -4v-24l-8 -8h8v-8h8l8 8v8h8l8 8v8h8v8h8l8 4l8 -4v-24l-8 -8l-8 -8l-8 -8v-8h-8v-16h-16l-8 -8l8 -8v-8h8l8 -8l8 -8v-8h8l8 -8v-8h8v-24l-8 -4v4h-8v8
+h-8l-8 8v8h-8l-8 8h-16v16h-8v8l-8 8l-8 8l-4 8l4 8l8 8v8h-4l-4 8v-8h-8l-8 -8v-8h-8v-8h8v-16l8 -8v-8h8l8 -8h8v-8l8 -8v-24l-8 -4v0z" />
+    <glyph glyph-name="registered" unicode="&#xae;" horiz-adv-x="316" 
+d="M164 184v4h8l4 4l4 8v8l-4 8h-4v4h-8v-4h-16v4h-8v-4h-8v4h-8v4h-8v-8h-8v-24h8v-8h24v4h16v-4h8zM164 20v4l8 4v4h8l8 4l8 4l4 8v8h-12l-4 8l-4 -8h-8q-4 0 -6 2t-2 6h-4v24h4v16h-4v8h4l-4 8h-4v8l-4 8l-4 4v0l-4 4h-4v4l-4 4h-4v4h-8v4h-8v-8h-12v-8h4v-8h-4v-24h4
+v-16h-4v-16h4v4h8l8 -4v-20l-8 -4h-48l-8 4v4h8v8h8v8h8v8h4v8h-4v8h4v8h-4v16h-8v24h8v8h8v8h-8v24h-8v28h-8l-8 4v8h-16v-8h-4l-4 -8l-4 -8l-4 -8l-4 -8v-16h-4v-16h4v-24h-4v-16h4v-8l4 -8v-8h4l4 -8v-16h8v-16h8v-16h16v-8h24l8 -4h8v-4h16v4h8v-4h8v4h16v-8h8zM228 72
+v8h4l4 8v8h4l4 8v32h4v8h-4v8h4v24h-4v8h4v8h-4v8l-4 8l-4 8l-4 8h-4v8l-4 8h-12v12l-4 4h-20v8h-16v8h-16v8h-48l-8 -4l-8 -4l-8 -4v-12h8v-8h8v-4h8v4h8v-4h8v4h16v-8h8v8h24v-4h24v-4l8 -8l4 -8h4v-8l-8 -4l8 -4h-1l-3 -4l4 -4v-8l-4 -8l-4 -8v-8h-8v-4h-8l-8 -4h-8l8 -8
+l4 -8h4v-8l4 -8l4 -8h-4v-16h4v-20h8l8 -4h8v-5l4 -3h4zM84 -4v4h-8v4h-8v4h-8v4l-8 4l-8 8l-8 8h-8v8h-8v8h-4v8l-4 8v8h-4l-4 8v16h-8v16h-4v24h4v8h-4v16h4v32h-4v16h4v8h4v8h4v8h4l4 8v8h4v8h4l8 8l8 8v8h8l8 8v4h8v4h8l8 4l8 4v4h8v4h8v-4h32v4h8v-4h8v4h24v-4h8l8 -4
+h8v-4l8 -4h8v-4h8v-4h8v-8l8 -8l8 -8h8v-8h4v-8l4 -8l4 -8h4v-8l4 -8l4 -8h4v-8h4v-8h-4v-8h4v-48h-8v-8h8v-16h-4v-8l-4 -8v-8h-4v-8h-4l-4 -8l-4 -8v-8h-4v-8h-4v-8h-8l-8 -8v-8h-8v-8h-8v-4h-8l-8 -4l-8 -4v-4h-8l-8 -4h-40v4h-8v-4h-8v4h-24v-4h-16z" />
+    <glyph glyph-name="degree" unicode="&#xb0;" horiz-adv-x="132" 
+d="M56 272l8 4l4 4h4v4h8v4h-8v16h-4l-4 4v4h-16l-8 -4v-4h-4l-4 -8v-8l4 -8h12v-4h8v-4v0zM40 244l-8 4l-8 4v4h-8l-8 8l-4 8l-4 8h4v24h-4v8h4l4 8v8h8l8 4v4h8l8 4h16v4h8v-4l8 -4h8v-4l8 -4v-8h8v-8h4l4 -8h4v-16h-4v-8l-4 -8l-4 -8v-8h-8l-8 -4v-4h-8l-8 -4h-8v4h-16
+v-4v0z" />
+    <glyph glyph-name="plusminus" unicode="&#xb1;" horiz-adv-x="200" 
+d="M16 64v4h-8l-8 4v20l8 4v-4h8v8h32v-4h24v4h8v-4h16v4h32v-8h40v-12l-8 -4h8v-4l-8 -4h-16v-4h-32v4h-32v-4h-32v4h-24v-4h-8zM80 120l-4 8h-4v16h-4v44h-28v4h-8v-4h-24l-8 4v8l8 4l-8 4v4l8 4v-4h8v4h16v4h16v4h4l4 4v4h4l4 8h4v16h-4v16h4l4 8h4l4 -4v-4l4 8h12l4 -8
+v-48h4v-5l4 -3h12v-4h8v4h16v-4h16v4l8 -4v-20l-8 -4h-16v4h-16v-4h-16v-4h-4l-4 -8h-4v-48l-4 -8h-16z" />
+    <glyph glyph-name="mu" unicode="&#xb5;" horiz-adv-x="288" 
+d="M8 -124v4l-8 4v20l8 4h24v20h-4v8h4v32h-4v24h8v72h-4v8h4v8h-4v8h4v8h-4v96h-4v8h4v4h-24l-8 4v20h8v4h16v-4h32v4h32l8 -4v-20l-8 -4h-24v-4h-4v-8h4v-48h-4v-40h4v-48l4 -8l4 -8l8 -8l8 -4h8v8l8 -4h8v8h12l4 8v4h8v-4h8v-4h8v4h-4l4 8h8v8h8v4h8l4 4l4 8l4 8v8h-4v4
+h8v4h-4v24h4v8h-4v32h4v24h-4v8h4v4h-24l-8 4v20l8 4v4h8v-4h16v4h8v-4h8v4h32v-4h8l8 -4v-20l-8 -4h-24v-4h4v-8h-4v-16h4v-8h-4v-8h4v-16h-4v-8h4v-64h-4v-8h4v-16h-4v-20h24l8 -4v-20l-8 -4v-4h-8v4h-16v-4h-24v4q-4 0 -6 2t-2 6h-8v4l-4 4h-12l-8 -4v-4h-8v-4h-8l-8 -4
+v-4h-16v4h-24v-4h-8l-8 4l-8 4l-8 4v-16h-4v-8h4v-16h-4v-8h4v-24h-4v-16h4v-12h24l8 -4v-20l-8 -4h-16v4h-32v-4h-24v-4h-8z" />
+    <glyph glyph-name="paragraph" unicode="&#xb6;" horiz-adv-x="184" 
+d="M60 224v8h12v16h4v8h4v8h-4v8h-4v24h-4v4h-24l-8 -4l-4 -8v-8h-4v-8h4v-8h-4v-8h4v-16l4 -8h8v-4l8 -4h8zM80 -24l-4 8v32h4v56h-4v8h4v16h-4v8h4v16h-4v8h4v24h-4v24h4v8h-4v8h-32v4l-8 4l-8 4h-8v4h-8v8h-8v8l-4 8l-4 8h4v16h-8v40h4v8h4l4 8v8h8v4h8l8 4h8v4h8v-4h24
+v4h32v-4h8v4h16v-4h16v4h8v-4q3 0 5 -3q3 -2 3 -5h-4v-8h4v-16h-4v-8h4v-16h-4v-32h4v-8h4v-24h-4v-8h4v-24h-4v-8h4v-8h-4v-32h4v-16h-4v-8h4v-40h-4v-8h4v-16h-4v-8h4v-16h-4v-32l-4 -8h-12l-4 8l-4 -8h-4l-4 8v-8h-4v32h4v8h4v32h-4v8h4v16h-4v16h4v24h-4v8h4v48h-4v16h4
+v8h-4v32h4v32h-4v32h4v8h-4v4h-16v4h-4v-8h4v-40h-4v-8h4v-8h-4v-8h4v-8h-4v-16h4v-8h-4v-16h4v-16h4v-8h-4v-8h4v-8h-4v-16h4v-24h-4v-8h4v-8h-4v-8h-4v-64h4v-32l-4 -8h-24z" />
+    <glyph glyph-name="guillemotright" unicode="&#xbb;" horiz-adv-x="184" 
+d="M8 84v4h-8v8h8v8h-8v8l8 8h8v8l8 8l8 8v16h8v24h-8v8l-8 8l-8 8h-8v8l-8 8v24l8 4v-4h8l8 -8h8v-8l8 -8h8v-8h16v-16l8 -8l8 -8h8v-8l4 -8l-4 -8v-8h-8v-16h-16v-8h-8l-8 -8l-8 -8l-8 -8l-8 -8l-8 -8l-8 -4v0zM72 84l-8 4v24l8 8v8h8l8 8v8h8l8 8l8 8v16h-8v8l-8 8l-8 8
+l-8 8l-8 8h-8v32l8 4l8 -4h8v-8l8 -8h8v-8h8v-8l8 -8v-8h8v-16h8v-16h16v-8l-8 -8l-8 -8h-8v-8l-8 -8v-8h-8l-8 -8l-8 -8h-8v-8h-8v-8l-8 -4v0z" />
+    <glyph glyph-name="onequarter" unicode="&#xbc;" horiz-adv-x="288" 
+d="M220 0v16h-4v4h-56v0l-4 4v8l4 8l4 8l4 8l4 8v48h4v16h-4v8l-4 8l-4 8v8h24v-8l4 -8v-8h4l4 -8h4v-8h-4v-8h4v-40h-4l-4 -8v-8h4v-8h16v8h4v24h-4v8h4v8h-4v8l4 8h16l4 -8h4v-8h-4v-24h4v-16h-8v-16h12l8 -4v-12l-8 -4h-8v-4h4v-8h-4l-4 -8h-16zM16 172v4h-8l-8 4v12l8 4
+h8v4h8v-4h8v4h4v8h4v16h-4v16h4v8h-4v8h4v8h-4v32h4v8h-4v8h-4v-4l-8 -4l-8 -4h-8l-8 4l4 8l4 4l8 4l8 4v4h8v4h8v4h16q3 0 5 -3q3 -2 3 -5h4v-8h-4v-8h4v-56h-4v-8h4v-8h-4v-8h4v-8h-4v-8h4v-16h20v-4h8l8 -4v-12l-8 -4h-8v4h-16v-4h-24v4h-8v-4h-16v-4h-8zM40 0l-4 8l4 8
+v8h4l4 8h8v16l4 8l4 8l4 8h4v8l4 8h4v8l4 8l4 8v8h4l4 8l4 8l4 8l4 8l4 8v8h4l4 8v8h4l4 8l4 8l4 8l4 8l4 8v8h4l4 8l4 8l4 8v8h4l4 8v8h4l4 8l4 8l4 8v16h8v8h4l4 4l4 4h4v-8h4v-8h-4v-8h4v-8h4l-4 -8l-4 -8h-8v-16h-8v-16l-4 -8h-4v-8l-4 -8l-4 -8v-8h-4l-4 -8l-4 -8
+l-4 -8v-8h-4l-4 -8v-8h-4l-4 -8l-4 -8l-4 -8l-4 -8l-4 -8l-4 -8l-4 -8v-8h-4l-4 -8l-4 -8l-4 -8v-8h-4l-4 -8v-8h-4l-4 -8v-8h-4l-4 -8l-4 -8l-4 -8l-4 -8h-1l-3 -4l-4 -4h-20z" />
+    <glyph glyph-name="onehalf" unicode="&#xbd;" horiz-adv-x="288" 
+d="M152 -4v4q-4 0 -6 2t-2 6v16l4 8l4 8l4 8l4 4l4 4l4 4v4h4l4 4v4h8l8 4v4h8l8 4l8 4v8h8l4 8v8h-4v8h-8v8h-8v8h-8v4h-8v-4h-8v-8h-8l-4 -8h-1l-3 -4l-4 -4h-12l-4 8l4 8l4 8l4 4v8h8v4h8v4h8l8 4h16l8 -4l8 -4h8v-5l4 -3h4v-5l4 -3l4 -8l4 -8v-16l-4 -8v-8h-5l-3 -4
+l-4 -4h-1l-3 -4l-8 -4l-8 -4v-4h-8l-8 -4v-4h-8v-8h-8l-8 -8v-8h8v-12h8v4h8v-4h16v4h16v-4h16l8 -4v-12l-8 -4h-8v-4h-16v4h-8v-4h-32v4h-24v-4h-8zM8 172v4l-8 4v12l8 4h24v-4h4v64h4v8h-4v16h4v16h-4v8h4v8l-8 -4l-8 -4l-8 -4h-8l-8 4l4 8l4 4v4h8v4h8l8 4l8 4v4h16
+q3 0 5 -3q3 -2 3 -5h4v-16h-4v-16h4v-64h-4v-8h4v-8h-4v-8h4v-8h-4v-4h32l8 -4v-12l-8 -4h-8v-4h-64v4h-8v-4h-8zM40 0l-4 8l4 8l4 8l4 8v8h4l4 8l4 8l4 8l4 8l4 8v8h4l4 8v8h4l4 8v8h4l4 8l4 8l4 8l4 8l4 8v8h4l4 8v8h4l4 8l4 8l4 8l4 8l4 8v8h4l4 8l4 8l4 8l4 8l4 8v8h4
+l4 8l4 8l4 8v8h4l4 8l4 8l4 4l4 4h20l4 -8l-4 -8v-8h-4l-4 -8l-4 -8l-4 -8v-8h-4l-4 -8l-4 -8l-4 -8v-8h-4l-4 -8v-8h-4l-4 -8l-4 -8l-4 -8l-4 -8l-4 -8v-16h-8v-8h-4l4 -8v-24h-8l-4 8l-4 -8v-8h-8v-8h-4l-4 -8l-4 -8l-4 -8l-4 -8l-4 -8l-4 -8l-4 -8v-8h-4l-4 -8l-4 -8
+l-4 -8v-8h-4l-4 -8v-8h-5l-3 -4l-4 -4h-20z" />
+    <glyph glyph-name="threequarters" unicode="&#xbe;" horiz-adv-x="284" 
+d="M216 0l-4 8h-4v8h4v4h-40v12h-8v8h-8l4 8l4 8l4 8v32h4v8h-4v8h4v16h-4v8l-4 8l-4 8v8h20v-8h4l4 -8l4 -8l4 -8h-4v-8h4v-8h-4v-48l-4 -8l-4 -8l-4 -8h32v8h-4v32h4v16h-4v8h4l4 8h16l4 -8h4v-8h4v-16h-4v-8h4v-24h-4v-8h4l8 -4v-12l-8 -4h-8v-12l-4 -8h-16zM44 176l-8 4
+l-8 4v4h-8v0l-4 4l-4 4v4h-4l-4 8v8h-4l4 8h8l8 -4v-1l4 -3l4 -8h8l8 -4v-4h8v4l8 4h8v4h8v-4l4 8v16h-4v8h-8v4l-8 4l-8 4v8l8 4l8 4l8 4l4 8v8h-4v8h-8v4l-8 4h-8v4h-8v4h-8l-8 -8l-4 -8h-1l-3 -4l-4 -4h-12l-4 8h4v8h8v8h-4l4 4l4 4l4 4l8 4l8 4l8 4h24v-4l8 -4h8v-5
+l4 -3h4v-5l4 -3l4 -8v-24h4l-4 -8l-4 -8h-1l-3 -4l-8 -4l8 -4v-1l4 -3l4 -8l4 -8h-4v-8h4v-8l-4 -8v-8h-5l-3 -4v-4h-5l-3 -4v-4h-8v-4h-8l-8 -4h-16zM52 32l-4 8l4 8l4 8l4 8v8h4l4 8v8h4v8h4l4 8v8h4l4 8l4 8v8h8v8l4 8l4 8v8h4l4 8l4 8v8h4v8h4l4 8v8h4l4 8l4 8l4 8l4 8
+l4 8v8h4l4 8l4 8l4 8h4l4 4v12l4 8v8h4v8h4l4 4l4 4h20l4 -8l-4 -8v-8h-4v-8h-4v-8h-4l-4 -8v-8h-4l-4 -8l-4 -8v-8h-4v-8h-4v-8h-4l-4 -8l-4 -8v-8h-4l-4 -8l-4 -8l-4 -8v-8h-4l-4 -8v-8h-4v-8h-4v-8h-4l-4 -8l-4 -8l-4 -8l-4 -8v-8h-4v-8h-4l-4 -8l-4 -8l-4 -8l-4 -8v-8
+h-4l-4 -8l-4 -8h-12l-4 -8v-8h-16z" />
+    <glyph glyph-name="questiondown" unicode="&#xbf;" horiz-adv-x="232" 
+d="M80 -132v4l-8 4h-8v4h-8v4l-8 4h-8v8h-8v8l-4 8l-4 8l-4 8h-4v24h4v16h-4v8l4 8h4v8h8v8h-4l4 8l8 8h8v8h8v4l8 4v4h8l8 4l8 8l4 8l4 8h4v32h-4v16h4v8h-4l4 8h24l4 -8v-8h4v-8h-4v-24h4v-32h-4v-8h-4l-4 -8v-8h-8l-8 -4l-8 -4h-8v-4l-8 -4h-8l-4 -8h-4v-8l-8 -8h-8v-8
+h-4v-8h4v-8h-4v-16h4l4 -8h4v-8h8v-8l8 -8l8 -8h8v-4l8 -4h24v8h8v16h8v8h8l4 8l4 8v4h8v4h24v-4l8 -4l4 -8h4v-24h-4l-4 -8v-8h-8v-8h-8v-4h-8l-8 -4l-8 -4v-4h-8l-8 -4h-56zM104 152v8h-8v12l-4 4h-12v8l4 8h4v12h8l8 4h8l8 -4v-8h8v4l4 -8l4 -8v-24h-8l-8 -4l-8 -4h-4v8
+l-4 -8v0z" />
+    <glyph glyph-name="Agrave" unicode="&#xc0;" horiz-adv-x="432" 
+d="M208 96l8 4l4 4h28l4 8l4 4l8 4v12l4 4l-4 8l-4 8l-4 8l-4 8l-4 8l-8 4v0l-4 4l-4 8v8l-4 8v8l-4 8q-4 0 -6 2t-2 6v8l-4 8l-4 8v-4l-8 -4h-8l-8 -8l-4 -8l-4 -8l-4 -8l-4 -8v-8l-4 -8l-4 -8l-4 -8v-8l-4 -8l-8 -8l-4 -8l-4 -8l-8 -8l-4 -8l4 -8q0 -4 2 -6t6 -2h24l8 4
+l8 -4l8 -4h8l8 -4h8zM16 0l8 8l4 8h4v8l4 8h4l4 8l4 8l4 8l4 8l4 8l4 8l4 8l4 8l4 8v8l4 8l4 8l4 4l4 4l4 8l4 8l4 8l4 8h4l8 8v16l4 8l4 8l4 8l4 8v8l4 8l4 8v8l8 8q3 0 5 2q3 2 3 6l4 8l4 8v8l4 8l4 8l8 8l4 8l4 4l8 4l8 -4v-1l4 -3h4l4 -8v-8l4 -8l4 -8l4 -4v-4l4 -8
+l4 -8l4 -8l4 -8l4 -8l4 -8l4 -8l4 -8l4 -8l4 -4v-1l4 -3l4 -8v-8l4 -8l4 -8l4 -8l4 -8l4 -8l4 -8l4 -8l4 -8l4 -8l4 -8l4 -8l4 -8l4 -8l4 -8l8 -8l8 -8l4 -8l4 -4v-1l4 -3l4 -8l8 -8h16l8 -4v-24l-8 -4h-24v4l-8 4l-8 -8h-56l-8 4v24l8 4h8l8 8l-8 4v0l-4 4l-4 8v8l-8 4
+l-8 4h-8l-8 -4q0 -2 -2 -3q-1 -1 -2 -1h-8l-4 4l-8 4h-125l-3 -4l-8 -4l-8 -8l-8 -8l-4 -8l4 -8h16l8 -4v-4l-8 -4l8 -4v-12l-8 -4h-88zM224 344v4h-8v4h-4v8h-4v8h-4l-4 8l-8 8l-8 8h-8v8h-8v8l-8 8l-8 8l-4 8l4 8l8 4h8v-1l4 -3h4v-8h4l4 -4v-4h4l4 -4v-1l4 -3l4 -4v-1
+l4 -3h4v-5l4 -3l4 -4v-1l4 -3h4v-5l4 -3h4v-5l4 -3l4 -4v-4h4l4 -4v-1l4 -3l-4 -8l-8 -8h-16z" />
+    <glyph glyph-name="Aacute" unicode="&#xc1;" horiz-adv-x="432" 
+d="M208 96l8 4l4 4h28l4 8l4 4l8 4v12l4 4l-4 8l-4 8l-4 8l-4 8l-4 8l-8 4v0l-4 4l-4 8v8l-4 8v8l-4 8q-4 0 -6 2t-2 6v8l-4 8l-4 8v-4l-8 -4h-8l-8 -8l-4 -8l-4 -8l-4 -8l-4 -8v-8l-4 -8l-4 -8l-4 -8v-8l-4 -8l-8 -8l-4 -8l-4 -8l-8 -8l-4 -8l4 -8q0 -4 2 -6t6 -2h24l8 4
+l8 -4l8 -4h8l8 -4h8zM16 0l8 8l4 8h4v8l4 8h4l4 8l4 8l4 8l4 8l4 8l4 8l4 8l4 8l4 8v8l4 8l4 8l4 4l4 4l4 8l4 8l4 8l4 8h4l8 8v16l4 8l4 8l4 8l4 8v8l4 8l4 8v8l8 8q3 0 5 2q3 2 3 6l4 8l4 8v8l4 8l4 8l8 8l4 8l4 4l8 4l8 -4v-1l4 -3h4l4 -8v-8l4 -8l4 -8l4 -4v-4l4 -8
+l4 -8l4 -8l4 -8l4 -8l4 -8l4 -8l4 -8l4 -8l4 -4v-1l4 -3l4 -8v-8l4 -8l4 -8l4 -8l4 -8l4 -8l4 -8l4 -8l4 -8l4 -8l4 -8l4 -8l4 -8l4 -8l4 -8l8 -8l8 -8l4 -8l4 -4v-1l4 -3l4 -8l8 -8h16l8 -4v-24l-8 -4h-24v4l-8 4l-8 -8h-56l-8 4v24l8 4h8l8 8l-8 4v0l-4 4l-4 8v8l-8 4
+l-8 4h-8l-8 -4q0 -2 -2 -3q-1 -1 -2 -1h-8l-4 4l-8 4h-125l-3 -4l-8 -4l-8 -8l-8 -8l-4 -8l4 -8h16l8 -4v-4l-8 -4l8 -4v-12l-8 -4h-88zM160 344l-8 8l-4 8l4 4v4h4l4 4v4h4l4 4l4 4l4 4l4 4l4 4l4 4l4 4v4h4l4 4l4 4l4 4l4 4l4 4v4h4l4 4l4 4l4 4h8l8 -4v-8h-8v-8h-8v-16
+h-8v-8l-8 -8l-8 -8h-8v-8l-8 -8l-8 -8v-8h-8v-8h-16z" />
+    <glyph glyph-name="Acircumflex" unicode="&#xc2;" horiz-adv-x="432" 
+d="M208 96l8 4l4 4h28l4 8l4 4l8 4v12l4 4l-4 8l-4 8l-4 8l-4 8l-4 8l-8 4v0l-4 4l-4 8v8l-4 8v8l-4 8q-4 0 -6 2t-2 6v8l-4 8l-4 8v-4l-8 -4h-8l-8 -8l-4 -8l-4 -8l-4 -8l-4 -8v-8l-4 -8l-4 -8l-4 -8v-8l-4 -8l-8 -8l-4 -8l-4 -8l-8 -8l-4 -8l4 -8q0 -4 2 -6t6 -2h24l8 4
+l8 -4l8 -4h8l8 -4h8zM16 0l8 8l4 8h4v8l4 8h4l4 8l4 8l4 8l4 8l4 8l4 8l4 8l4 8l4 8v8l4 8l4 8l4 4l4 4l4 8l4 8l4 8l4 8h4l8 8v16l4 8l4 8l4 8l4 8v8l4 8l4 8v8l8 8q3 0 5 2q3 2 3 6l4 8l4 8v8l4 8l4 8l8 8l4 8l4 4l8 4l8 -4v-1l4 -3h4l4 -8v-8l4 -8l4 -8l4 -4v-4l4 -8
+l4 -8l4 -8l4 -8l4 -8l4 -8l4 -8l4 -8l4 -8l4 -4v-1l4 -3l4 -8v-8l4 -8l4 -8l4 -8l4 -8l4 -8l4 -8l4 -8l4 -8l4 -8l4 -8l4 -8l4 -8l4 -8l4 -8l8 -8l8 -8l4 -8l4 -4v-1l4 -3l4 -8l8 -8h16l8 -4v-24l-8 -4h-24v4l-8 4l-8 -8h-56l-8 4v24l8 4h8l8 8l-8 4v0l-4 4l-4 8v8l-8 4
+l-8 4h-8l-8 -4q0 -2 -2 -3q-1 -1 -2 -1h-8l-4 4l-8 4h-125l-3 -4l-8 -4l-8 -8l-8 -8l-4 -8l4 -8h16l8 -4v-4l-8 -4l8 -4v-12l-8 -4h-88zM104 344v4l4 4l4 4v4h4l4 4l4 4l4 4v4h4l4 4l4 4l4 4v4h8v8h4l4 4l4 4l4 4v4h4l4 4l4 4h4v8h4l4 4l4 4h8l4 -4v-1l4 -3l4 -4v-1l4 -3h4
+v-5l4 -3l4 -4v-4h4l4 -4v-1l4 -3h4v-5l4 -3h4v-8h8v-5l4 -3l4 -4v-1l4 -3l4 -4v-1l4 -3h4v-5l4 -3l4 -4v-4h-32l-8 8h-8v8h-8v8l-8 8l-8 8h-16v4h-8v4h-8v4l-4 -4h-4v-8h-8l-8 -8l-4 -8h-4l-8 -8h-8v-8h-8v-8h-8l-4 8l-4 -8h-16z" />
+    <glyph glyph-name="Atilde" unicode="&#xc3;" horiz-adv-x="432" 
+d="M208 96l8 4l4 4h28l4 8l4 4l8 4v12l4 4l-4 8l-4 8l-4 8l-4 8l-4 8l-8 4v0l-4 4l-4 8v8l-4 8v8l-4 8q-4 0 -6 2t-2 6v8l-4 8l-4 8v-4l-8 -4h-8l-8 -8l-4 -8l-4 -8l-4 -8l-4 -8v-8l-4 -8l-4 -8l-4 -8v-8l-4 -8l-8 -8l-4 -8l-4 -8l-8 -8l-4 -8l4 -8q0 -4 2 -6t6 -2h24l8 4
+l8 -4l8 -4h8l8 -4h8zM16 0l8 8l4 8h4v8l4 8h4l4 8l4 8l4 8l4 8l4 8l4 8l4 8l4 8l4 8v8l4 8l4 8l4 4l4 4l4 8l4 8l4 8l4 8h4l8 8v16l4 8l4 8l4 8l4 8v8l4 8l4 8v8l8 8q3 0 5 2q3 2 3 6l4 8l4 8v8l4 8l4 8l8 8l4 8l4 4l8 4l8 -4v-1l4 -3h4l4 -8v-8l4 -8l4 -8l4 -4v-4l4 -8
+l4 -8l4 -8l4 -8l4 -8l4 -8l4 -8l4 -8l4 -8l4 -4v-1l4 -3l4 -8v-8l4 -8l4 -8l4 -8l4 -8l4 -8l4 -8l4 -8l4 -8l4 -8l4 -8l4 -8l4 -8l4 -8l4 -8l8 -8l8 -8l4 -8l4 -4v-1l4 -3l4 -8l8 -8h16l8 -4v-24l-8 -4h-24v4l-8 4l-8 -8h-56l-8 4v24l8 4h8l8 8l-8 4v0l-4 4l-4 8v8l-8 4
+l-8 4h-8l-8 -4q0 -2 -2 -3q-1 -1 -2 -1h-8l-4 4l-8 4h-125l-3 -4l-8 -4l-8 -8l-8 -8l-4 -8l4 -8h16l8 -4v-4l-8 -4l8 -4v-12l-8 -4h-88zM232 340v4l-8 4l-8 4h-8v4l-4 4h-4v4l-4 4l-4 4v4h-4l-4 4v4h-8l-8 4h-16l-8 -4h-13l-3 -4v-4l-8 -4v-4l4 -8l-4 -8h-24l-4 8v8l4 8v8h4
+v8h4l8 8v8h8l8 4v4h8v4h8v-4h8v4h8v-4h8v-4h8v4h8l8 -4h8v-4h4l4 -8l8 -8l8 -8h8v-8l8 -4h16v4h8l8 4v4h4l4 8l4 8h4v8h24l4 -8h4v-8h-4l-4 -8v-8h-4l-4 -8l-8 -8h-8v-8l-8 -4v-4h-8v-4h-8v4h-8v-4h-24z" />
+    <glyph glyph-name="Adieresis" unicode="&#xc4;" horiz-adv-x="432" 
+d="M208 96l8 4l4 4h28l4 8l4 4l8 4v12l4 4l-4 8l-4 8l-4 8l-4 8l-4 8l-8 4v0l-4 4l-4 8v8l-4 8v8l-4 8q-4 0 -6 2t-2 6v8l-4 8l-4 8v-4l-8 -4h-8l-8 -8l-4 -8l-4 -8l-4 -8l-4 -8v-8l-4 -8l-4 -8l-4 -8v-8l-4 -8l-8 -8l-4 -8l-4 -8l-8 -8l-4 -8l4 -8q0 -4 2 -6t6 -2h24l8 4
+l8 -4l8 -4h8l8 -4h8zM16 0l8 8l4 8h4v8l4 8h4l4 8l4 8l4 8l4 8l4 8l4 8l4 8l4 8l4 8v8l4 8l4 8l4 4l4 4l4 8l4 8l4 8l4 8h4l8 8v16l4 8l4 8l4 8l4 8v8l4 8l4 8v8l8 8q3 0 5 2q3 2 3 6l4 8l4 8v8l4 8l4 8l8 8l4 8l4 4l8 4l8 -4v-1l4 -3h4l4 -8v-8l4 -8l4 -8l4 -4v-4l4 -8
+l4 -8l4 -8l4 -8l4 -8l4 -8l4 -8l4 -8l4 -8l4 -4v-1l4 -3l4 -8v-8l4 -8l4 -8l4 -8l4 -8l4 -8l4 -8l4 -8l4 -8l4 -8l4 -8l4 -8l4 -8l4 -8l4 -8l8 -8l8 -8l4 -8l4 -4v-1l4 -3l4 -8l8 -8h16l8 -4v-24l-8 -4h-24v4l-8 4l-8 -8h-56l-8 4v24l8 4h8l8 8l-8 4v0l-4 4l-4 8v8l-8 4
+l-8 4h-8l-8 -4q0 -2 -2 -3q-1 -1 -2 -1h-8l-4 4l-8 4h-125l-3 -4l-8 -4l-8 -8l-8 -8l-4 -8l4 -8h16l8 -4v-4l-8 -4l8 -4v-12l-8 -4h-88zM256 344l-8 4h-8v4h-4v8l-4 8h-4v8h4v8h4l4 8l8 4l8 4h16v-4h8v-4l4 -8l4 -8v-16h-4l-4 -8v-4h-8v-4h-16zM128 344v4l-8 4l-4 8l-4 8
+l-8 4l8 4v8h4l4 8l8 4v4h8l8 4l8 -4l4 -8v-8l4 -8l4 -4l-4 -4l-4 -8l-4 -8v-8l-4 8l-4 -8h-16z" />
+    <glyph glyph-name="Aring" unicode="&#xc5;" horiz-adv-x="432" 
+d="M208 96l8 4l4 4h28l4 8l4 4l8 4v12l4 4l-4 8l-4 8l-4 8l-4 8l-4 8l-8 4v0l-4 4l-4 8v8l-4 8v8l-4 8q-4 0 -6 2t-2 6v8l-4 8l-4 8v-4l-8 -4h-8l-8 -8l-4 -8l-4 -8l-4 -8l-4 -8v-8l-4 -8l-4 -8l-4 -8v-8l-4 -8l-8 -8l-4 -8l-4 -8l-8 -8l-4 -8l4 -8q0 -4 2 -6t6 -2h24l8 4
+l8 -4l8 -4h8l8 -4h8zM16 0l8 8l4 8h4v8l4 8h4l4 8l4 8l4 8l4 8l4 8l4 8l4 8l4 8l4 8v8l4 8l4 8l4 4l4 4l4 8l4 8l4 8l4 8h4l8 8v16l4 8l4 8l4 8l4 8v8l4 8l4 8v8l8 8q3 0 5 2q3 2 3 6l4 8l4 8v8l4 8l4 8l8 8l4 8l4 4l8 4l8 -4v-1l4 -3h4l4 -8v-8l4 -8l4 -8l4 -4v-4l4 -8
+l4 -8l4 -8l4 -8l4 -8l4 -8l4 -8l4 -8l4 -8l4 -4v-1l4 -3l4 -8v-8l4 -8l4 -8l4 -8l4 -8l4 -8l4 -8l4 -8l4 -8l4 -8l4 -8l4 -8l4 -8l4 -8l4 -8l8 -8l8 -8l4 -8l4 -4v-1l4 -3l4 -8l8 -8h16l8 -4v-24l-8 -4h-24v4l-8 4l-8 -8h-56l-8 4v24l8 4h8l8 8l-8 4v0l-4 4l-4 8v8l-8 4
+l-8 4h-8l-8 -4q0 -2 -2 -3q-1 -1 -2 -1h-8l-4 4l-8 4h-125l-3 -4l-8 -4l-8 -8l-8 -8l-4 -8l4 -8h16l8 -4v-4l-8 -4l8 -4v-12l-8 -4h-88zM200 368l8 4l4 4l4 8v24l-4 8l-4 4l-8 4l-8 -4l-4 -4l-4 -8v-24l4 -8l4 -4l8 -4v0zM184 344l-8 4l-8 4h-8v8l-4 8l-4 8h-4v24h4v8h-4v8
+h4v8h4l4 8v8h8v4h8l8 4h16l8 -4v-4h8v-8h8v-4h8v-4h4l4 -4v-20h4v-16h4v-8l-4 -8h4v-8h-8v-8h-8v-4h-8v-4h-40z" />
+    <glyph glyph-name="AE" unicode="&#xc6;" horiz-adv-x="444" 
+d="M192 100v24l4 4v8l-4 8v24l4 8v8l4 8l8 8v16l-4 8l-4 8v8l4 8h-12l-8 -8l-4 -8l-4 -8l-4 -8l-4 -8v-8l-4 -8l-4 -8l-4 -8v-8l-4 -8l-8 -8l-4 -8l-4 -8l-8 -8l-4 -8l4 -8q0 -4 2 -6t6 -2h24l8 4l8 -4l8 -4h8zM256 -4v4h-40v4h-8v-4h-8v4h-8v-4h-8v0l-4 4l-4 -4h-8l-4 8
+l-4 -8h-8l-8 4v24l8 4h28l4 4l4 4v8l4 8l4 8l-4 8h-77l-3 -4l-8 -4l-8 -8l-8 -8l-4 -8l4 -8h16l8 -4v-4l-8 -4l8 -4v-12l-8 -4h-88l8 8l4 8h4v8l4 8h4l4 8l4 8l4 8l4 8l4 8l4 8l4 8l4 8l4 8v8l4 8l4 8l4 4l4 4l4 8l4 8l4 8l4 8h4l8 8v16l4 8l4 8l4 8l4 8v8l4 8l4 8v8l8 8
+q3 0 5 2q3 2 3 6l4 8l4 8v8l4 8h-4l-4 8l-4 4v16l8 4h72l4 4l4 -4h8l8 4h8l8 -4h40l8 -4h24l8 4h48q3 0 5 -3q3 -2 3 -5v-16h4v-8h-4v-8h4v-24h-4v-24l-4 -8l-4 -8v-8l-4 -8h-1l-3 -4l-8 -4h-12l-4 8v64l-4 8l-4 4l-8 -4l-8 4v0l-4 4l-4 4l-8 4h-93l-3 -4l-4 -4l-4 -8v-8
+l4 -8v-8l-4 -8v-40l4 -8l4 -4v-4h4l4 -8h24q3 0 5 2q3 2 3 6l4 8l-4 8v8l4 8h28l4 -8v-8l4 -8v-80l-4 -8h-8l-4 8v-8h-8v8l-4 -8h-8l-4 8v16l-4 8l-4 4l-8 4h-24l-8 -8v-24l4 -8v-24l4 -8v-12l-4 -4h-1l-3 -4v-20h4q1 0 2 -2q2 -1 2 -2v-4q0 -4 2 -6t6 -2h8l8 4l4 4h12l8 -4
+l8 -4h8l8 8h8l8 -4v-4l8 4l4 4l4 4l8 4l8 8v8l-4 8v8l4 4v4l4 8l4 8l8 8v8l4 8h32l4 -8v-8h-4v-32h4v-36l-4 -4h-1l-3 -4v-4l4 -8v-8l4 -8q0 -4 -3 -6q-2 -2 -5 -2h-64v4h-8v-4h-16v4h-8v-4h-8v-4h-48z" />
+    <glyph glyph-name="Ccedilla" unicode="&#xc7;" horiz-adv-x="288" 
+d="M224 304v8h-4v-8h4zM100 -116l-8 4h-8v8l-4 8v8l4 8h16v-4l4 -4h4v-4l8 -4h8l8 4l4 4l4 8v8l8 4l-8 4l-4 8h-4v12l-8 4h-8l-4 8v24h4v4h-16l-8 4l-8 8h-8l-8 4l-8 4l-8 8l-8 8l-8 8l-8 8l-4 8l-4 8l-4 8l-4 8l-4 8v8l4 8l-8 8l-4 8v112l4 8l4 8l4 8v8l4 8v8l4 8l8 8l8 4
+l8 4l8 8l8 8l8 4l8 4l8 4l8 4l8 4h16l8 -4h24l8 4h16l8 -4l8 -4h8l8 -4h8l8 4l4 4h36l4 -8v-16l-4 -8v-8l4 -8v-16l-4 -8l-4 -8v-8l4 -4v-8l-8 -4l-4 -8v-8l-4 -8h-16l-4 8v24l-4 8l-4 8l-4 8l-4 8h-4l-8 8v4l-4 4l-4 4l-8 4h-8l-8 4v0l-4 4l-4 4h-40l-8 -4l-8 -4l-8 -4v-4
+l-4 -4l-4 -8l-8 -4l-8 -4l-4 -8h-1l-3 -4l-4 -4l-4 -8l-4 -8l-4 -8l-4 -8v-8l4 -8v-8l4 -8l4 -4v-4q0 -2 -2 -3q-1 -1 -2 -1q1 0 2 -2q2 -1 2 -2l-4 -8l-4 -8l-8 -8v-8l4 -8v-24l4 -8l4 -8l4 -8l4 -8l4 -4v-1l4 -3l4 -8l8 -8l8 -4v-1l4 -3l4 -8l8 -4l8 -4l8 -4h24l8 4l8 -4
+l8 4l8 4l8 4l8 4l4 4l4 8l4 8h4l8 8l4 8l4 8l8 4h24l8 -4v-24l-4 -8l-4 -8l-8 -8l-8 -4l-8 -4l-8 -8l-8 -8l-8 -4l-8 -4l-8 -4l-8 -4l-8 -4h-28v-12l4 -4l8 -4l8 -8l4 -8l4 -8v-8h4v-8h-4v-8h-4v-24l-4 -8h-8v-4h-8v4h-8v-4h-16v-4h-16v-4h-8z" />
+    <glyph glyph-name="Egrave" unicode="&#xc8;" 
+d="M112 -4v4h-40v4h-8v-4h-8v4h-8v-4h-8v0l-4 4l-4 -4h-8l-4 8l-4 -8h-8l-8 4v24l8 4h28l4 4l4 4v8l4 8l4 8l-4 8v52l4 4v8l-4 8v24l4 8v8l4 8l8 8v16l-4 8l-4 8v8l4 8v8l-4 8l-4 8l-4 8v16l-8 8h-16l-4 8l-4 4v16l8 4h72l4 4l4 -4h8l8 4h8l8 -4h40l8 -4h24l8 4h48q3 0 5 -3
+q3 -2 3 -5v-16h4v-8h-4v-8h4v-24h-4v-24l-4 -8l-4 -8v-8l-4 -8h-1l-3 -4l-8 -4h-12l-4 8v64l-4 8l-4 4l-8 -4l-8 4v0l-4 4l-4 4l-8 4h-93l-3 -4l-4 -4l-4 -8v-8l4 -8v-8l-4 -8v-40l4 -8l4 -4v-1l4 -3l4 -8h24q3 0 5 2q3 2 3 6l4 8l-4 8v8l4 8h28l4 -8v-8l4 -8v-80l-4 -8h-8
+l-4 8h-8l-4 -8h-8l-4 8v16l-4 8l-4 4l-8 4h-24l-8 -8v-24l4 -8v-24l4 -8v-12l-4 -4h-1l-3 -4v-20h4q1 0 2 -2q2 -1 2 -2v-4q0 -4 2 -6t6 -2h8l8 4l4 4h12l8 -4l8 -4h32l8 4l4 4l4 4l8 4l8 8v8l-4 8v8l4 4v4l4 8l4 8l8 8v8l4 8h32l4 -8v-8h-4v-32h4v-36l-4 -4h-1l-3 -4v-4
+l4 -8v-8l4 -8q0 -4 -3 -6q-2 -2 -5 -2h-64v4h-8v-4h-16v4h-8v-4h-8v-4h-48zM160 344v4h-8v4h-4v8h-4v8h-4l-4 8l-8 8l-8 8h-8v8h-8v8l-8 8l-8 8l-4 8l4 8l8 4h8v-1l4 -3h4v-8h4l4 -4v-4h4l4 -4v-1l4 -3l4 -4v-1l4 -3h4v-5l4 -3l4 -4v-1l4 -3h4v-5l4 -3h4v-5l4 -3l4 -4v-4h4
+l4 -4v-1l4 -3l-4 -8l-8 -8h-16z" />
+    <glyph glyph-name="Eacute" unicode="&#xc9;" 
+d="M112 -4v4h-40v4h-8v-4h-8v4h-8v-4h-8v0l-4 4l-4 -4h-8l-4 8l-4 -8h-8l-8 4v24l8 4h28l4 4l4 4v8l4 8l4 8l-4 8v52l4 4v8l-4 8v24l4 8v8l4 8l8 8v16l-4 8l-4 8v8l4 8v8l-4 8l-4 8l-4 8v16l-8 8h-16l-4 8l-4 4v16l8 4h72l4 4l4 -4h8l8 4h8l8 -4h40l8 -4h24l8 4h48q3 0 5 -3
+q3 -2 3 -5v-16h4v-8h-4v-8h4v-24h-4v-24l-4 -8l-4 -8v-8l-4 -8h-1l-3 -4l-8 -4h-12l-4 8v64l-4 8l-4 4l-8 -4l-8 4v0l-4 4l-4 4l-8 4h-93l-3 -4l-4 -4l-4 -8v-8l4 -8v-8l-4 -8v-40l4 -8l4 -4v-1l4 -3l4 -8h24q3 0 5 2q3 2 3 6l4 8l-4 8v8l4 8h28l4 -8v-8l4 -8v-80l-4 -8h-8
+l-4 8h-8l-4 -8h-8l-4 8v16l-4 8l-4 4l-8 4h-24l-8 -8v-24l4 -8v-24l4 -8v-12l-4 -4h-1l-3 -4v-20h4q1 0 2 -2q2 -1 2 -2v-4q0 -4 2 -6t6 -2h8l8 4l4 4h12l8 -4l8 -4h32l8 4l4 4l4 4l8 4l8 8v8l-4 8v8l4 4v4l4 8l4 8l8 8v8l4 8h32l4 -8v-8h-4v-32h4v-36l-4 -4h-1l-3 -4v-4
+l4 -8v-8l4 -8q0 -4 -3 -6q-2 -2 -5 -2h-64v4h-8v-4h-16v4h-8v-4h-8v-4h-48zM120 344l-8 8l-4 8l4 4v4h4l4 4v4h4l4 4l4 4l4 4l4 4l4 4l4 4l4 4v4h4l4 4l4 4l4 4l4 4l4 4v4h4l4 4l4 4l4 4h8l8 -4v-8h-8v-8h-8v-16h-8v-8l-8 -8l-8 -8h-8v-8l-8 -8l-8 -8v-8h-8v-8h-16z" />
+    <glyph glyph-name="Ecircumflex" unicode="&#xca;" 
+d="M112 -4v4h-40v4h-8v-4h-8v4h-8v-4h-8v0l-4 4l-4 -4h-8l-4 8l-4 -8h-8l-8 4v24l8 4h28l4 4l4 4v8l4 8l4 8l-4 8v52l4 4v8l-4 8v24l4 8v8l4 8l8 8v16l-4 8l-4 8v8l4 8v8l-4 8l-4 8l-4 8v16l-8 8h-16l-4 8l-4 4v16l8 4h72l4 4l4 -4h8l8 4h8l8 -4h40l8 -4h24l8 4h48q3 0 5 -3
+q3 -2 3 -5v-16h4v-8h-4v-8h4v-24h-4v-24l-4 -8l-4 -8v-8l-4 -8h-1l-3 -4l-8 -4h-12l-4 8v64l-4 8l-4 4l-8 -4l-8 4v0l-4 4l-4 4l-8 4h-93l-3 -4l-4 -4l-4 -8v-8l4 -8v-8l-4 -8v-40l4 -8l4 -4v-1l4 -3l4 -8h24q3 0 5 2q3 2 3 6l4 8l-4 8v8l4 8h28l4 -8v-8l4 -8v-80l-4 -8h-8
+l-4 8h-8l-4 -8h-8l-4 8v16l-4 8l-4 4l-8 4h-24l-8 -8v-24l4 -8v-24l4 -8v-12l-4 -4h-1l-3 -4v-20h4q1 0 2 -2q2 -1 2 -2v-4q0 -4 2 -6t6 -2h8l8 4l4 4h12l8 -4l8 -4h32l8 4l4 4l4 4l8 4l8 8v8l-4 8v8l4 4v4l4 8l4 8l8 8v8l4 8h32l4 -8v-8h-4v-32h4v-36l-4 -4h-1l-3 -4v-4
+l4 -8v-8l4 -8q0 -4 -3 -6q-2 -2 -5 -2h-64v4h-8v-4h-16v4h-8v-4h-8v-4h-48zM56 344v4l4 4l4 4v4h4l4 4l4 4l4 4v4h4l4 4l4 4l4 4v4h8v8h4l4 4l4 4l4 4v4h4l4 4l4 4h4v8h4l4 4l4 4h8l4 -4v-1l4 -3l4 -4v-1l4 -3h4v-5l4 -3l4 -4v-4h4l4 -4v-1l4 -3h4v-5l4 -3h4v-8h8v-5l4 -3
+l4 -4v-1l4 -3l4 -4v-1l4 -3h4v-5l4 -3l4 -4v-4h-32l-8 8h-8v8h-8v8l-8 8l-8 8h-16v4h-8v4h-8v4l-4 -4h-4v-8h-8l-8 -8l-4 -8h-4l-8 -8h-8v-8h-8v-8h-8l-4 8l-4 -8h-16z" />
+    <glyph glyph-name="Edieresis" unicode="&#xcb;" 
+d="M112 -4v4h-40v4h-8v-4h-8v4h-8v-4h-8v0l-4 4l-4 -4h-8l-4 8l-4 -8h-8l-8 4v24l8 4h28l4 4l4 4v8l4 8l4 8l-4 8v52l4 4v8l-4 8v24l4 8v8l4 8l8 8v16l-4 8l-4 8v8l4 8v8l-4 8l-4 8l-4 8v16l-8 8h-16l-4 8l-4 4v16l8 4h72l4 4l4 -4h8l8 4h8l8 -4h40l8 -4h24l8 4h48q3 0 5 -3
+q3 -2 3 -5v-16h4v-8h-4v-8h4v-24h-4v-24l-4 -8l-4 -8v-8l-4 -8h-1l-3 -4l-8 -4h-12l-4 8v64l-4 8l-4 4l-8 -4l-8 4v0l-4 4l-4 4l-8 4h-93l-3 -4l-4 -4l-4 -8v-8l4 -8v-8l-4 -8v-40l4 -8l4 -4v-1l4 -3l4 -8h24q3 0 5 2q3 2 3 6l4 8l-4 8v8l4 8h28l4 -8v-8l4 -8v-80l-4 -8h-8
+l-4 8h-8l-4 -8h-8l-4 8v16l-4 8l-4 4l-8 4h-24l-8 -8v-24l4 -8v-24l4 -8v-12l-4 -4h-1l-3 -4v-20h4q1 0 2 -2q2 -1 2 -2v-4q0 -4 2 -6t6 -2h8l8 4l4 4h12l8 -4l8 -4h32l8 4l4 4l4 4l8 4l8 8v8l-4 8v8l4 4v4l4 8l4 8l8 8v8l4 8h32l4 -8v-8h-4v-32h4v-36l-4 -4h-1l-3 -4v-4
+l4 -8v-8l4 -8q0 -4 -3 -6q-2 -2 -5 -2h-64v4h-8v-4h-16v4h-8v-4h-8v-4h-48zM200 344l-8 4h-8v4h-4v8l-4 8h-4v8h4v8h4l4 8l8 4l8 4h16v-4h8v-4l4 -8l4 -8v-16h-4l-4 -8v-4h-8v-4h-16zM72 344v4l-8 4l-4 8l-4 8l-8 4l8 4v8h4l4 8l8 4v4h8l8 4l8 -4l4 -8v-8l4 -8l4 -4l-4 -4
+l-4 -8l-4 -8v-8l-4 8l-4 -8h-16z" />
+    <glyph glyph-name="Igrave" unicode="&#xcc;" horiz-adv-x="248" 
+d="M8 0l-8 4v12l8 4l-8 4v4l8 4h60l4 4l4 4h4v4l4 4l4 8v48l4 8v32l4 8l-8 8v64h-4v32h4v8h-4v8l4 8v16l-8 8h-72l-8 4v24l8 4h24l8 -4h8l8 -4h24l8 4l8 -4h4l4 4h8l8 4h88l8 -4v-16l-8 -4l-8 -4l-4 -4h-52l-4 -8h-1l-3 -4l-8 -4v-96h-4v-8h4v-8h-4v-40l4 -8v-88q0 -4 2 -6
+t6 -2h28l4 -4h16v4h24l8 -4v-24l-8 -4h-64q-2 0 -3 1t-1 3q0 -2 -2 -3q-1 -1 -2 -1h-80l-8 4h-8l-8 -4h-24zM128 344v4h-8v4h-4v8h-4v8h-4l-4 8l-8 8l-8 8h-8v8h-8v8l-8 8l-8 8l-4 8l4 8l8 4h8v-1l4 -3h4v-8h4l4 -4v-4h4l4 -4v-1l4 -3l4 -4v-1l4 -3h4v-5l4 -3l4 -4v-1l4 -3
+h4v-5l4 -3h4v-5l4 -3l4 -4v-4h4l4 -4v-1l4 -3l-4 -8l-8 -8h-16z" />
+    <glyph glyph-name="Iacute" unicode="&#xcd;" horiz-adv-x="248" 
+d="M8 0l-8 4v12l8 4l-8 4v4l8 4h60l4 4l4 4h4v4l4 4l4 8v48l4 8v32l4 8l-8 8v64h-4v32h4v8h-4v8l4 8v16l-8 8h-72l-8 4v24l8 4h24l8 -4h8l8 -4h24l8 4l8 -4h4l4 4h8l8 4h88l8 -4v-16l-8 -4l-8 -4l-4 -4h-52l-4 -8h-1l-3 -4l-8 -4v-96h-4v-8h4v-8h-4v-40l4 -8v-88q0 -4 2 -6
+t6 -2h28l4 -4h16v4h24l8 -4v-24l-8 -4h-64q-2 0 -3 1t-1 3q0 -2 -2 -3q-1 -1 -2 -1h-80l-8 4h-8l-8 -4h-24zM64 344l-8 8l-4 8l4 4v4h4l4 4v4h4l4 4l4 4l4 4l4 4l4 4l4 4l4 4v4h4l4 4l4 4l4 4l4 4l4 4v4h4l4 4l4 4l4 4h8l8 -4v-8h-8v-8h-8v-16h-8v-8l-8 -8l-8 -8h-8v-8
+l-8 -8l-8 -8v-8h-8v-8h-16z" />
+    <glyph glyph-name="Icircumflex" unicode="&#xce;" horiz-adv-x="248" 
+d="M8 0l-8 4v12l8 4l-8 4v4l8 4h60l4 4l4 4h4v4l4 4l4 8v48l4 8v32l4 8l-8 8v64h-4v32h4v8h-4v8l4 8v16l-8 8h-72l-8 4v24l8 4h24l8 -4h8l8 -4h24l8 4l8 -4h4l4 4h8l8 4h88l8 -4v-16l-8 -4l-8 -4l-4 -4h-52l-4 -8h-1l-3 -4l-8 -4v-96h-4v-8h4v-8h-4v-40l4 -8v-88q0 -4 2 -6
+t6 -2h28l4 -4h16v4h24l8 -4v-24l-8 -4h-64q-2 0 -3 1t-1 3q0 -2 -2 -3q-1 -1 -2 -1h-80l-8 4h-8l-8 -4h-24zM8 344v4l4 4l4 4v4h4l4 4l4 4l4 4v4h4l4 4l4 4l4 4v4h8v8h4l4 4l4 4l4 4v4h4l4 4l4 4h4v8h4l4 4l4 4h8l4 -4v-1l4 -3l4 -4v-1l4 -3h4v-5l4 -3l4 -4v-4h4l4 -4v-1
+l4 -3h4v-5l4 -3h4v-8h8v-5l4 -3l4 -4v-1l4 -3l4 -4v-1l4 -3h4v-5l4 -3l4 -4v-4h-32l-8 8h-8v8h-8v8l-8 8l-8 8h-16v4h-8v4h-8v4l-4 -4h-4v-8h-8l-8 -8l-4 -8h-4l-8 -8h-8v-8h-8v-8h-8l-4 8l-4 -8h-16z" />
+    <glyph glyph-name="Idieresis" unicode="&#xcf;" horiz-adv-x="248" 
+d="M8 0l-8 4v12l8 4l-8 4v4l8 4h60l4 4l4 4h4v4l4 4l4 8v48l4 8v32l4 8l-8 8v64h-4v32h4v8h-4v8l4 8v16l-8 8h-72l-8 4v24l8 4h24l8 -4h8l8 -4h24l8 4l8 -4h4l4 4h8l8 4h88l8 -4v-16l-8 -4l-8 -4l-4 -4h-52l-4 -8h-1l-3 -4l-8 -4v-96h-4v-8h4v-8h-4v-40l4 -8v-88q0 -4 2 -6
+t6 -2h28l4 -4h16v4h24l8 -4v-24l-8 -4h-64q-2 0 -3 1t-1 3q0 -2 -2 -3q-1 -1 -2 -1h-80l-8 4h-8l-8 -4h-24zM160 344l-8 4h-8v4h-4v8l-4 8h-4v8h4v8h4l4 8l8 4l8 4h16v-4h8v-4l4 -8l4 -8v-16h-4l-4 -8v-4h-8v-4h-16zM32 344v4l-8 4l-4 8l-4 8l-8 4l8 4v8h4l4 8l8 4v4h8l8 4
+l8 -4l4 -8v-8l4 -8l4 -4l-4 -4l-4 -8l-4 -8v-8l-4 8l-4 -8h-16z" />
+    <glyph glyph-name="Eth" unicode="&#xd0;" horiz-adv-x="296" 
+d="M148 32l8 4l8 4l8 4h16l4 4l4 4l4 4l4 4l4 4l4 8l8 8v8l4 8l4 8l4 8v48l-4 8q0 1 1 2q1 2 3 2q-2 0 -3 1t-1 3v16l4 8v24l-4 4v0l-4 4l-4 8l-8 8l-4 8v8l-4 8v4l-4 4l-4 4v0l-4 4l-4 4l-8 4l-8 4l-8 4h-24l-8 8h-8l-8 -4l-8 -4h-16q-4 0 -6 -3q-2 -2 -2 -5v-16h4v-8h-4
+v-16h4v-56h-4v-12h8v-4h8v4h8v-4h8l8 -4v-12l-8 -4h8v-8l-8 -4h-28v-8h-4v-8h4v-8h-4v-48l8 -8l4 -8l4 -8l8 -4v-1l4 -3l4 -8l8 -4l8 -4h16zM44 -4l-8 4h-16l-8 4l-8 4l-8 8v8l-4 8l4 4h8l8 -4h8l8 4q0 1 1 2q1 2 3 2h4q3 0 5 2q3 2 3 6v48l-4 8l-4 4v20l4 8v16h-4
+q-2 0 -3 1t-1 3q0 -2 -2 -3q-1 -1 -2 -1q-2 0 -3 1t-1 3q0 -2 -2 -3q-1 -1 -2 -1q-2 0 -3 1t-1 3q0 -2 -2 -3q-1 -1 -2 -1l-8 4v24l8 4h8v4h24v16l4 4v8l-4 4v0l-4 4l-4 8l8 4l-8 4v8l4 8l4 8v28l-4 4l-4 4l-8 4h-20l-4 4l-8 4v20l8 4q1 0 2 -2q2 -1 2 -2q0 1 1 2q1 2 3 2
+h48l8 -4h8l8 4h24v-4h16v8h24v-8h16v4l8 -4h16l8 -4l8 -4l8 -4l8 -8l8 -8l8 -8l8 -8l4 -8l4 -8l4 -8l4 -8l4 -8l4 -8l4 -8v-56l-4 -8v-32l4 -8v-24l-4 -8l-4 -8l-4 -8l-4 -8l-4 -8l-4 -8l-4 -8l-8 -8l-4 -8l-4 -8l-8 -4l-8 -4l-8 -4l-8 -4l-8 -4l-8 -4h-68l-4 4h-32l-8 -4
+h-21l-3 -4v0z" />
+    <glyph glyph-name="Ntilde" unicode="&#xd1;" horiz-adv-x="376" 
+d="M8 0l-8 4v4q0 1 1 2q1 2 3 2q-2 0 -3 1t-1 3q0 1 1 2q1 2 3 2q-2 0 -3 1t-1 3v4l8 4h16l8 4l8 4l4 8l4 4v12l-4 8v32l4 8h4v16l-4 8l4 8v8l-4 8l-4 8v8l4 8l-4 8v24l4 8v32h-4v8h4v16l-4 8l-4 8l-8 8h-24l-8 4v12l8 4l-8 4v4l8 4h16l4 -8l4 8h24l8 -4l8 4h40l4 -8l4 -8
+l4 -8h4v-8l4 -8h4v-8l4 -8l4 -8l4 -8l4 -8l4 -8l4 -8l4 -8l4 -8l4 -8l4 -8l4 -8l4 -8v-16l4 -8l4 8l4 -8l4 -8l4 -8h4v-8l4 -8l4 -8l4 -8l4 -8l4 -8h4v-8l4 -8l4 -8l4 -8l4 -8l4 -8v-8l4 -4h8l8 4l-8 4v0l-4 4l-4 8v8h4v8h-4v24h4v32h-4v32h4v8h-4v8h4v8h-4v104l-8 8h-12
+l-4 4l-8 4h-8l-8 4v16l8 4h16v-4h8v8h16v-4h24l4 -8l4 8h48l8 -4v-24l-8 -4h-8l-8 -4l-4 -4h-1l-3 -4l-8 -4l-4 -8v-32h-4v-16h-4v-8h4v-24h-4v-8h4v-8h4v-8h-4v-8h4v-24h-4v-56h4v-8h-4v-16h4v-40l4 -8l4 -8l4 -8h-8v0l-4 4l-4 -4h-32v0l-4 4l-4 -4h-24v8h4l-4 8l-4 8h4
+l-4 8v8l-4 8v0l-4 4l-4 -4v0l-4 8l-4 8l-8 8l-8 4v0l-4 4l4 8v8l-4 8h-4v8l-4 8l-4 8l-4 8l-4 8l-4 8l-4 8l-4 8l-4 8l-4 8h-4v8l-4 8l-4 8l-4 8h-4v8l-4 8l-4 8l-8 4v0l-4 4l-4 4l-8 4l-4 -8l-4 -8v-16l8 -8v-8h-1l-3 -4l4 -4v-40l-4 -8h-1l-3 -4v-20h4v-8h-4v-24h-4v-8
+l4 -8l4 -8v-16l-4 -8l8 -4v-1l4 -3l4 -4h16l8 4h8l7 3v1h1v-1l4 -3l-4 -8l4 -8l-4 -8l4 -8h-1l-3 -4h-8l-8 -4h-32q-2 0 -3 1t-1 3q0 -2 -2 -3q-1 -1 -2 -1q-2 0 -3 1t-1 3q0 -2 -2 -3q-1 -1 -2 -1h-24q-2 0 -3 1t-1 3q0 -2 -2 -3q-1 -1 -2 -1h-40zM192 340v4l-8 4l-8 4h-8
+v4l-4 4h-4v4l-4 4l-4 4v4h-4l-4 4v4h-8l-8 4h-16l-8 -4h-13l-3 -4v-4l-8 -4v-4l4 -8l-4 -8h-24l-4 8v8l4 8v8h4v8h4l8 8v8h8l8 4v4h8v4h8v-4h8v4h8v-4h8v-4h8v4h8l8 -4h8v-4h4l4 -8l8 -8l8 -8h8v-8l8 -4h16v4h8l8 4v4h4l4 8l4 8h4v8h24l4 -8h4v-8h-4l-4 -8v-8h-4l-4 -8
+l-8 -8h-8v-8l-8 -4v-4h-8v-4h-8v4h-8v-4h-24z" />
+    <glyph glyph-name="Ograve" unicode="&#xd2;" 
+d="M156 24l8 8l8 8l8 4l4 4l4 4v4h4l4 4l4 4l4 8v8h4l4 8v8h4l4 8l8 8l-4 8v24l4 8l4 8v16l-4 4v0l-4 4v40l-4 8l-4 8l-4 8v8l-8 8l-4 8l-4 4v0l-4 4h-4v4l-4 4l-4 4l-8 4h-8v4l-8 4l-8 4h-40l-8 -4l-8 -4l-8 -4h-8l-8 -8v-4l-4 -4h-1l-3 -4v-4h-4l-4 -8v-8h-4l-4 -8l-4 -8
+l-4 -8l-8 -8l8 -8l-8 -8l4 -8v-40l4 -8l-4 -8v-32l4 -8l4 -8h4l8 -8l4 -8h4v-8l8 -8v-8l8 -8l4 -8h4l8 -4l8 -4l8 -4h8l8 4h8l8 -4h8l8 -4v0zM92 -4l-8 4l-8 4l-8 4l-8 4l-8 4l-8 8h-8v8l-8 8l-8 8l-4 8l-4 4v0l-4 4l-4 8l-8 8v16l-4 8v24h4v8h-4v48l4 8v28l-4 4v8l4 8l4 8
+l4 4l4 4l4 4l8 4l4 8l4 4l8 4l8 8v8l4 8v8l4 8l8 4l8 4h8l8 4h8l8 4l8 4h32l8 -4l8 4h8l8 -4h8v-4l8 -4l8 -4l8 -4h8v-8l8 -8h8v-8l8 -8l4 -8h4v-8l4 -8l4 -8l4 -8h4v-8l4 -8v-16h4v-16h-4v-16h4v-8h-4v-8h4v-32h-4v-32l-4 -8v-8h-4l-4 -8l-4 -8l-4 -8l-4 -8l-4 -8v-8h-8v-8
+h-8l-8 -8v-8h-8l-8 -4l-8 -4l-8 -4l-8 -4l-8 -4h-8v4h-24v-4h-8v4h-8v-4h-24zM164 344v4h-8v4h-4v8h-4v8h-4l-4 8l-8 8l-8 8h-8v8h-8v8l-8 8l-8 8l-4 8l4 8l8 4h8v-1l4 -3h4v-8h4l4 -4v-4h4l4 -4v-1l4 -3l4 -4v-1l4 -3h4v-5l4 -3l4 -4v-1l4 -3h4v-5l4 -3h4v-5l4 -3l4 -4v-4
+h4l4 -4v-1l4 -3l-4 -8l-8 -8h-16z" />
+    <glyph glyph-name="Oacute" unicode="&#xd3;" 
+d="M156 24l8 8l8 8l8 4l4 4l4 4v4h4l4 4l4 4l4 8v8h4l4 8v8h4l4 8l8 8l-4 8v24l4 8l4 8v16l-4 4v0l-4 4v40l-4 8l-4 8l-4 8v8l-8 8l-4 8l-4 4v0l-4 4h-4v4l-4 4l-4 4l-8 4h-8v4l-8 4l-8 4h-40l-8 -4l-8 -4l-8 -4h-8l-8 -8v-4l-4 -4h-1l-3 -4v-4h-4l-4 -8v-8h-4l-4 -8l-4 -8
+l-4 -8l-8 -8l8 -8l-8 -8l4 -8v-40l4 -8l-4 -8v-32l4 -8l4 -8h4l8 -8l4 -8h4v-8l8 -8v-8l8 -8l4 -8h4l8 -4l8 -4l8 -4h8l8 4h8l8 -4h8l8 -4v0zM92 -4l-8 4l-8 4l-8 4l-8 4l-8 4l-8 8h-8v8l-8 8l-8 8l-4 8l-4 4v0l-4 4l-4 8l-8 8v16l-4 8v24h4v8h-4v48l4 8v28l-4 4v8l4 8l4 8
+l4 4l4 4l4 4l8 4l4 8l4 4l8 4l8 8v8l4 8v8l4 8l8 4l8 4h8l8 4h8l8 4l8 4h32l8 -4l8 4h8l8 -4h8v-4l8 -4l8 -4l8 -4h8v-8l8 -8h8v-8l8 -8l4 -8h4v-8l4 -8l4 -8l4 -8h4v-8l4 -8v-16h4v-16h-4v-16h4v-8h-4v-8h4v-32h-4v-32l-4 -8v-8h-4l-4 -8l-4 -8l-4 -8l-4 -8l-4 -8v-8h-8v-8
+h-8l-8 -8v-8h-8l-8 -4l-8 -4l-8 -4l-8 -4l-8 -4h-8v4h-24v-4h-8v4h-8v-4h-24zM76 344l-8 8l-4 8l4 4v4h4l4 4v4h4l4 4l4 4l4 4l4 4l4 4l4 4l4 4v4h4l4 4l4 4l4 4l4 4l4 4v4h4l4 4l4 4l4 4h8l8 -4v-8h-8v-8h-8v-16h-8v-8l-8 -8l-8 -8h-8v-8l-8 -8l-8 -8v-8h-8v-8h-16z" />
+    <glyph glyph-name="Ocircumflex" unicode="&#xd4;" 
+d="M156 24l8 8l8 8l8 4l4 4l4 4v4h4l4 4l4 4l4 8v8h4l4 8v8h4l4 8l8 8l-4 8v24l4 8l4 8v16l-4 4v0l-4 4v40l-4 8l-4 8l-4 8v8l-8 8l-4 8l-4 4v0l-4 4h-4v4l-4 4l-4 4l-8 4h-8v4l-8 4l-8 4h-40l-8 -4l-8 -4l-8 -4h-8l-8 -8v-4l-4 -4h-1l-3 -4v-4h-4l-4 -8v-8h-4l-4 -8l-4 -8
+l-4 -8l-8 -8l8 -8l-8 -8l4 -8v-40l4 -8l-4 -8v-32l4 -8l4 -8h4l8 -8l4 -8h4v-8l8 -8v-8l8 -8l4 -8h4l8 -4l8 -4l8 -4h8l8 4h8l8 -4h8l8 -4v0zM92 -4l-8 4l-8 4l-8 4l-8 4l-8 4l-8 8h-8v8l-8 8l-8 8l-4 8l-4 4v0l-4 4l-4 8l-8 8v16l-4 8v24h4v8h-4v48l4 8v28l-4 4v8l4 8l4 8
+l4 4l4 4l4 4l8 4l4 8l4 4l8 4l8 8v8l4 8v8l4 8l8 4l8 4h8l8 4h8l8 4l8 4h32l8 -4l8 4h8l8 -4h8v-4l8 -4l8 -4l8 -4h8v-8l8 -8h8v-8l8 -8l4 -8h4v-8l4 -8l4 -8l4 -8h4v-8l4 -8v-16h4v-16h-4v-16h4v-8h-4v-8h4v-32h-4v-32l-4 -8v-8h-4l-4 -8l-4 -8l-4 -8l-4 -8l-4 -8v-8h-8v-8
+h-8l-8 -8v-8h-8l-8 -4l-8 -4l-8 -4l-8 -4l-8 -4h-8v4h-24v-4h-8v4h-8v-4h-24zM36 344v4l4 4l4 4v4h4l4 4l4 4l4 4v4h4l4 4l4 4l4 4v4h8v8h4l4 4l4 4l4 4v4h4l4 4l4 4h4v8h4l4 4l4 4h8l4 -4v-1l4 -3l4 -4v-1l4 -3h4v-5l4 -3l4 -4v-4h4l4 -4v-1l4 -3h4v-5l4 -3h4v-8h8v-5l4 -3
+l4 -4v-1l4 -3l4 -4v-1l4 -3h4v-5l4 -3l4 -4v-4h-32l-8 8h-8v8h-8v8l-8 8l-8 8h-16v4h-8v4h-8v4l-4 -4h-4v-8h-8l-8 -8l-4 -8h-4l-8 -8h-8v-8h-8v-8h-8l-4 8l-4 -8h-16z" />
+    <glyph glyph-name="Otilde" unicode="&#xd5;" 
+d="M156 24l8 8l8 8l8 4l4 4l4 4v4h4l4 4l4 4l4 8v8h4l4 8v8h4l4 8l8 8l-4 8v24l4 8l4 8v16l-4 4v0l-4 4v40l-4 8l-4 8l-4 8v8l-8 8l-4 8l-4 4v0l-4 4h-4v4l-4 4l-4 4l-8 4h-8v4l-8 4l-8 4h-40l-8 -4l-8 -4l-8 -4h-8l-8 -8v-4l-4 -4h-1l-3 -4v-4h-4l-4 -8v-8h-4l-4 -8l-4 -8
+l-4 -8l-8 -8l8 -8l-8 -8l4 -8v-40l4 -8l-4 -8v-32l4 -8l4 -8h4l8 -8l4 -8h4v-8l8 -8v-8l8 -8l4 -8h4l8 -4l8 -4l8 -4h8l8 4h8l8 -4h8l8 -4v0zM92 -4l-8 4l-8 4l-8 4l-8 4l-8 4l-8 8h-8v8l-8 8l-8 8l-4 8l-4 4v0l-4 4l-4 8l-8 8v16l-4 8v24h4v8h-4v48l4 8v28l-4 4v8l4 8l4 8
+l4 4l4 4l4 4l8 4l4 8l4 4l8 4l8 8v8l4 8v8l4 8l8 4l8 4h8l8 4h8l8 4l8 4h32l8 -4l8 4h8v-4h16v-4l8 -4l8 -4l8 -4h8v-8l8 -8h8v-8l8 -8l4 -8h4v-8l4 -8l4 -8l4 -8h4v-8l4 -8v-16h4v-16h-4v-16h4v-8h-4v-8h4v-32h-4v-32l-4 -8v-8h-4l-4 -8l-4 -8l-4 -8l-4 -8l-4 -8v-8h-8v-8
+h-8l-8 -8v-8h-8l-8 -4l-8 -4l-8 -4l-8 -4l-8 -4h-8v4h-24v-4h-8v4h-8v-4h-24zM164 340v4l-8 4l-8 4h-8v4l-4 4h-4v4l-4 4l-4 4v4h-4l-4 4v4h-8l-8 4h-16l-8 -4h-13l-3 -4v-4l-8 -4v-4l4 -8l-4 -8h-24l-4 8v8l4 8v8h4v8h4l8 8v8h8l8 4v4h8v4h8v-4h8v4h8v-4h8v-4h8v4h8l8 -4h8
+v-4h4l4 -8l8 -8l8 -8h8v-8l8 -4h16v4h8l8 4v4h4l4 8l4 8h4v8h24l4 -8h4v-8h-4l-4 -8v-8h-4l-4 -8l-8 -8h-8v-8l-8 -4v-4h-8v-4h-8v4h-8v-4h-24z" />
+    <glyph glyph-name="Odieresis" unicode="&#xd6;" 
+d="M156 24l8 8l8 8l8 4l4 4l4 4v4h4l4 4l4 4l4 8v8h4l4 8v8h4l4 8l8 8l-4 8v24l4 8l4 8v16l-4 4v0l-4 4v40l-4 8l-4 8l-4 8v8l-8 8l-4 8l-4 4v0l-4 4h-4v4l-4 4l-4 4l-8 4h-8v4l-8 4l-8 4h-40l-8 -4l-8 -4l-8 -4h-8l-8 -8v-4l-4 -4h-1l-3 -4v-4h-4l-4 -8v-8h-4l-4 -8l-4 -8
+l-4 -8l-8 -8l8 -8l-8 -8l4 -8v-40l4 -8l-4 -8v-32l4 -8l4 -8h4l8 -8l4 -8h4v-8l8 -8v-8l8 -8l4 -8h4l8 -4l8 -4l8 -4h8l8 4h8l8 -4h8l8 -4v0zM92 -4l-8 4l-8 4l-8 4l-8 4l-8 4l-8 8h-8v8l-8 8l-8 8l-4 8l-4 4v0l-4 4l-4 8l-8 8v16l-4 8v24h4v8h-4v48l4 8v28l-4 4v8l4 8l4 8
+l4 4l4 4l4 4l8 4l4 8l4 4l8 4l8 8v8l4 8v8l4 8l8 4l8 4h8l8 4h8l8 4l8 4h32l8 -4l8 4h8l8 -4h8v-4l8 -4l8 -4l8 -4h8v-8l8 -8h8v-8l8 -8l4 -8h4v-8l4 -8l4 -8l4 -8h4v-8l4 -8v-16h4v-16h-4v-16h4v-8h-4v-8h4v-32h-4v-32l-4 -8v-8h-4l-4 -8l-4 -8l-4 -8l-4 -8l-4 -8v-8h-8v-8
+h-8l-8 -8v-8h-8l-8 -4l-8 -4l-8 -4l-8 -4l-8 -4h-8v4h-24v-4h-8v4h-8v-4h-24zM188 344l-8 4h-8v4h-4v8l-4 8h-4v8h4v8h4l4 8l8 4l8 4h16v-4h8v-4l4 -8l4 -8v-16h-4l-4 -8v-4h-8v-4h-16zM60 344v4l-8 4l-4 8l-4 8l-8 4l8 4v8h4l4 8l8 4v4h8l8 4l8 -4l4 -8v-8l4 -8l4 -4l-4 -4
+l-4 -8l-4 -8v-8l-4 8l-4 -8h-16z" />
+    <glyph glyph-name="multiply" unicode="&#xd7;" horiz-adv-x="208" 
+d="M8 84l-8 4v16l8 8v8h8l8 8l8 8v8h8v8h8v16l-4 8l4 8v8h-8v8l-8 8l-8 8l-8 8h-8v8l-8 8v16l8 4v-4h8v4l8 -4l8 -8h8v-8h8v-8l8 -8l8 -8h8v-8l8 -8h16v8h8l8 8l8 8v8h8v8h8l8 8v8h8l8 4h8l8 -4v-8l-8 -4l8 -4l-8 -8v-8h-8l-8 -8h-8v-8l-8 -8h-8v-8h-16v-8h-8v-4l-4 -4l4 -4
+v-4h8v-8h8l8 -8h8v-8l8 -8h8v-8h8v-8l8 -8l8 -8v-16l-8 -4h-8l-8 4l-8 8h-8v8l-8 8l-8 8l-8 8h-8v8h-24v8l-8 -8l-8 -8l-8 -8v-8h-8v-8h-8l-8 -8h-8v-8h-8v-4h-8z" />
+    <glyph glyph-name="Oslash" unicode="&#xd8;" 
+d="M156 24l8 8l8 8l8 4l4 4l4 4v4h4l4 4l4 4l4 8v8h4l4 8v8h4l4 8l8 8l-4 8v24l4 8l4 8v16l-4 4v0l-4 4v40l-4 8l-4 8l-4 8v8l-8 8l-4 8l-4 4v0l-4 4h-9l-3 -4v-12l-4 -8h-4v-8l-4 -8l-4 -8l-4 -8h-4v-8l-4 -8l-4 -8v-16l-8 -4v-12h-4l-4 -8h-4l-4 -8l-4 -8h-4v-8l-4 -8v-8
+h-4v-8h-4l-4 -8l-4 -8h-4v-8l-4 -8h-4v-8l-4 -8v-8h-4v-8l4 -8h4l8 -4l8 -4l8 -4h8l8 4h8l8 -4h8l8 -4v0zM56 80v8h4l4 8l4 8v8h4l4 8l4 8v8h4l4 8l4 8l4 8h4v8l4 8l4 8v8h4l4 8v8h4l4 8l4 8v8h4v8h4l4 8l4 8h4v8l4 8l4 8h4v8h4v12l-8 4l-8 4h-40l-8 -4l-8 -4l-8 -4h-8
+l-8 -8v-4l-4 -4h-1l-3 -4v-4h-4l-4 -8v-8h-4l-4 -8l-4 -8l-4 -8l-8 -8l8 -8l-8 -8l4 -8v-40l4 -8l-4 -8v-32l4 -8l4 -8h4l8 -8v-8h4zM92 -4l-8 4l-8 4l-8 4l-8 4v4h-5l-3 -4l-4 -4h-4l-4 8l-4 -8h-8l-4 8l4 8v8h4v8h-4l-8 8l-4 8l-4 4v0l-4 4l-4 8l-8 8v16l-4 8v24h4v8h-4
+v48l4 8v28l-4 4v8l4 8l4 8l4 4l4 4l4 4l8 4l4 8l4 4l8 4l8 8v8l4 8v8l4 8l8 4l8 4h8l8 4h8l8 4l8 4h32l8 -4l8 4h8l8 -4h8v-8l4 8h4v4l8 4v-1l4 -3l3 4h9l4 -8l-4 -8l-4 -8h4v-8l8 -8h8v-8l8 -8l4 -8h4v-8l4 -8l4 -8l4 -8h4v-8l4 -8v-16h4v-16h-4v-16h4v-8h-4v-8h4v-32h-4
+v-32l-4 -8v-8h-4l-4 -8l-4 -8l-4 -8l-4 -8l-4 -8v-8h-8v-8h-8l-8 -8v-8h-8l-8 -4l-8 -4l-8 -4l-8 -4l-8 -4h-8v4h-24v-4h-8v4h-8v-4h-24z" />
+    <glyph glyph-name="Ugrave" unicode="&#xd9;" horiz-adv-x="352" 
+d="M120 -4l-8 4h-8v4l-8 4h-8v8l-8 8l-8 8h-8v8l-4 8l-4 8h-4v8l-4 8v24h-4v64h4v8h-4v8h4v24h-4v16h4v8h-4v32l4 8v16h-4v8h4v12l-8 4l-8 -4l-8 -4l-8 8h-8l-8 4v16l4 4h4l8 4l8 4h56l8 -4h16l8 4h16l8 -4v-24l-8 -4h-16l-4 8l-4 -8l-8 -4l-4 -4v-8h-4v-16l4 -8v-88h-4v-24
+l4 -8v-8h-4v-8h4v-40l4 -8l8 -8l4 -8l4 -8l8 -8l8 -8h8l8 -4l8 -4l8 -4h16l8 4l8 4v4h8l8 4v4h4l4 4v4h4l4 8l4 8h4v36l4 4l4 4v4h4v16l4 8l-8 8l-4 8v8h-4l-4 8v64h4v32h-4v8l-4 8v4l-8 4l-8 8h-16l-8 4v24l8 4h120l8 -4v-12l-8 -4l8 -4v-4l-8 -4h-8l-4 8l-4 -8h-24v-24
+l4 -8l4 -4v-44l-4 -8l-4 -8v-136l-4 -8l-4 -8l-4 -8l-4 -8l-8 -8l-8 -4l-4 -4l-4 -8h-8v-8l-8 -4l-8 -4l-8 -4h-8v4h-24v-4h-16v4h-16v-4h-16zM192 344v4h-8v4h-4v8h-4v8h-4l-4 8l-8 8l-8 8h-8v8h-8v8l-8 8l-8 8l-4 8l4 8l8 4h8v-1l4 -3h4v-8h4l4 -4v-4h4l4 -4v-1l4 -3l4 -4
+v-1l4 -3h4v-5l4 -3l4 -4v-1l4 -3h4v-5l4 -3h4v-5l4 -3l4 -4v-4h4l4 -4v-1l4 -3l-4 -8l-8 -8h-16z" />
+    <glyph glyph-name="Uacute" unicode="&#xda;" horiz-adv-x="352" 
+d="M120 -4l-8 4h-8v4l-8 4h-8v8l-8 8l-8 8h-8v8l-4 8l-4 8h-4v8l-4 8v24h-4v64h4v8h-4v8h4v24h-4v16h4v8h-4v32l4 8v16h-4v8h4v12l-8 4l-8 -4l-8 -4l-8 8h-8l-8 4v16l4 4h4l8 4l8 4h56l8 -4h16l8 4h16l8 -4v-24l-8 -4h-16l-4 8l-4 -8l-8 -4l-4 -4v-8h-4v-16l4 -8v-88h-4v-24
+l4 -8v-8h-4v-8h4v-40l4 -8l8 -8l4 -8l4 -8l8 -8l8 -8h8l8 -4l8 -4l8 -4h16l8 4l8 4v4h8l8 4v4h4l4 4v4h4l4 8l4 8h4v36l4 4l4 4v4h4v16l4 8l-8 8l-4 8v8h-4l-4 8v64h4v32h-4v8l-4 8v4l-8 4l-8 8h-16l-8 4v24l8 4h120l8 -4v-12l-8 -4l8 -4v-4l-8 -4h-8l-4 8l-4 -8h-24v-24
+l4 -8l4 -4v-44l-4 -8l-4 -8v-136l-4 -8l-4 -8l-4 -8l-4 -8l-8 -8l-8 -4l-4 -4l-4 -8h-8v-8l-8 -4l-8 -4l-8 -4h-8v4h-24v-4h-16v4h-16v-4h-16zM104 344l-8 8l-4 8l4 4v4h4l4 4v4h4l4 4l4 4l4 4l4 4l4 4l4 4l4 4v4h4l4 4l4 4l4 4l4 4l4 4v4h4l4 4l4 4l4 4h8l8 -4v-8h-8v-8h-8
+v-16h-8v-8l-8 -8l-8 -8h-8v-8l-8 -8l-8 -8v-8h-8v-8h-16z" />
+    <glyph glyph-name="Ucircumflex" unicode="&#xdb;" horiz-adv-x="352" 
+d="M120 -4l-8 4h-8v4l-8 4h-8v8l-8 8l-8 8h-8v8l-4 8l-4 8h-4v8l-4 8v24h-4v64h4v8h-4v8h4v24h-4v16h4v8h-4v32l4 8v16h-4v8h4v12l-8 4l-8 -4l-8 -4l-8 8h-8l-8 4v16l4 4h4l8 4l8 4h56l8 -4h16l8 4h16l8 -4v-24l-8 -4h-16l-4 8l-4 -8l-8 -4l-4 -4v-8h-4v-16l4 -8v-88h-4v-24
+l4 -8v-8h-4v-8h4v-40l4 -8l8 -8l4 -8l4 -8l8 -8l8 -8h8l8 -4l8 -4l8 -4h16l8 4l8 4v4h8l8 4v4h4l4 4v4h4l4 8l4 8h4v36l4 4l4 4v4h4v16l4 8l-8 8l-4 8v8h-4l-4 8v64h4v32h-4v8l-4 8v4l-8 4l-8 8h-16l-8 4v24l8 4h120l8 -4v-12l-8 -4l8 -4v-4l-8 -4h-8l-4 8l-4 -8h-24v-24
+l4 -8l4 -4v-44l-4 -8l-4 -8v-136l-4 -8l-4 -8l-4 -8l-4 -8l-8 -8l-8 -4l-4 -4l-4 -8h-8v-8l-8 -4l-8 -4l-8 -4h-8v4h-24v-4h-16v4h-16v-4h-16zM64 344v4l4 4l4 4v4h4l4 4l4 4l4 4v4h4l4 4l4 4l4 4v4h8v8h4l4 4l4 4l4 4v4h4l4 4l4 4h4v8h4l4 4l4 4h8l4 -4v-1l4 -3l4 -4v-1
+l4 -3h4v-5l4 -3l4 -4v-4h4l4 -4v-1l4 -3h4v-5l4 -3h4v-8h8v-5l4 -3l4 -4v-1l4 -3l4 -4v-1l4 -3h4v-5l4 -3l4 -4v-4h-32l-8 8h-8v8h-8v8l-8 8l-8 8h-16v4h-8v4h-8v4l-4 -4h-4v-8h-8l-8 -8l-4 -8h-4l-8 -8h-8v-8h-8v-8h-8l-4 8l-4 -8h-16z" />
+    <glyph glyph-name="Udieresis" unicode="&#xdc;" horiz-adv-x="352" 
+d="M120 -4l-8 4h-8v4l-8 4h-8v8l-8 8l-8 8h-8v8l-4 8l-4 8h-4v8l-4 8v24h-4v64h4v8h-4v8h4v24h-4v16h4v8h-4v32l4 8v16h-4v8h4v12l-8 4l-8 -4l-8 -4l-8 8h-8l-8 4v16l4 4h4l8 4l8 4h56l8 -4h16l8 4h16l8 -4v-24l-8 -4h-16l-4 8l-4 -8l-8 -4l-4 -4v-8h-4v-16l4 -8v-88h-4v-24
+l4 -8v-8h-4v-8h4v-40l4 -8l8 -8l4 -8l4 -8l8 -8l8 -8h8l8 -4l8 -4l8 -4h16l8 4l8 4v4h8l8 4v4h4l4 4v4h4l4 8l4 8h4v36l4 4l4 4v4h4v16l4 8l-8 8l-4 8v8h-4l-4 8v64h4v32h-4v8l-4 8v4l-8 4l-8 8h-16l-8 4v24l8 4h120l8 -4v-12l-8 -4l8 -4v-4l-8 -4h-8l-4 8l-4 -8h-24v-24
+l4 -8l4 -4v-44l-4 -8l-4 -8v-136l-4 -8l-4 -8l-4 -8l-4 -8l-8 -8l-8 -4l-4 -4l-4 -8h-8v-8l-8 -4l-8 -4l-8 -4h-8v4h-24v-4h-16v4h-16v-4h-16zM216 344l-8 4h-8v4h-4v8l-4 8h-4v8h4v8h4l4 8l8 4l8 4h16v-4h8v-4l4 -8l4 -8v-16h-4l-4 -8v-4h-8v-4h-16zM88 344v4l-8 4l-4 8
+l-4 8l-8 4l8 4v8h4l4 8l8 4v4h8l8 4l8 -4l4 -8v-8l4 -8l4 -4l-4 -4l-4 -8l-4 -8v-8l-4 8l-4 -8h-16z" />
+    <glyph glyph-name="Yacute" unicode="&#xdd;" horiz-adv-x="328" 
+d="M184 -4v4h-40l-8 4l-8 -4h-28l-4 4v0l-4 4l-4 8h-8l-8 -4l-8 4h-16l-8 4v8l8 4h8v-4h16v8h16v-4h8v4h8v-4h8l8 8h8l4 8v8l-4 8v16h-4v24h4v8h-4v8h4v8l-4 8l-4 8l-4 8h-4v8l-4 8h-4l-8 8l-8 8l-4 8l-4 4v12l-4 8l-4 8v16l-4 8l-4 8l-4 8h-4v4l-8 4l-8 8l-4 8l-4 4l-8 4
+l-4 8h-12l-8 4v24l8 4v4h8v-4h8l8 4h32l8 -4l8 4h16v-4h16l8 -4v-24l-8 -4h-16l4 -8l-4 -8h-8l4 -8l4 -8l4 -8l4 -8l4 -8l4 -8l4 -8l4 -4l8 -4l8 -8h8l8 4l8 4l8 -4l4 4h4v8h4l4 8l4 8l4 8v8h4l4 8h4l4 8l4 8l-4 8q0 3 -3 5q-2 3 -5 3h-16l-8 4v24l8 4h4l4 4h16l8 -4v-4h16
+l8 -4l8 4l8 4h32l8 -4v-24l-8 -4h-32l-4 -8v-8h-4v-8h-4l-4 -8v-8h-4v-8h-4v-8h-4v-8h-4l-4 -8l-4 -8l-4 -8l-4 -8v-8h-4l-4 -8v-8h-4v-8h-4l-4 -8l-4 -8v-8h-4v-8h-4l-4 -8l-4 -8v-28l-4 -4v-16l4 -8v-8l4 -8l4 -8l4 -8h4l8 -4l8 -4h8l8 4h32v-4l8 -4v-4l-8 -4l8 -4v-12
+l-8 -4l-8 -4h-56zM104 344l-8 8l-4 8l4 4v4h4l4 4v4h4l4 4l4 4l4 4l4 4l4 4l4 4l4 4v4h4l4 4l4 4l4 4l4 4l4 4v4h4l4 4l4 4l4 4h8l8 -4v-8h-8v-8h-8v-16h-8v-8l-8 -8l-8 -8h-8v-8l-8 -8l-8 -8v-8h-8v-8h-16z" />
+    <glyph glyph-name="Thorn" unicode="&#xde;" horiz-adv-x="260" 
+d="M144 80l8 4v4h8l8 8v8h8v8h8l8 8l4 8l4 8v8h4v24h4v24h-4v8h-4l-4 8l-4 8l-4 8l-4 4v0l-4 4h-4l-8 8v8l-8 8l-8 -4l-8 4h-40l-8 -4l-8 -4l-8 -4l-8 -4l-8 -4l-8 -4h4v-8h-4v-8h4v-8h-4v-24h4v-40h-4v-8h8v-5l4 -3h4v-8l4 -8h4v-8h4l-4 -8l8 -8l8 -4l8 -4h40zM-16 0l-8 4
+v20l8 4h32v-4h4v40h8v56h-4v8h4v8h-4v8h4v16h-4v8h4v8h-4v8h4v16h-4v16h4v16h-4v8h-4v40h4v8h-4v16h4v4h-40l-8 4l8 4l-8 4v12l8 4v4h40v-4h16v4h8v-4q3 0 5 -3q3 -2 3 -5v-16l4 -8h4v-5l4 -3h4l8 -4v-4h8v-4h16v-4h8v4h32v-4h24l8 -4v-9l4 -3h4v-8h8v-8h8v-5l4 -3l4 -8
+l8 -8h8l4 -8l4 -8v-8h4v-16h-4v-32h4v-16l-4 -8v-8h-4v-8h-4v-8h-4l-4 -8l-8 -8v-8h-8l-8 -8v-8h-8v-4h-8v-4h-8v-4h-16v-4h-24v4h-24v-4h-8v4h-16v4l-8 4l-8 4l-8 -8h-1l-3 -4l4 -4v0q0 -2 -2 -3q-1 -1 -2 -1q1 0 2 -2q2 -1 2 -2v-32q0 -4 -3 -6q-2 -2 -5 -2v4h-24v-4h-32
+v4h-8v-4v0z" />
+    <glyph glyph-name="germandbls" unicode="&#xdf;" horiz-adv-x="264" 
+d="M128 -4l-8 4v4l-4 4h-12l-8 4v0l-4 4v8h4l8 4l-8 4h-4l4 4h24v-4l8 -4h8v-4h8l8 4v4h8l8 8h8v8l8 8l4 8h4v8h8v8h4l4 4v28l4 8v8l-4 8v4l-8 4l-4 8l4 8l-8 8v4l-4 4h-8l-4 4v4h-8l-8 4v4h-8l-4 8v16l4 8v8h4l4 8l4 8h-4v8l-4 8h-4v4l-4 4l-4 4v4l-4 8h-4v4l-8 4h-8l-8 -4
+v-4h-8l-8 -8v-8h-8v-8h-4v-8h-4v-32h4v-40h-4v-8h4v-8h-4v-8h4v-24h-4v-8h4v-8h-4v-8h4v-8h-4v-8h4v-16h-8v-40h4v-8h-4v-8h4v-16q0 -4 -3 -6q-2 -2 -5 -2h-64l-8 4v20l8 4h24v4h8v8h4v16h-4v8h4v16h4v8h-4v32h4v8h4v24h-4v8h4v16h-4v8h-4v40h4v24h-4v8h4v16h4v8h4v8h4l4 4
+v4h4l4 4l4 4l4 4v4h8l8 4v4h8v4h40l8 -4h8v-4h8v-4l8 -4v-4h8v-5l4 -3h4v-5l4 -3h4v-40h-4v-8h-4v-8h-4l-4 -8l-4 -8v-8l4 -8h8v-8h8v-8l8 -8l4 -8h4v-8h4v-8l4 -8l4 -8h4v-56l-4 -8v-8h-4v-8h-4l-4 -8l-4 -8h-1l-3 -4v-4h-8v-8h-5l-3 -4l-4 -4h-4v-8h-8v-4h-8l-8 -4v-4h-32
+z" />
+    <glyph glyph-name="agrave" unicode="&#xe0;" horiz-adv-x="272" 
+d="M75 40v0h1h-1zM80 24l8 8h16l8 -4l8 4l8 8h8l8 8l8 4l4 4l-4 8l4 8v16l-4 4l-8 4l-8 8l-8 4v0l-4 4l-4 4l-8 4h-8l-4 8l-4 -8l-4 -8h-4l-4 -8l-4 8h-8l-8 -8l-4 -8v-8l-4 -8l-8 -8l8 -8l-4 -8v-8l4 -4h8l8 -4h3l-3 -4l-4 -4l4 -8h8zM88 -8l-8 4h-16l-8 4l-8 4l-8 4l-8 4
+v4h-8l-8 8l-8 8l-4 8l-4 8v24l4 8l4 4l4 4l4 8v8h8l4 8v8l4 8l8 4l8 4l8 4l8 4l8 4h32l8 4h16l8 -8l8 8l4 8v8l-4 8l-8 8l-4 8l-4 4l-8 4l-4 8l-4 4h-16l-8 -4l-8 -4l-4 -4l-4 -8l-8 -8l-4 -8h-4v-8l-8 -4l-8 -4h-8l-8 4l-8 4l-4 8h-4v8l-4 4l4 4l4 8l4 8l8 4h16l4 4v8l4 8
+l8 4l8 4h16l8 -4h16l4 4h20l8 -4h8v-4l8 -4l8 -4v-8h8l8 -8h4v-8l4 -8v-40l4 -8v-8l4 -8v-12l-4 -4l-4 -8v-24l4 -8l-4 -8v-16l8 -8v-8l8 -8h8l8 8l8 8l4 -8l4 8h4l4 -8v-8l-4 -8l-4 -8l-8 -4l-8 -4h-32l-8 4l-8 4l-4 8l-4 8l-8 -8v-8h-8l-8 -4v-4h-8l-8 -4h-8l-8 -4h-16z
+M128 248v4h-8v4h-4v8h-4v8h-4l-4 8l-8 8l-8 8h-8v8h-8v8l-8 8l-8 8l-4 8l4 8l8 4h8v-1l4 -3h4v-8h4l4 -4v-4h4l4 -4v-1l4 -3l4 -4v-1l4 -3h4v-5l4 -3l4 -4v-1l4 -3h4v-5l4 -3h4v-5l4 -3l4 -4v-4h4l4 -4v-1l4 -3l-4 -8l-8 -8h-16z" />
+    <glyph glyph-name="aacute" unicode="&#xe1;" horiz-adv-x="272" 
+d="M75 40v0h1h-1zM80 24l8 8h16l8 -4l8 4l8 8h8l8 8l8 4l4 4l-4 8l4 8v16l-4 4l-8 4l-8 8l-8 4v0l-4 4l-4 4l-8 4h-8l-4 8l-4 -8l-4 -8h-4l-4 -8l-4 8h-8l-8 -8l-4 -8v-8l-4 -8l-8 -8l8 -8l-4 -8v-8l4 -4h8l8 -4h3l-3 -4l-4 -4l4 -8h8zM88 -8l-8 4h-16l-8 4l-8 4l-8 4l-8 4
+v4h-8l-8 8l-8 8l-4 8l-4 8v24l4 8l4 4l4 4l4 8v8h8l4 8v8l4 8l8 4l8 4l8 4l8 4l8 4h32l8 4h16l8 -8l8 8l4 8v8l-4 8l-8 8l-4 8l-4 4l-8 4l-4 8l-4 4h-16l-8 -4l-8 -4l-4 -4l-4 -8l-8 -8l-4 -8h-4v-8l-8 -4l-8 -4h-8l-8 4l-8 4l-4 8h-4v8l-4 4l4 4l4 8l4 8l8 4h16l4 4v8l4 8
+l8 4l8 4h16l8 -4h16l4 4h20l8 -4h8v-4l8 -4l8 -4v-8h8l8 -8h4v-8l4 -8v-40l4 -8v-8l4 -8v-12l-4 -4l-4 -8v-24l4 -8l-4 -8v-16l8 -8v-8l8 -8h8l8 8l8 8l4 -8l4 8h4l4 -8v-8l-4 -8l-4 -8l-8 -4l-8 -4h-32l-8 4l-8 4l-4 8l-4 8l-8 -8v-8h-8l-8 -4v-4h-8l-8 -4h-8l-8 -4h-16z
+M48 248l-8 8l-4 8l4 4v4h4l4 4v4h4l4 4l4 4l4 4l4 4l4 4l4 4l4 4v4h4l4 4l4 4l4 4l4 4l4 4v4h4l4 4l4 4l4 4h8l8 -4v-8h-8v-8h-8v-16h-8v-8l-8 -8l-8 -8h-8v-8l-8 -8l-8 -8v-8h-8v-8h-16z" />
+    <glyph glyph-name="acircumflex" unicode="&#xe2;" horiz-adv-x="272" 
+d="M75 40v0h1h-1zM80 24l8 8h16l8 -4l8 4l8 8h8l8 8l8 4l4 4l-4 8l4 8v16l-4 4l-8 4l-8 8l-8 4v0l-4 4l-4 4l-8 4h-8l-4 8l-4 -8l-4 -8h-4l-4 -8l-4 8h-8l-8 -8l-4 -8v-8l-4 -8l-8 -8l8 -8l-4 -8v-8l4 -4h8l8 -4h3l-3 -4l-4 -4l4 -8h8zM88 -8l-8 4h-16l-8 4l-8 4l-8 4l-8 4
+v4h-8l-8 8l-8 8l-4 8l-4 8v24l4 8l4 4l4 4l4 8v8h8l4 8v8l4 8l8 4l8 4l8 4l8 4l8 4h32l8 4h16l8 -8l8 8l4 8v8l-4 8l-8 8l-4 8l-4 4l-8 4l-4 8l-4 4h-16l-8 -4l-8 -4l-4 -4l-4 -8l-8 -8l-4 -8h-4v-8l-8 -4l-8 -4h-8l-8 4l-8 4l-4 8h-4v8l-4 4l4 4l4 8l4 8l8 4h16l4 4v8l4 8
+l8 4l8 4h16l8 -4h16l4 4h20l8 -4h8v-4l8 -4l8 -4v-8h8l8 -8h4v-8l4 -8v-40l4 -8v-8l4 -8v-12l-4 -4l-4 -8v-24l4 -8l-4 -8v-16l8 -8v-8l8 -8h8l8 8l8 8l4 -8l4 8h4l4 -8v-8l-4 -8l-4 -8l-8 -4l-8 -4h-32l-8 4l-8 4l-4 8l-4 8l-8 -8v-8h-8l-8 -4v-4h-8l-8 -4h-8l-8 -4h-16z
+M8 248v4l4 4l4 4v4h4l4 4l4 4l4 4v4h4l4 4l4 4l4 4v4h8v8h4l4 4l4 4l4 4v4h4l4 4l4 4h4v8h4l4 4l4 4h8l4 -4v-1l4 -3l4 -4v-1l4 -3h4v-5l4 -3l4 -4v-4h4l4 -4v-1l4 -3h4v-5l4 -3h4v-8h8v-5l4 -3l4 -4v-1l4 -3l4 -4v-1l4 -3h4v-5l4 -3l4 -4v-4h-32l-8 8h-8v8h-8v8l-8 8l-8 8
+h-16v4h-8v4h-8v4l-4 -4h-4v-8h-8l-8 -8l-4 -8h-4l-8 -8h-8v-8h-8v-8h-8l-4 8l-4 -8h-16z" />
+    <glyph glyph-name="atilde" unicode="&#xe3;" horiz-adv-x="272" 
+d="M75 40v0h1h-1zM80 24l8 8h16l8 -4l8 4l8 8h8l8 8l8 4l4 4l-4 8l4 8v16l-4 4l-8 4l-8 8l-8 4v0l-4 4l-4 4l-8 4h-8l-4 8l-4 -8l-4 -8h-4l-4 -8l-4 8h-8l-8 -8l-4 -8v-8l-4 -8l-8 -8l8 -8l-4 -8v-8l4 -4h8l8 -4h3l-3 -4l-4 -4l4 -8h8zM88 -8l-8 4h-16l-8 4l-8 4l-8 4l-8 4
+v4h-8l-8 8l-8 8l-4 8l-4 8v24l4 8l4 4l4 4l4 8v8h8l4 8v8l4 8l8 4l8 4l8 4l8 4l8 4h32l8 4h16l8 -8l8 8l4 8v8l-4 8l-8 8l-4 8l-4 4l-8 4l-4 8l-4 4h-16l-8 -4l-8 -4l-4 -4l-4 -8l-8 -8l-4 -8h-4v-8l-8 -4l-8 -4h-8l-8 4l-8 4l-4 8h-4v8l-4 4l4 4l4 8l4 8l8 4h16l4 4v8l4 8
+l8 4l8 4h16l8 -4h16l4 4h20l8 -4h8v-4l8 -4l8 -4v-8h8l8 -8h4v-8l4 -8v-40l4 -8v-8l4 -8v-12l-4 -4l-4 -8v-24l4 -8l-4 -8v-16l8 -8v-8l8 -8h8l8 8l8 8l4 -8l4 8h4l4 -8v-8l-4 -8l-4 -8l-8 -4l-8 -4h-32l-8 4l-8 4l-4 8l-4 8l-8 -8v-8h-8l-8 -4v-4h-8l-8 -4h-8l-8 -4h-16z
+M144 244v4l-8 4l-8 4h-8v4l-4 4h-4v4l-4 4l-4 4v4h-4l-4 4v4h-8l-8 4h-16l-8 -4h-13l-3 -4v-4l-8 -4v-4l4 -8l-4 -8h-24l-4 8v8l4 8v8h4v8h4l8 8v8h8l8 4v4h8v4h8v-4h8v4h8v-4h8v-4h8v4h8l8 -4h8v-4h4l4 -8l8 -8l8 -8h8v-8l8 -4h16v4h8l8 4v4h4l4 8l4 8h4v8h24l4 -8h4v-8h-4
+l-4 -8v-8h-4l-4 -8l-8 -8h-8v-8l-8 -4v-4h-8v-4h-8v4h-8v-4h-24z" />
+    <glyph glyph-name="adieresis" unicode="&#xe4;" horiz-adv-x="272" 
+d="M75 40v0h1h-1zM80 24l8 8h16l8 -4l8 4l8 8h8l8 8l8 4l4 4l-4 8l4 8v16l-4 4l-8 4l-8 8l-8 4v0l-4 4l-4 4l-8 4h-8l-4 8l-4 -8l-4 -8h-4l-4 -8l-4 8h-8l-8 -8l-4 -8v-8l-4 -8l-8 -8l8 -8l-4 -8v-8l4 -4h8l8 -4h3l-3 -4l-4 -4l4 -8h8zM88 -8l-8 4h-16l-8 4l-8 4l-8 4l-8 4
+v4h-8l-8 8l-8 8l-4 8l-4 8v24l4 8l4 4l4 4l4 8v8h8l4 8v8l4 8l8 4l8 4l8 4l8 4l8 4h32l8 4h16l8 -8l8 8l4 8v8l-4 8l-8 8l-4 8l-4 4l-8 4l-4 8l-4 4h-16l-8 -4l-8 -4l-4 -4l-4 -8l-8 -8l-4 -8h-4v-8l-8 -4l-8 -4h-8l-8 4l-8 4l-4 8h-4v8l-4 4l4 4l4 8l4 8l8 4h16l4 4v8l4 8
+l8 4l8 4h16l8 -4h16l4 4h20l8 -4h8v-4l8 -4l8 -4v-8h8l8 -8h4v-8l4 -8v-40l4 -8v-8l4 -8v-12l-4 -4l-4 -8v-24l4 -8l-4 -8v-16l8 -8v-8l8 -8h8l8 8l8 8l4 -8l4 8h4l4 -8v-8l-4 -8l-4 -8l-8 -4l-8 -4h-32l-8 4l-8 4l-4 8l-4 8l-8 -8v-8h-8l-8 -4v-4h-8l-8 -4h-8l-8 -4h-16z
+M152 248l-8 4h-8v4h-4v8l-4 8h-4v8h4v8h4l4 8l8 4l8 4h16v-4h8v-4l4 -8l4 -8v-16h-4l-4 -8v-4h-8v-4h-16zM32 248v4l-8 4l-4 8l-4 8l-8 4l8 4v8h4l4 8l8 4v4h8l8 4l8 -4l4 -8v-8l4 -8l4 -4l-4 -4l-4 -8l-4 -8v-8l-4 8l-4 -8h-16z" />
+    <glyph glyph-name="aring" unicode="&#xe5;" horiz-adv-x="272" 
+d="M75 40v0h1h-1zM80 24l8 8h16l8 -4l8 4l8 8h8l8 8l8 4l4 4l-4 8l4 8v16l-4 4l-8 4l-8 8l-8 4v0l-4 4l-4 4l-8 4h-8l-4 8l-4 -8l-4 -8h-4l-4 -8l-4 8h-8l-8 -8l-4 -8v-8l-4 -8l-8 -8l8 -8l-4 -8v-8l4 -4h8l8 -4h3l-3 -4l-4 -4l4 -8h8zM88 -8l-8 4h-16l-8 4l-8 4l-8 4l-8 4
+v4h-8l-8 8l-8 8l-4 8l-4 8v24l4 8l4 4l4 4l4 8v8h8l4 8v8l4 8l8 4l8 4l8 4l8 4l8 4h32l8 4h16l8 -8l8 8l4 8v8l-4 8l-8 8l-4 8l-4 4l-8 4l-4 8l-4 4h-16l-8 -4l-8 -4l-4 -4l-4 -8l-8 -8l-4 -8h-4v-8l-8 -4l-8 -4h-8l-8 4l-8 4l-4 8h-4v8l-4 4l4 4l4 8l4 8l8 4h16l4 4v8l4 8
+l8 4l8 4h16l8 -4h16l4 4h20l8 -4h8v-4l8 -4l8 -4v-8h8l8 -8h4v-8l4 -8v-40l4 -8v-8l4 -8v-12l-4 -4l-4 -8v-24l4 -8l-4 -8v-16l8 -8v-8l8 -8h8l8 8l8 8l4 -8l4 8h4l4 -8v-8l-4 -8l-4 -8l-8 -4l-8 -4h-32l-8 4l-8 4l-4 8l-4 8l-8 -8v-8h-8l-8 -4v-4h-8l-8 -4h-8l-8 -4h-16z
+M104 272l8 4l4 4l4 8v24l-4 8l-4 4l-8 4l-8 -4l-4 -4l-4 -8v-24l4 -8l4 -4l8 -4v0zM88 248l-8 4l-8 4h-8v8l-4 8l-4 8h-4v24h4v8h-4v8h4v8h4l4 8v8h8v4h8l8 4h16l8 -4v-4h8v-8h8v-4h8v-4h4l4 -4v-20h4v-16h4v-8l-4 -8h4v-8h-8v-8h-8v-4h-8v-4h-40z" />
+    <glyph glyph-name="ae" unicode="&#xe6;" horiz-adv-x="412" 
+d="M75 40v0h1h-1zM80 24l8 8h16l8 -4l8 4l8 8h8l8 8l8 4l4 4l-4 8h8l-4 8h-4v16h-4v8h-4l-8 8l-8 4v0l-4 4l-4 4l-8 4h-8l-4 8l-4 -8l-4 -8h-4l-4 -8l-4 8h-8l-8 -8l-4 -8v-8l-4 -8l-8 -8l8 -8l-4 -8v-8l4 -4h8l8 -4h3l-3 -4l-4 -4l4 -8h8zM320 136l4 8l4 8l8 8v8l-8 8l-8 4
+l-8 4l-4 8l-4 4l-8 4l-8 4l-8 4h-24l-8 -4l-8 -4h-8v-4l-8 -4l-8 -8v-8h-16v-8l-8 -8l-4 -8l4 -4l8 -4l8 -8h16v4h24v-4h8v4h32v-4h8v4h8v-4h16zM88 -8l-8 4h-16l-8 4l-8 4l-8 4l-8 4v4h-8l-8 8l-8 8l-4 8l-4 8v24l4 8l4 4l4 4l4 8v8h8l4 8v8l4 8l8 4l8 4l8 4l8 4l8 4h32
+l8 4h16l8 -8l8 8l4 8v8l-4 8l-8 8l-4 8l-4 4l-8 4l-4 8l-4 4h-16l-8 -4l-8 -4l-4 -4l-4 -8l-8 -8l-4 -8h-4v-8l-8 -4l-8 -4h-8l-8 4l-8 4l-4 8h-4v8l-4 4l4 4l4 8l4 8l8 4h16l4 4v8l4 8l8 4l8 4h16l8 -4h16l4 4h20l8 -4h8v-4l8 -4l8 -4v-8h8l8 -8h4v-8h4l8 8v8h8l8 4l8 4v4
+h8v4h8l8 4h24l8 -4h8l8 4h8l8 -4l8 -4v-4h8l8 -4l8 -4v-8h8l8 -8h8v-8l8 -8l4 -8h4v-8h4v-8h4v-8l4 -8v-32h-1l-3 -4l-8 4h-8v-4h-32v4h-16v-4h-24v4h-16v-4h-40v4h-8v-4h-24l-8 -4h-4l-4 -8l4 -8v-8h-1l-3 -4l-4 -4l4 -4l8 -4l8 -8l8 -8v-8h8l8 -4v-4h8l8 -4l8 -4h40v4h8v4
+h8l8 4v4h8v4h8v4h4l4 -4l8 -4l8 -8v-16h-8l-8 -4v-4h-8l-8 -4l-8 -4l-8 -4h-24l-8 -4l-4 8l-4 -8h-8l-8 4h-16l-8 4l-8 4l-8 4v8h-16v8h-8l-8 8h-16v-8h-8l-8 -8v-8h-8l-8 -4v-4h-8l-8 -4h-8l-8 -4h-16z" />
+    <glyph glyph-name="ccedilla" unicode="&#xe7;" horiz-adv-x="244" 
+d="M84 -116l-8 4h-8v8l-4 8v8l4 8h16v-4l4 -4h4v-4l8 -4h8l8 4l4 4l4 8v8l8 4l-8 4l-4 8h-4v12l-8 4h-8l-4 8v24l-4 4l-8 4l-8 4l-8 4l-8 4h-8v4h-8v8h-8v8l-8 8l-8 8l-4 8l-4 8v8l-4 8l-4 4v0l-4 4v40h4v8h-4v8l4 8l4 8l4 8l4 8l4 8v8h8l8 8h8v8l8 8h8v4l8 4v4h8l8 4l8 4
+h16l8 -4h8l8 4h16l8 -4l8 -4v-4h8l8 -4l8 -4l8 -8h8v-8l4 -8l4 -8l-8 -8l-8 -4h-8l-8 -4v-4l-4 -4h-1l-3 -4l-8 4l-4 8l-4 8v8h-8v16l-8 4l-8 4h-16l-4 8l-4 -8l-8 -4l-8 -4l-8 -4l-8 -4l-8 -8l-8 -8l-8 -8l-8 -8l-4 -8l-4 -8l-4 -8v-40l4 -8h4v-8l4 -8v-8l4 -8v-8l4 -8
+l8 -4h8v-1l4 -3l4 -4l8 -4l4 -8l4 8h16l8 -4l8 4h16q1 0 2 -2q2 -1 2 -2q0 1 1 2q1 2 3 2l8 4l8 4h8v4l8 4l8 4h8l8 -4l8 -8v-8l-8 -8l-8 -4l-8 -4l-8 -4l-4 -4l-4 -8h-8v4h-8v-4h-16v4h-8l-4 -4v-8l4 -4l8 -4l8 -8l4 -8l4 -8v-8h4v-8h-4v-8h-4v-24l-4 -8h-8v-4h-8v4h-8v-4
+h-16v-4h-16v-4h-8z" />
+    <glyph glyph-name="egrave" unicode="&#xe8;" horiz-adv-x="264" 
+d="M172 136l4 8l4 8l8 8v8l-8 8l-8 4l-8 4l-4 8l-4 4l-8 4l-8 4l-8 4h-24l-8 -4l-8 -4h-8v-4l-8 -4l-8 -8v-8h-16v-8l-8 -8l-4 -8l4 -4l8 -4l8 -8h16v4h24v-4h8v4h32v-4h8v4h8v-4h16zM116 -8l-8 4h-16l-8 4l-8 4l-8 4v8h-16v8h-8l-8 8h-8v8h-8v8h-4v8h-4v8l-4 8l-4 8l-4 8
+v32l4 8l-4 8v8l4 8l4 8l4 8l4 8l4 8v8h8v8h8l8 8v8h8l8 4l8 4v4h8v4h8l8 4h24l8 -4h8l8 4h8l8 -4l8 -4v-4h8l8 -4l8 -4v-8h8l8 -8h8v-8l8 -8l4 -8h4v-8h4v-8h4v-8l4 -8v-32h-1l-3 -4l-8 4h-8v-4h-32v4h-16v-4h-24v4h-16v-4h-40v4h-8v-4h-24l-8 -4h-4l-4 -8l4 -8v-8h-1l-3 -4
+l-4 -4l4 -4l8 -4l8 -8l8 -8v-8h8l8 -4v-4h8l8 -4l8 -4h40v4h8v4h8l8 4v4h8v4h8v4h4l4 -4l8 -4l8 -8v-16h-8l-8 -4v-4h-8l-8 -4l-8 -4l-8 -4h-24l-8 -4l-4 8l-4 -8h-8zM148 248v4h-8v4h-4v8h-4v8h-4l-4 8l-8 8l-8 8h-8v8h-8v8l-8 8l-8 8l-4 8l4 8l8 4h8v-1l4 -3h4v-8h4l4 -4
+v-4h4l4 -4v-1l4 -3l4 -4v-1l4 -3h4v-5l4 -3l4 -4v-1l4 -3h4v-5l4 -3h4v-5l4 -3l4 -4v-4h4l4 -4v-1l4 -3l-4 -8l-8 -8h-16z" />
+    <glyph glyph-name="eacute" unicode="&#xe9;" horiz-adv-x="264" 
+d="M172 136l4 8l4 8l8 8v8l-8 8l-8 4l-8 4l-4 8l-4 4l-8 4l-8 4l-8 4h-24l-8 -4l-8 -4h-8v-4l-8 -4l-8 -8v-8h-16v-8l-8 -8l-4 -8l4 -4l8 -4l8 -8h16v4h24v-4h8v4h32v-4h8v4h8v-4h16zM116 -8l-8 4h-16l-8 4l-8 4l-8 4v8h-16v8h-8l-8 8h-8v8h-8v8h-4v8h-4v8l-4 8l-4 8l-4 8
+v32l4 8l-4 8v8l4 8l4 8l4 8l4 8l4 8v8h8v8h8l8 8v8h8l8 4l8 4v4h8v4h8l8 4h24l8 -4h8l8 4h8l8 -4l8 -4v-4h8l8 -4l8 -4v-8h8l8 -8h8v-8l8 -8l4 -8h4v-8h4v-8h4v-8l4 -8v-32h-1l-3 -4l-8 4h-8v-4h-32v4h-16v-4h-24v4h-16v-4h-40v4h-8v-4h-24l-8 -4h-4l-4 -8l4 -8v-8h-1l-3 -4
+l-4 -4l4 -4l8 -4l8 -8l8 -8v-8h8l8 -4v-4h8l8 -4l8 -4h40v4h8v4h8l8 4v4h8v4h8v4h4l4 -4l8 -4l8 -8v-16h-8l-8 -4v-4h-8l-8 -4l-8 -4l-8 -4h-24l-8 -4l-4 8l-4 -8h-8zM68 248l-8 8l-4 8l4 4v4h4l4 4v4h4l4 4l4 4l4 4l4 4l4 4l4 4l4 4v4h4l4 4l4 4l4 4l4 4l4 4v4h4l4 4l4 4
+l4 4h8l8 -4v-8h-8v-8h-8v-16h-8v-8l-8 -8l-8 -8h-8v-8l-8 -8l-8 -8v-8h-8v-8h-16z" />
+    <glyph glyph-name="ecircumflex" unicode="&#xea;" horiz-adv-x="264" 
+d="M172 136l4 8l4 8l8 8v8l-8 8l-8 4l-8 4l-4 8l-4 4l-8 4l-8 4l-8 4h-24l-8 -4l-8 -4h-8v-4l-8 -4l-8 -8v-8h-16v-8l-8 -8l-4 -8l4 -4l8 -4l8 -8h16v4h24v-4h8v4h32v-4h8v4h8v-4h16zM116 -8l-8 4h-16l-8 4l-8 4l-8 4v8h-16v8h-8l-8 8h-8v8h-8v8h-4v8h-4v8l-4 8l-4 8l-4 8
+v32l4 8l-4 8v8l4 8l4 8l4 8l4 8l4 8v8h8v8h8l8 8v8h8l8 4l8 4v4h8v4h8l8 4h24l8 -4h8l8 4h8l8 -4l8 -4v-4h8l8 -4l8 -4v-8h8l8 -8h8v-8l8 -8l4 -8h4v-8h4v-8h4v-8l4 -8v-32h-1l-3 -4l-8 4h-8v-4h-32v4h-16v-4h-24v4h-16v-4h-40v4h-8v-4h-24l-8 -4h-4l-4 -8l4 -8v-8h-1l-3 -4
+l-4 -4l4 -4l8 -4l8 -8l8 -8v-8h8l8 -4v-4h8l8 -4l8 -4h40v4h8v4h8l8 4v4h8v4h8v4h4l4 -4l8 -4l8 -8v-16h-8l-8 -4v-4h-8l-8 -4l-8 -4l-8 -4h-24l-8 -4l-4 8l-4 -8h-8zM20 248v4l4 4l4 4v4h4l4 4l4 4l4 4v4h4l4 4l4 4l4 4v4h8v8h4l4 4l4 4l4 4v4h4l4 4l4 4h4v8h4l4 4l4 4h8
+l4 -4v-1l4 -3l4 -4v-1l4 -3h4v-5l4 -3l4 -4v-4h4l4 -4v-1l4 -3h4v-5l4 -3h4v-8h8v-5l4 -3l4 -4v-1l4 -3l4 -4v-1l4 -3h4v-5l4 -3l4 -4v-4h-32l-8 8h-8v8h-8v8l-8 8l-8 8h-16v4h-8v4h-8v4l-4 -4h-4v-8h-8l-8 -8l-4 -8h-4l-8 -8h-8v-8h-8v-8h-8l-4 8l-4 -8h-16z" />
+    <glyph glyph-name="edieresis" unicode="&#xeb;" horiz-adv-x="264" 
+d="M172 136l4 8l4 8l8 8v8l-8 8l-8 4l-8 4l-4 8l-4 4l-8 4l-8 4l-8 4h-24l-8 -4l-8 -4h-8v-4l-8 -4l-8 -8v-8h-16v-8l-8 -8l-4 -8l4 -4l8 -4l8 -8h16v4h24v-4h8v4h32v-4h8v4h8v-4h16zM116 -8l-8 4h-16l-8 4l-8 4l-8 4v8h-16v8h-8l-8 8h-8v8h-8v8h-4v8h-4v8l-4 8l-4 8l-4 8
+v32l4 8l-4 8v8l4 8l4 8l4 8l4 8l4 8v8h8v8h8l8 8v8h8l8 4l8 4v4h8v4h8l8 4h24l8 -4h8l8 4h8l8 -4l8 -4v-4h8l8 -4l8 -4v-8h8l8 -8h8v-8l8 -8l4 -8h4v-8h4v-8h4v-8l4 -8v-32h-1l-3 -4l-8 4h-8v-4h-32v4h-16v-4h-24v4h-16v-4h-40v4h-8v-4h-24l-8 -4h-4l-4 -8l4 -8v-8h-1l-3 -4
+l-4 -4l4 -4l8 -4l8 -8l8 -8v-8h8l8 -4v-4h8l8 -4l8 -4h40v4h8v4h8l8 4v4h8v4h8v4h4l4 -4l8 -4l8 -8v-16h-8l-8 -4v-4h-8l-8 -4l-8 -4l-8 -4h-24l-8 -4l-4 8l-4 -8h-8zM172 248l-8 4h-8v4h-4v8l-4 8h-4v8h4v8h4l4 8l8 4l8 4h16v-4h8v-4l4 -8l4 -8v-16h-4l-4 -8v-4h-8v-4h-16z
+M52 248v4l-8 4l-4 8l-4 8l-8 4l8 4v8h4l4 8l8 4v4h8l8 4l8 -4l4 -8v-8l4 -8l4 -4l-4 -4l-4 -8l-4 -8v-8l-4 8l-4 -8h-16z" />
+    <glyph glyph-name="igrave" unicode="&#xec;" horiz-adv-x="184" 
+d="M116 -8l-8 4h-16l-8 4h-8v-4h-8v4h-8l-8 4l-8 -4h-8l-8 4v4l8 4l-8 4l8 8l8 4h8l4 4l4 8v32l4 8v16l-4 8v32l4 8v8l-4 8v8h-4v16l-4 8l-8 8l-8 4h-8l-8 4l-8 -4l-8 4v8v0l4 4l-4 3v5l8 4q1 0 2 -2q2 -1 2 -2q0 1 1 2q1 2 3 2h8v4h40l8 -4h8q3 0 5 -3q3 -2 3 -5l4 -8v-8
+l-4 -8v-24l4 -8v-32l-4 -8l4 -8v-64l-4 -8v-8l4 -8l4 -4h8l8 -4h8l8 4h8l8 -4l4 -8l-4 -8v-4l-8 -4h-8v-4h-8l-8 -4v0zM76 248v4h-8v4h-4v8h-4v8h-4l-4 8l-8 8l-8 8h-8v8h-8v8l-8 8l-8 8l-4 8l4 8l8 4h8v-1l4 -3h4v-8h4l4 -4v-4h4l4 -4v-1l4 -3l4 -4v-1l4 -3h4v-5l4 -3l4 -4
+v-1l4 -3h4v-5l4 -3h4v-5l4 -3l4 -4v-4h4l4 -4v-1l4 -3l-4 -8l-8 -8h-16z" />
+    <glyph glyph-name="iacute" unicode="&#xed;" horiz-adv-x="180" 
+d="M112 -8l-8 4h-16l-8 4h-8v-4h-8v4h-8l-8 4l-8 -4h-8l-8 4v4l8 4l-8 4l8 8l8 4h8l4 4l4 8v32l4 8v16l-4 8v32l4 8v8l-4 8v8h-4v16l-4 8l-8 8l-8 4h-8l-8 4l-8 -4l-8 4v8v0l4 4l-4 3v5l8 4q1 0 2 -2q2 -1 2 -2q0 1 1 2q1 2 3 2h8v4h40l8 -4h8q3 0 5 -3q3 -2 3 -5l4 -8v-8
+l-4 -8v-24l4 -8v-32l-4 -8l4 -8v-64l-4 -8v-8l4 -8l4 -4h8l8 -4h8l8 4h8l8 -4l4 -8l-4 -8v-4l-8 -4h-8v-4h-8l-8 -4v0zM16 248l-8 8l-4 8l4 4v4h4l4 4v4h4l4 4l4 4l4 4l4 4l4 4l4 4l4 4v4h4l4 4l4 4l4 4l4 4l4 4v4h4l4 4l4 4l4 4h8l8 -4v-8h-8v-8h-8v-16h-8v-8l-8 -8l-8 -8
+h-8v-8l-8 -8l-8 -8v-8h-8v-8h-16z" />
+    <glyph glyph-name="icircumflex" unicode="&#xee;" horiz-adv-x="224" 
+d="M144 -8l-8 4h-16l-8 4h-8v-4h-8v4h-8l-8 4l-8 -4h-8l-8 4v4l8 4l-8 4l8 8l8 4h8l4 4l4 8v32l4 8v16l-4 8v32l4 8v8l-4 8v8h-4v16l-4 8l-8 8l-8 4h-8l-8 4l-8 -4l-8 4v8v0l4 4l-4 3v5l8 4q1 0 2 -2q2 -1 2 -2q0 1 1 2q1 2 3 2h8v4h40l8 -4h8q3 0 5 -3q3 -2 3 -5l4 -8v-8
+l-4 -8v-24l4 -8v-32l-4 -8l4 -8v-64l-4 -8v-8l4 -8l4 -4h8l8 -4h8l8 4h8l8 -4l4 -8l-4 -8v-4l-8 -4h-8v-4h-8l-8 -4v0zM0 248v4l4 4l4 4v4h4l4 4l4 4l4 4v4h4l4 4l4 4l4 4v4h8v8h4l4 4l4 4l4 4v4h4l4 4l4 4h4v8h4l4 4l4 4h8l4 -4v-1l4 -3l4 -4v-1l4 -3h4v-5l4 -3l4 -4v-4h4
+l4 -4v-1l4 -3h4v-5l4 -3h4v-8h8v-5l4 -3l4 -4v-1l4 -3l4 -4v-1l4 -3h4v-5l4 -3l4 -4v-4h-32l-8 8h-8v8h-8v8l-8 8l-8 8h-16v4h-8v4h-8v4l-4 -4h-4v-8h-8l-8 -8l-4 -8h-4l-8 -8h-8v-8h-8v-8h-8l-4 8l-4 -8h-16z" />
+    <glyph glyph-name="idieresis" unicode="&#xef;" horiz-adv-x="188" 
+d="M120 0l-8 4h-16l-8 4h-8v-4h-8v4h-8l-8 4l-8 -4h-8l-8 4v4l8 4l-8 4l8 8l8 4h8l4 4l4 8v32l4 8v16l-4 8v32l4 8v8l-4 8v8h-4v16l-4 8l-8 8l-8 4h-8l-8 4l-8 -4l-8 4v8v0l4 4l-4 3v5l8 4q1 0 2 -2q2 -1 2 -2q0 1 1 2q1 2 3 2h8v4h8v-4h8v4h24l8 -4h8q3 0 5 -3q3 -2 3 -5
+l4 -8v-8l-4 -8v-24l4 -8v-32l-4 -8l4 -8v-64l-4 -8v-8l4 -8l4 -4h8l8 -4h8l8 4h8l8 -4l4 -8l-4 -8v-4l-8 -4h-8v-4h-8l-8 -4v0zM112 248l-8 4h-8v4h-4v8l-4 8h-4v8h4v8h4l4 8l8 4l8 4h16v-4h8v-4l4 -8l4 -8v-16h-4l-4 -8v-4h-8v-4h-16zM16 248v4l-8 4l-4 8l-4 8l-8 4l8 4v8
+h4l4 8l8 4v4h8l8 4l8 -4l4 -8v-8l4 -8l4 -4l-4 -4l-4 -8l-4 -8v-8l-4 8l-4 -8h-16z" />
+    <glyph glyph-name="eth" unicode="&#xf0;" horiz-adv-x="256" 
+d="M124 24l8 4l8 4v8h4v8h4v8h4v8h8v16h8v8h8v8h-4v8h4v8h4l4 8l-4 8h-4v8h4l8 4l-8 4v8h4v8h4l-8 8h-8v8l-8 8l-8 8h-8v4l-8 4h-8v4h-24v4h-8v-4h-8l-8 -4l-8 -4v-4h-8l-8 -8v-8h-8v-8h-8l-8 -8v-16h-4v-8h-4v-8h-4v-32l4 -8h4v-8h4v-8l8 -8l8 -8h8v-8l8 -8h8v-4h8v-4h8v-4
+l8 -4h24zM92 -4v4h-8v8h-16v-4l-8 4h-8v4l-8 4h-8v8l-8 8l-8 8h-8v8h-4v8l-4 8l-4 8h-4v8l-4 8h4v16h-4v24h4v8h-4v8l4 8l4 8v8h4v8h4l4 8l8 8l8 8v8h8l8 8v4h8v4h8l8 4v4h8v4h16v-4h8v4h8v-4h8v4h24v-4h8l8 -4v12h-4l-4 8v8h-4l-4 8v8h-8l-8 -8h-8v-8h-8v4h-8v-4h-8v4h-8
+v-4l-4 8l4 8v8h8v8h8l8 8v8h-8l-8 8v8h-4l4 8l8 8h8l8 -8h8v-9l4 -3l3 4h1l8 8v8h8l8 4l8 -4l8 -8l-8 -4l8 -4v-8l-8 -8h-8v-8h-1l-3 -4l4 -4v0l8 -8l4 -8h4v-8l4 -8l4 -8l4 -8h4v-8l4 -8l4 -8v-8l4 -8h4l4 -8l4 -8v-8h4l4 -8v-8h4l4 -8l4 -8v-16h-4v-16h4v-8h-4v-8h-5
+l-3 -4v-4l-8 -4l8 -4v-8h4l-4 -8l-4 -8l-4 -8h-8v-8l-8 -8h-16l-8 -4l8 -4v-8h-8v-4l-8 -4h-8v-4l-8 -4l-8 -4h-32v4h-8v-4h-8z" />
+    <glyph glyph-name="ntilde" unicode="&#xf1;" horiz-adv-x="288" 
+d="M8 -4v4l-8 4v20l8 4h8l8 -4h12l-4 8v8h4v8h-4v16h-4v40h4v16h-4v8h8v8h-4v8h4v8h-4v8h-4v24h4v8h-4v8h-4v4h-16l-8 4v20l8 4v4h16v-4h24q3 0 5 -3q3 -2 3 -5l-8 -4l8 -4h8l8 4h8l8 -4l8 4v4h8l8 4v4h8l8 4h40l8 -4l8 -4l8 -4h8v-16l4 -8l4 -4v-1l4 -3l-4 -8v-8l8 -8
+l-8 -8l4 -8l-4 -8v-5l4 -3l4 -4l8 -4v-8l-8 -4l8 -4v-24l-4 -8v-16l-4 -8h-1l-3 -4l4 -4v0l4 -4l-4 -4v-4l8 -4h4l4 -4l8 -4l8 4l8 -4v-8l-8 -4l8 -4v-4l-8 -4h-24v0l-4 4l-4 -4v0v0l-4 4l-4 -4h-32q-2 0 -3 1t-1 3q0 -2 -2 -3q-1 -1 -2 -1l-8 4v4l-4 4l4 4v8l8 4h8l4 4l4 8
+l4 8l4 8v8l-4 8v32h4v32h-4v8h4v8h-4v16h4v8l-4 8l-4 8h-8v8h-8v4l-8 4h-24l-8 -4v-4h-8l-8 -4l-4 -4h-1l-3 -4v-8l-4 -4h-1l-3 -4l-8 -4h-5l-3 -4v-4h-4l-4 -8v-8h-4l-4 -8h4v-8h-4v-8h4v-32h-4v-8h4v-8h-4v-8h4v-24h4v-8h8v-4h8l8 -4v-20l-8 -4v-4h-8l-8 4l-8 -4h-24v8
+h-16v-4h-8v-4h-8zM144 244v4l-8 4l-8 4h-8v4l-4 4h-4v4l-4 4l-4 4v4h-4l-4 4v4h-8l-8 4h-16l-8 -4h-13l-3 -4v-4l-8 -4v-4l4 -8l-4 -8h-24l-4 8v8l4 8v8h4v8h4l8 8v8h8l8 4v4h8v4h8v-4h8v4h8v-4h8v-4h8v4h8l8 -4h8v-4h4l4 -8l8 -8l8 -8h8v-8l8 -4h16v4h8l8 4v4h4l4 8l4 8h4
+v8h24l4 -8h4v-8h-4l-4 -8v-8h-4l-4 -8l-8 -8h-8v-8l-8 -4v-4h-8v-4h-8v4h-8v-4h-24z" />
+    <glyph glyph-name="ograve" unicode="&#xf2;" horiz-adv-x="268" 
+d="M92 12l4 4l4 4l8 4l4 -8v8h12l8 4l8 4l4 8l4 4l8 4v8h4l4 8v8h12l4 8l8 4l4 4h4v4l4 4v16h4v16h-4v8h-4v8h-4v8h-4v8l-8 8v8h-8l-8 8h-8v8h-8v4h-8v4h-8v4l-8 4h-24l-8 -4l-8 -4h-8v-4l-8 -4h-8v-8l-8 -8v-8h-8l-8 -8l-4 -8l-4 -8l-8 -8v-8l-8 -4v-4h-1l-3 -4l4 -4v-8
+l-8 -4l8 -4v-8l4 -8h4v-5l4 -3l4 -8l4 -8h4v-4l8 -4h8l4 -8h4l8 -4v-1l4 -3l4 -8h8l4 -8l4 -4v0zM84 -4l-8 4h-8v4l-8 4h-8v4l-8 4l-8 8l-8 8h-8v8l-4 8h-4v8h-4l-4 8l-4 8l-4 8l-4 8h4v16h-4v16h4v8h-4v16l4 8v8h4v8h4l4 8l4 8v8h8v8h8l8 8l8 8l8 4v4h8v4h8v4h8l8 4h64v-4
+l8 -4h8v-4l8 -4l8 -4h8v-8l8 -8l8 -8h8v-8h4v-8l4 -8l4 -8h4v-8l4 -8h4v-8h-4v-8h4v-8h-4v-8h4v-24h-4l-4 -8v-8h-4v-8h-4l-4 -8v-8h-4l-8 -8l-8 -8v-8h-8v-8h-8v-4h-8v-4h-8l-8 -4l-8 -4l-8 -4h-24l-8 4h-8l-8 -4h-8zM148 248v4h-8v4h-4v8h-4v8h-4l-4 8l-8 8l-8 8h-8v8h-8
+v8l-8 8l-8 8l-4 8l4 8l8 4h8v-1l4 -3h4v-8h4l4 -4v-4h4l4 -4v-1l4 -3l4 -4v-1l4 -3h4v-5l4 -3l4 -4v-1l4 -3h4v-5l4 -3h4v-5l4 -3l4 -4v-4h4l4 -4v-1l4 -3l-4 -8l-8 -8h-16z" />
+    <glyph glyph-name="oacute" unicode="&#xf3;" horiz-adv-x="268" 
+d="M92 12l4 4l4 4l8 4l4 -8v8h12l8 4l8 4l4 8l4 4l8 4v8h4l4 8v8h12l4 8l8 4l4 4h4v4l4 4v16h4v16h-4v8h-4v8h-4v8h-4v8l-8 8v8h-8l-8 8h-8v8h-8v4h-8v4h-8v4l-8 4h-24l-8 -4l-8 -4h-8v-4l-8 -4h-8v-8l-8 -8v-8h-8l-8 -8l-4 -8l-4 -8l-8 -8v-8l-8 -4v-4h-1l-3 -4l4 -4v-8
+l-8 -4l8 -4v-8l4 -8h4v-5l4 -3l4 -8l4 -8h4v-4l8 -4h8l4 -8h4l8 -4v-1l4 -3l4 -8h8l4 -8l4 -4v0zM84 -4l-8 4h-8v4l-8 4h-8v4l-8 4l-8 8l-8 8h-8v8l-4 8h-4v8h-4l-4 8l-4 8l-4 8l-4 8h4v16h-4v16h4v8h-4v16l4 8v8h4v8h4l4 8l4 8v8h8v8h8l8 8l8 8l8 4v4h8v4h8v4h8l8 4h64v-4
+l8 -4h8v-4l8 -4l8 -4h8v-8l8 -8l8 -8h8v-8h4v-8l4 -8l4 -8h4v-8l4 -8h4v-8h-4v-8h4v-8h-4v-8h4v-24h-4l-4 -8v-8h-4v-8h-4l-4 -8v-8h-4l-8 -8l-8 -8v-8h-8v-8h-8v-4h-8v-4h-8l-8 -4l-8 -4l-8 -4h-24l-8 4h-8l-8 -4h-8zM68 248l-8 8l-4 8l4 4v4h4l4 4v4h4l4 4l4 4l4 4l4 4
+l4 4l4 4l4 4v4h4l4 4l4 4l4 4l4 4l4 4v4h4l4 4l4 4l4 4h8l8 -4v-8h-8v-8h-8v-16h-8v-8l-8 -8l-8 -8h-8v-8l-8 -8l-8 -8v-8h-8v-8h-16z" />
+    <glyph glyph-name="ocircumflex" unicode="&#xf4;" horiz-adv-x="268" 
+d="M92 12l4 4l4 4l8 4l4 -8v8h12l8 4l8 4l4 8l4 4l8 4v8h4l4 8v8h12l4 8l8 4l4 4h4v4l4 4v16h4v16h-4v8h-4v8h-4v8h-4v8l-8 8v8h-8l-8 8h-8v8h-8v4h-8v4h-8v4l-8 4h-24l-8 -4l-8 -4h-8v-4l-8 -4h-8v-8l-8 -8v-8h-8l-8 -8l-4 -8l-4 -8l-8 -8v-8l-8 -4v-4h-1l-3 -4l4 -4v-8
+l-8 -4l8 -4v-8l4 -8h4v-5l4 -3l4 -8l4 -8h4v-4l8 -4h8l4 -8h4l8 -4v-1l4 -3l4 -8h8l4 -8l4 -4v0zM84 -4l-8 4h-8v4l-8 4h-8v4l-8 4l-8 8l-8 8h-8v8l-4 8h-4v8h-4l-4 8l-4 8l-4 8l-4 8h4v16h-4v16h4v8h-4v16l4 8v8h4v8h4l4 8l4 8v8h8v8h8l8 8l8 8l8 4v4h8v4h8v4h8l8 4h64v-4
+l8 -4h8v-4l8 -4l8 -4h8v-8l8 -8l8 -8h8v-8h4v-8l4 -8l4 -8h4v-8l4 -8h4v-8h-4v-8h4v-8h-4v-8h4v-24h-4l-4 -8v-8h-4v-8h-4l-4 -8v-8h-4l-8 -8l-8 -8v-8h-8v-8h-8v-4h-8v-4h-8l-8 -4l-8 -4l-8 -4h-24l-8 4h-8l-8 -4h-8zM12 248v4l4 4l4 4v4h4l4 4l4 4l4 4v4h4l4 4l4 4l4 4v4
+h8v8h4l4 4l4 4l4 4v4h4l4 4l4 4h4v8h4l4 4l4 4h8l4 -4v-1l4 -3l4 -4v-1l4 -3h4v-5l4 -3l4 -4v-4h4l4 -4v-1l4 -3h4v-5l4 -3h4v-8h8v-5l4 -3l4 -4v-1l4 -3l4 -4v-1l4 -3h4v-5l4 -3l4 -4v-4h-32l-8 8h-8v8h-8v8l-8 8l-8 8h-16v4h-8v4h-8v4l-4 -4h-4v-8h-8l-8 -8l-4 -8h-4
+l-8 -8h-8v-8h-8v-8h-8l-4 8l-4 -8h-16z" />
+    <glyph glyph-name="otilde" unicode="&#xf5;" horiz-adv-x="268" 
+d="M92 12l4 4l4 4l8 4l4 -8v8h12l8 4l8 4l4 8l4 4l8 4v8h4l4 8v8h12l4 8l8 4l4 4h4v4l4 4v16h4v16h-4v8h-4v8h-4v8h-4v8l-8 8v8h-8l-8 8h-8v8h-8v4h-8v4h-8v4l-8 4h-24l-8 -4l-8 -4h-8v-4l-8 -4h-8v-8l-8 -8v-8h-8l-8 -8l-4 -8l-4 -8l-8 -8v-8l-8 -4v-4h-1l-3 -4l4 -4v-8
+l-8 -4l8 -4v-8l4 -8h4v-5l4 -3l4 -8l4 -8h4v-4l8 -4h8l4 -8h4l8 -4v-1l4 -3l4 -8h8l4 -8l4 -4v0zM84 -4l-8 4h-8v4l-8 4h-8v4l-8 4l-8 8l-8 8h-8v8l-4 8h-4v8h-4l-4 8l-4 8l-4 8l-4 8h4v16h-4v16h4v8h-4v16l4 8v8h4v8h4l4 8l4 8v8h8v8h8l8 8l8 8l8 4v4h8v4h8v4h8l8 4h64v-4
+l8 -4h8v-4l8 -4l8 -4h8v-8l8 -8l8 -8h8v-8h4v-8l4 -8l4 -8h4v-8l4 -8h4v-8h-4v-8h4v-8h-4v-8h4v-24h-4l-4 -8v-8h-4v-8h-4l-4 -8v-8h-4l-8 -8l-8 -8v-8h-8v-8h-8v-4h-8v-4h-8l-8 -4l-8 -4l-8 -4h-24l-8 4h-8l-8 -4h-8zM148 244v4l-8 4l-8 4h-8v4l-4 4h-4v4l-4 4l-4 4v4h-4
+l-4 4v4h-8l-8 4h-16l-8 -4h-13l-3 -4v-4l-8 -4v-4l4 -8l-4 -8h-24l-4 8v8l4 8v8h4v8h4l8 8v8h8l8 4v4h8v4h8v-4h8v4h8v-4h8v-4h8v4h8l8 -4h8v-4h4l4 -8l8 -8l8 -8h8v-8l8 -4h16v4h8l8 4v4h4l4 8l4 8h4v8h24l4 -8h4v-8h-4l-4 -8v-8h-4l-4 -8l-8 -8h-8v-8l-8 -4v-4h-8v-4h-8v4
+h-8v-4h-24z" />
+    <glyph glyph-name="odieresis" unicode="&#xf6;" horiz-adv-x="268" 
+d="M92 12l4 4l4 4l8 4l4 -8v8h12l8 4l8 4l4 8l4 4l8 4v8h4l4 8v8h12l4 8l8 4l4 4h4v4l4 4v16h4v16h-4v8h-4v8h-4v8h-4v8l-8 8v8h-8l-8 8h-8v8h-8v4h-8v4h-8v4l-8 4h-24l-8 -4l-8 -4h-8v-4l-8 -4h-8v-8l-8 -8v-8h-8l-8 -8l-4 -8l-4 -8l-8 -8v-8l-8 -4v-4h-1l-3 -4l4 -4v-8
+l-8 -4l8 -4v-8l4 -8h4v-5l4 -3l4 -8l4 -8h4v-4l8 -4h8l4 -8h4l8 -4v-1l4 -3l4 -8h8l4 -8l4 -4v0zM84 -4l-8 4h-8v4l-8 4h-8v4l-8 4l-8 8l-8 8h-8v8l-4 8h-4v8h-4l-4 8l-4 8l-4 8l-4 8h4v16h-4v16h4v8h-4v16l4 8v8h4v8h4l4 8l4 8v8h8v8h8l8 8l8 8l8 4v4h8v4h8v4h8l8 4h64v-4
+l8 -4h8v-4l8 -4l8 -4h8v-8l8 -8l8 -8h8v-8h4v-8l4 -8l4 -8h4v-8l4 -8h4v-8h-4v-8h4v-8h-4v-8h4v-24h-4l-4 -8v-8h-4v-8h-4l-4 -8v-8h-4l-8 -8l-8 -8v-8h-8v-8h-8v-4h-8v-4h-8l-8 -4l-8 -4l-8 -4h-24l-8 4h-8l-8 -4h-8zM172 248l-8 4h-8v4h-4v8l-4 8h-4v8h4v8h4l4 8l8 4l8 4
+h16v-4h8v-4l4 -8l4 -8v-16h-4l-4 -8v-4h-8v-4h-16zM52 248v4l-8 4l-4 8l-4 8l-8 4l8 4v8h4l4 8l8 4v4h8l8 4l8 -4l4 -8v-8l4 -8l4 -4l-4 -4l-4 -8l-4 -8v-8l-4 8l-4 -8h-16z" />
+    <glyph glyph-name="divide" unicode="&#xf7;" horiz-adv-x="200" 
+d="M80 80l-8 4h-8v4h-4v8l-4 8v16h4v8h4v4h8v4h16l8 -4h8v-4l4 -8h4v-16l-4 -8v-8h-4l-8 -4v-4h-16zM8 156l-8 4v20l8 4v4h8v-4h48v-4h24v8h32v-4h8v4h16v-4h16l8 -4v-4l-8 -4l8 -4v-8l-8 -4h-88v4h-16v-4h-24v4h-24v-4v0zM80 208l-8 4l-8 4l-4 8l-4 8v16h4l4 8l8 4v-12h8
+l4 -8l4 8h8v12l8 -4l4 -8l4 -8v-8h-8l-8 -4l8 -4v-8l-8 -4l-8 -4h-8z" />
+    <glyph glyph-name="oslash" unicode="&#xf8;" horiz-adv-x="268" 
+d="M92 12l4 4l4 4l8 4l4 -8v8h12l8 4l8 4l4 8l4 4l8 4v8h4l4 8v8h12l4 8l8 4l4 4h4v4l4 4v16h4v16h-4v8h-4v8h-4v8h-4v8l-8 8v8h-8l-8 8v16h-5l-3 -4v-4h4l-4 -8v-16l-8 -4v-12h-4l-4 -8h-4l-4 -8l-4 -8h-4v-8l-4 -8v-8h-4v-8h-4l-4 -8l-4 -8h-4v-8l-4 -8h-4v-8l-4 -8v-8h-4
+v-8h-4l-4 -8h8l4 -8l4 -4v0zM56 48l4 8v8h4v8h4l4 8l4 8v8h4l4 8l4 8v8h4l4 8l4 8l4 8h4v8l4 8l4 8v8h4l4 8v8h4l4 8v4l-8 4h-24l-8 -4l-8 -4h-8v-4l-8 -4h-8v-8l-8 -8v-8h-8l-8 -8l-4 -8l-4 -8l-8 -8v-8l-8 -4v-4h-1l-3 -4l4 -4v-8l-8 -4l8 -4v-8l4 -8h4v-5l4 -3l4 -8l4 -8
+h4v-4l8 -4h12zM36 -8l-4 8l4 8v8h4v8h-4l-8 8h-8v8l-4 8h-4v8h-4l-4 8l-4 8l-4 8l-4 8h4v16h-4v16h4v8h-4v16l4 8v8h4v8h4l4 8l4 8v8h8v8h8l8 8l8 8l8 4v4h8v4h8v4h8l8 4h64v-4l4 8h4v8l4 8h4v4l8 4v-1l4 -3l3 4h9l4 -8l-4 -8l-4 -8h-12l4 -8l-4 -8h8v-8h8v-8l8 -8l8 -8h8
+v-8h4v-8l4 -8l4 -8h4v-8l4 -8h4v-8h-4v-8h4v-8h-4v-8h4v-24h-4l-4 -8v-8h-4v-8h-4l-4 -8v-8h-4l-8 -8l-8 -8v-8h-8v-8h-8v-4h-8v-4h-8l-8 -4l-8 -4l-8 -4h-24l-8 4h-8l-8 -4h-8l-8 4h-8v8l-4 -8h-1l-3 -4l-4 -4h-4l-4 8l-4 -8h-8z" />
+    <glyph glyph-name="ugrave" unicode="&#xf9;" horiz-adv-x="288" 
+d="M88 -4l-8 4v8h-8v4l-8 4l-4 8l-4 4v4h-8v-4l-8 4l-4 8l-4 8h-4v16h4v32h-4v8h4v8h-4v24h4v16h-4v8h4v8h-4v32h4v4h-24l-8 4q0 1 1 2q1 2 3 2q-2 0 -3 1t-1 3v12l8 4h8v-4h8v4h8v-4h32v4h16v-4h8v4l8 -4v-4l4 -8l-4 -8l-8 -4h-24v-12h4v-16h-4v-8h4v-80h-8v-8h4v-24l4 -8
+h-4v-8h8l8 -8l8 -4l8 -4h24l8 4l8 4l8 4v4h4l4 4l4 4l4 4v4h4l4 4v4h4l4 4v4h4v8h4v8h4l4 8v108h-24l-8 4v8l8 4l-8 4v4l8 4h16v-1l4 -3l3 4h25l4 4l4 -4v-1l4 -3l3 4h1v-1l4 -3l3 4h9l8 -4v-4l-4 -8l4 -8l-8 -4h-24v-12h4v-8h-4v-8h4v-24h-4v-24h4v-8h-4v-16h4v-16h-4v-16
+h4v-8h-4v-8h4v-32h4v4h16l8 -4v-20l-8 -4h-16l-8 4h-8l-8 -4v4h-8v-4q-4 0 -6 2t-2 6v16l-8 4v-4h-8v-4h-8v-4h-8l-8 -4v-4l-8 -4v-4h-8l-8 -4h-16v4h-8v-4h-8v4h-8v-4v0zM160 248v4h-8v4h-4v8h-4v8h-4l-4 8l-8 8l-8 8h-8v8h-8v8l-8 8l-8 8l-4 8l4 8l8 4h8v-1l4 -3h4v-8h4
+l4 -4v-4h4l4 -4v-1l4 -3l4 -4v-1l4 -3h4v-5l4 -3l4 -4v-1l4 -3h4v-5l4 -3h4v-5l4 -3l4 -4v-4h4l4 -4v-1l4 -3l-4 -8l-8 -8h-16z" />
+    <glyph glyph-name="uacute" unicode="&#xfa;" horiz-adv-x="288" 
+d="M88 -4l-8 4v8h-8v4l-8 4l-4 8l-4 4v4h-8v-4l-8 4l-4 8l-4 8h-4v16h4v32h-4v8h4v8h-4v24h4v16h-4v8h4v8h-4v32h4v4h-24l-8 4q0 1 1 2q1 2 3 2q-2 0 -3 1t-1 3v12l8 4h8v-4h8v4h8v-4h32v4h16v-4h8v4l8 -4v-4l4 -8l-4 -8l-8 -4h-24v-12h4v-16h-4v-8h4v-80h-8v-8h4v-24l4 -8
+h-4v-8h8l8 -8l8 -4l8 -4h24l8 4l8 4l8 4v4h4l4 4l4 4l4 4v4h4l4 4v4h4l4 4v4h4v8h4v8h4l4 8v108h-24l-8 4v8l8 4l-8 4v4l8 4h16v-1l4 -3l3 4h25l4 4l4 -4v-1l4 -3l3 4h1v-1l4 -3l3 4h9l8 -4v-4l-4 -8l4 -8l-8 -4h-24v-12h4v-8h-4v-8h4v-24h-4v-24h4v-8h-4v-16h4v-16h-4v-16
+h4v-8h-4v-8h4v-32h4v4h16l8 -4v-20l-8 -4h-16l-8 4h-8l-8 -4v4h-8v-4q-4 0 -6 2t-2 6v16l-8 4v-4h-8v-4h-8v-4h-8l-8 -4v-4l-8 -4v-4h-8l-8 -4h-16v4h-8v-4h-8v4h-8v-4v0zM80 248l-8 8l-4 8l4 4v4h4l4 4v4h4l4 4l4 4l4 4l4 4l4 4l4 4l4 4v4h4l4 4l4 4l4 4l4 4l4 4v4h4l4 4
+l4 4l4 4h8l8 -4v-8h-8v-8h-8v-16h-8v-8l-8 -8l-8 -8h-8v-8l-8 -8l-8 -8v-8h-8v-8h-16z" />
+    <glyph glyph-name="ucircumflex" unicode="&#xfb;" horiz-adv-x="288" 
+d="M88 -4l-8 4v8h-8v4l-8 4l-4 8l-4 4v4h-8v-4l-8 4l-4 8l-4 8h-4v16h4v32h-4v8h4v8h-4v24h4v16h-4v8h4v8h-4v32h4v4h-24l-8 4q0 1 1 2q1 2 3 2q-2 0 -3 1t-1 3v12l8 4h8v-4h8v4h8v-4h32v4h16v-4h8v4l8 -4v-4l4 -8l-4 -8l-8 -4h-24v-12h4v-16h-4v-8h4v-80h-8v-8h4v-24l4 -8
+h-4v-8h8l8 -8l8 -4l8 -4h24l8 4l8 4l8 4v4h4l4 4l4 4l4 4v4h4l4 4v4h4l4 4v4h4v8h4v8h4l4 8v108h-24l-8 4v8l8 4l-8 4v4l8 4h16v-1l4 -3l3 4h25l4 4l4 -4v-1l4 -3l3 4h1v-1l4 -3l3 4h9l8 -4v-4l-4 -8l4 -8l-8 -4h-24v-12h4v-8h-4v-8h4v-24h-4v-24h4v-8h-4v-16h4v-16h-4v-16
+h4v-8h-4v-8h4v-32h4v4h16l8 -4v-20l-8 -4h-16l-8 4h-8l-8 -4v4h-8v-4q-4 0 -6 2t-2 6v16l-8 4v-4h-8v-4h-8v-4h-8l-8 -4v-4l-8 -4v-4h-8l-8 -4h-16v4h-8v-4h-8v4h-8v-4v0zM32 248v4l4 4l4 4v4h4l4 4l4 4l4 4v4h4l4 4l4 4l4 4v4h8v8h4l4 4l4 4l4 4v4h4l4 4l4 4h4v8h4l4 4l4 4
+h8l4 -4v-1l4 -3l4 -4v-1l4 -3h4v-5l4 -3l4 -4v-4h4l4 -4v-1l4 -3h4v-5l4 -3h4v-8h8v-5l4 -3l4 -4v-1l4 -3l4 -4v-1l4 -3h4v-5l4 -3l4 -4v-4h-32l-8 8h-8v8h-8v8l-8 8l-8 8h-16v4h-8v4h-8v4l-4 -4h-4v-8h-8l-8 -8l-4 -8h-4l-8 -8h-8v-8h-8v-8h-8l-4 8l-4 -8h-16z" />
+    <glyph glyph-name="udieresis" unicode="&#xfc;" horiz-adv-x="288" 
+d="M88 -4l-8 4v8h-8v4l-8 4l-4 8l-4 4v4h-8v-4l-8 4l-4 8l-4 8h-4v16h4v32h-4v8h4v8h-4v24h4v16h-4v8h4v8h-4v32h4v4h-24l-8 4q0 1 1 2q1 2 3 2q-2 0 -3 1t-1 3v12l8 4h8v-4h8v4h8v-4h32v4h16v-4h8v4l8 -4v-4l4 -8l-4 -8l-8 -4h-24v-12h4v-16h-4v-8h4v-80h-8v-8h4v-24l4 -8
+h-4v-8h8l8 -8l8 -4l8 -4h24l8 4l8 4l8 4v4h4l4 4l4 4l4 4v4h4l4 4v4h4l4 4v4h4v8h4v8h4l4 8v108h-24l-8 4v8l8 4l-8 4v4l8 4h16v-1l4 -3l3 4h25l4 4l4 -4v-1l4 -3l3 4h1v-1l4 -3l3 4h9l8 -4v-4l-4 -8l4 -8l-8 -4h-24v-12h4v-8h-4v-8h4v-24h-4v-24h4v-8h-4v-16h4v-16h-4v-16
+h4v-8h-4v-8h4v-32h4v4h16l8 -4v-20l-8 -4h-16l-8 4h-8l-8 -4v4h-8v-4q-4 0 -6 2t-2 6v16l-8 4v-4h-8v-4h-8v-4h-8l-8 -4v-4l-8 -4v-4h-8l-8 -4h-16v4h-8v-4h-8v4h-8v-4v0zM176 248l-8 4h-8v4h-4v8l-4 8h-4v8h4v8h4l4 8l8 4l8 4h16v-4h8v-4l4 -8l4 -8v-16h-4l-4 -8v-4h-8v-4
+h-16zM56 248v4l-8 4l-4 8l-4 8l-8 4l8 4v8h4l4 8l8 4v4h8l8 4l8 -4l4 -8v-8l4 -8l4 -4l-4 -4l-4 -8l-4 -8v-8l-4 8l-4 -8h-16z" />
+    <glyph glyph-name="yacute" unicode="&#xfd;" horiz-adv-x="312" 
+d="M0 -128l-4 8h-4v8h-8v8l-4 8h-4v16l4 8l4 8l8 4l8 4h8l8 -4l8 4l8 -4v-4l4 -8v-8l4 -4v-4l8 -4v-4l8 4v4h8l8 8v8h4v8h4v8h4l4 8v8h4v8h4l4 8v8h4v8h4v8l-4 8v4l4 4h4l4 8l-4 8l-4 8h4v8l-8 8h-4l-4 8v8h-4l-4 8l-4 8h-4v8h-4v8h-4v8l-4 8l-4 8l-4 8l-4 8h-4v8h-4v8l-4 8
+h-4l-8 8l-4 8h-4v4l-8 4l-4 8h-4v4h-8l-8 4v20l8 4v4h8v-4h8v4h32v-4h24v-4h8l8 -4v-16l-8 -4h-8l-8 -4v-8l4 -8h4v-8l8 -8h4v-8h4v-5l4 -3l4 -8l4 -8h-1l-3 -4l-4 -4l4 -8h4l4 -8l4 -8h4v-8h4v-8h4v-8l4 -8h4l4 8l4 4v4h4l4 8l8 4v4h8v4l4 4h4l4 8l4 8v8h4v8h4v8h4l4 8v8h4
+v8h4l4 8v8h4l4 8h4v4h-8l-8 4v4h8l-8 4l8 4l-8 4v4l8 4h48l4 -8l4 8h8l8 -4v-12h-1l-3 -4l4 -4v0l-8 -4h-16l-8 4v-4l-4 -4h-4v-8l-4 -8h-4l-8 -8v-8l4 -4l-4 -4l-4 -8h-4v-8l-4 -8h-4l-4 8l-4 -8l4 -8h-1l-3 -4l-4 -4l-4 -8v-8h4l-4 -8l-4 -8l-4 -8h-5l-3 -4v-12l-4 -8h-4
+v-8l-4 -8l-4 -8h-4l-4 -8v-8l-4 -8l-4 -8v-8h-4v-8h-4l-4 -8l-4 -8l-4 -8l-4 -8v-8h-4v-8h-4v-8h-4l-4 -8l-4 -8v-8h-4v-8h-8l-8 -8v-4h-8v-4h-8l-8 -4l-8 -4h-24l-8 4v-4h-16zM104 248l-8 8l-4 8l4 4v4h4l4 4v4h4l4 4l4 4l4 4l4 4l4 4l4 4l4 4v4h4l4 4l4 4l4 4l4 4l4 4v4h4
+l4 4l4 4l4 4h8l8 -4v-8h-8v-8h-8v-16h-8v-8l-8 -8l-8 -8h-8v-8l-8 -8l-8 -8v-8h-8v-8h-16z" />
+    <glyph glyph-name="thorn" unicode="&#xfe;" horiz-adv-x="252" 
+d="M136 24l8 4l8 4v8h8v8h8l8 8l8 8v8h4v8h4l4 8v8h-4v8h4v8h-4v8h4v8h-4v24h-4v8l-4 8l-8 8h-8v8l-8 8l-8 8h-8v4l-8 4h-24l-8 -4l-8 -4l-8 -8v-8h-8v-8h-8l-8 -8v-8h-4v-8h-4l-4 -8v-8h-4v-8h4v-16h-4v-16l4 -8h4v-8h4v-8h4v-8l8 -8h8v-8l8 -8l8 -8h8v-4l8 -4h24zM48 328
+v8h4v-8h-4zM64 -108v8h-8v-4h-8v4h-24v-4h-40v4h-8v-4l-8 4v20l8 4h40v4h-4v40h4v8h-4v8h4v8h-4v16h4v8h-4v24h4v16h-4v8h4v8h-4v16h4v16h4v16h-4v24h4v48h-4v16h4v24h-4v16h4v8h-8v8h4v8h-4v8h4v24h-4v8h-4v-4h-32l-8 4v20h8v4h16v-4h16v8h32v-4q3 0 5 -3q3 -2 3 -5v-24h4
+v-40h-4v-8h4v-32h4v-8h8l8 8l8 4l8 4l8 4h56l8 -4l8 -4l8 -4l8 -8l8 -8l8 -8l8 -8l4 -8l4 -8l4 -8l-4 -8v-8h4l4 -8v-16h4v-48l-4 -8h-8v-16l-4 -8h-4v-8h-8v-8h-8v-8l-8 -8l-8 -8h-8v-4l-8 -4l-8 -4h-56l-8 4l-8 4l-8 4l-8 8v-8h-8v-8h-4v-56h-4v-20h40l8 -4v-20l-8 -4h-16
+v-4h-8z" />
+    <glyph glyph-name="ydieresis" unicode="&#xff;" horiz-adv-x="312" 
+d="M0 -128l-4 8h-4v8h-8v8l-4 8h-4v16l4 8l4 8l8 4l8 4h8l8 -4l8 4l8 -4v-4l4 -8v-8l4 -4v-4l8 -4v-4l8 4v4h8l8 8v8h4v8h4v8h4l4 8v8h4v8h4l4 8v8h4v8h4v8l-4 8v4l4 4h4l4 8l-4 8l-4 8h4v8l-8 8h-4l-4 8v8h-4l-4 8l-4 8h-4v8h-4v8h-4v8l-4 8l-4 8l-4 8l-4 8h-4v8h-4v8l-4 8
+h-4l-8 8l-4 8h-4v4l-8 4l-4 8h-4v4h-8l-8 4v20l8 4v4h8v-4h8v4h32v-4h24v-4h8l8 -4v-16l-8 -4h-8l-8 -4v-8l4 -8h4v-8l8 -8h4v-8h4v-5l4 -3l4 -8l4 -8h-1l-3 -4l-4 -4l4 -8h4l4 -8l4 -8h4v-8h4v-8h4v-8l4 -8h4l4 8l4 4v4h4l4 8l8 4v4h8v4l4 4h4l4 8l4 8v8h4v8h4v8h4l4 8v8h4
+v8h4l4 8v8h4l4 8h4v4h-8l-8 4v4h8l-8 4l8 4l-8 4v4l8 4h48l4 -8l4 8h8l8 -4v-12h-1l-3 -4l4 -4v0l-8 -4h-16l-8 4v-4l-4 -4h-4v-8l-4 -8h-4l-8 -8v-8l4 -4l-4 -4l-4 -8h-4v-8l-4 -8h-4l-4 8l-4 -8l4 -8h-1l-3 -4l-4 -4l-4 -8v-8h4l-4 -8l-4 -8l-4 -8h-5l-3 -4v-12l-4 -8h-4
+v-8l-4 -8l-4 -8h-4l-4 -8v-8l-4 -8l-4 -8v-8h-4v-8h-4l-4 -8l-4 -8l-4 -8l-4 -8v-8h-4v-8h-4v-8h-4l-4 -8l-4 -8v-8h-4v-8h-8l-8 -8v-4h-8v-4h-8l-8 -4l-8 -4h-24l-8 4v-4h-16zM192 240l-8 4h-8v4h-4v8l-4 8h-4v8h4v8h4l4 8l8 4l8 4h16v-4h8v-4l4 -8l4 -8v-16h-4l-4 -8v-4
+h-8v-4h-16zM72 240v4l-8 4l-4 8l-4 8l-8 4l8 4v8h4l4 8l8 4v4h8l8 4l8 -4l4 -8v-8l4 -8l4 -4l-4 -4l-4 -8l-4 -8v-8l-4 8l-4 -8h-16z" />
+    <glyph glyph-name="Ydieresis" unicode="&#x178;" horiz-adv-x="328" 
+d="M184 -4v4h-40l-8 4l-8 -4h-28l-4 4v0l-4 4l-4 8h-8l-8 -4l-8 4h-16l-8 4v8l8 4h8v-4h16v8h16v-4h8v4h8v-4h8l8 8h8l4 8v8l-4 8v16h-4v24h4v8h-4v8h4v8l-4 8l-4 8l-4 8h-4v8l-4 8h-4l-8 8l-8 8l-4 8l-4 4v12l-4 8l-4 8v16l-4 8l-4 8l-4 8h-4v4l-8 4l-8 8l-4 8l-4 4l-8 4
+l-4 8h-12l-8 4v24l8 4v4h8v-4h8l8 4h32l8 -4l8 4h16v-4h16l8 -4v-24l-8 -4h-16l4 -8l-4 -8h-8l4 -8l4 -8l4 -8l4 -8l4 -8l4 -8l4 -8l4 -4l8 -4l8 -8h8l8 4l8 4l8 -4l4 4h4v8h4l4 8l4 8l4 8v8h4l4 8h4l4 8l4 8l-4 8q0 3 -3 5q-2 3 -5 3h-16l-8 4v24l8 4h4l4 4h16l8 -4v-4h16
+l8 -4l8 4l8 4h32l8 -4v-24l-8 -4h-32l-4 -8v-8h-4v-8h-4l-4 -8v-8h-4v-8h-4v-8h-4v-8h-4l-4 -8l-4 -8l-4 -8l-4 -8v-8h-4l-4 -8v-8h-4v-8h-4l-4 -8l-4 -8v-8h-4v-8h-4l-4 -8l-4 -8v-28l-4 -4v-16l4 -8v-8l4 -8l4 -8l4 -8h4l8 -4l8 -4h8l8 4h32v-4l8 -4v-4l-8 -4l8 -4v-12
+l-8 -4l-8 -4h-56zM200 344l-8 4h-8v4h-4v8l-4 8h-4v8h4v8h4l4 8l8 4l8 4h16v-4h8v-4l4 -8l4 -8v-16h-4l-4 -8v-4h-8v-4h-16zM72 344v4l-8 4l-4 8l-4 8l-8 4l8 4v8h4l4 8l8 4v4h8l8 4l8 -4l4 -8v-8l4 -8l4 -4l-4 -4l-4 -8l-4 -8v-8l-4 8l-4 -8h-16z" />
+    <glyph glyph-name="quoteleft" unicode="&#x2018;" horiz-adv-x="100" 
+d="M20 264v4l-8 4l-4 8h-4v8l-4 8v16l4 8l4 8l4 8l8 8l8 8v8h8l8 4v4h8l8 4v-12h-8v-8h-8v-8h-4l-4 -8v-16h8l8 -4l8 -4l4 -8l4 -8v-16h-4l-4 -8l-8 -4l-8 -4h-24z" />
+    <glyph glyph-name="quoteright" unicode="&#x2019;" horiz-adv-x="84" 
+d="M0 264v4l8 4h8v8l4 8h4v24l-8 4l-8 4v8h-4l-4 8v16h4l4 8l8 4l8 4h16v-4l8 -4l4 -8l4 -8l-8 -4l8 -4v-8h4v-8l-4 -8l-4 -8h-4v-8l-8 -8h-8v-8h-8v-8l-8 -4l-8 -4h-8z" />
+    <glyph glyph-name="quotesinglbase" unicode="&#x201a;" horiz-adv-x="84" 
+d="M16 -40v8l4 8l4 8v16h-8v4h-8v4l-4 8h-4v24h4v8h4v4h8v4h16l8 -4l8 -4v-8h4l4 -8v-16h4v-8l-4 -8l-4 -8h-4v-8l-8 -8h-8v-8l-8 -8l-4 8l-4 -8v0z" />
+    <glyph glyph-name="quotereversed" unicode="&#x201b;" horiz-adv-x="92" 
+d="M60 260l-8 4l-8 4l-8 4l-8 8h-8v8h-8v8h-4v8h-4v8l-4 8v8h-4v16h-4v8h4v8h16v4h8l8 4h16v-4l8 -4h4v-8l4 -8v-16h-4l-4 -8l-8 -4v-4h-8v-16l4 -8h4v-8h8v-8l8 -4v-8v0z" />
+    <glyph glyph-name="quotedblleft" unicode="&#x201c;" horiz-adv-x="164" 
+d="M28 264l-8 4l-8 4l-4 8h4v8h-8l-4 8v16h4v8l4 8l4 8h8v8l8 8l8 8l8 4l8 4l8 4v-8l-8 -4l-8 -8l-4 -8h-4v-8l-8 -4l8 -4v-8l8 -4l8 -4v-16h8v-8l-4 -8l-4 -8h-8v-4l-8 -4h-8zM100 264l-8 4l-8 4l-4 8l-4 8v8h-4v16l4 8h8v8h-4l4 8l8 8h8v8l8 8h8v4l8 4l8 4v-8l-8 -4l-8 -8
+l-4 -8l-4 -8v-16h8v-4l8 -4l4 -8l4 -8v-16h-4l-4 -8l-8 -4v-4h-16z" />
+    <glyph glyph-name="quotedblright" unicode="&#x201d;" horiz-adv-x="156" 
+d="M0 260v8l8 4l8 8v8h4v8h4v16h-8v4l-8 4l-4 8l-4 8v16h4v8h4v8h8v-4l8 4h8l8 -4h8v-4l4 -8h4v-8l4 -8h4v-8h-4v-8l-4 -8v-8h-4l-4 -8v-8h-8l-8 -8l-8 -8l-8 -4v-4h-8l-8 -4v0zM88 268v12l4 8l4 8v16l-8 4l-8 4v8l4 8h4q0 1 1 2q1 2 3 2q-2 0 -3 1t-1 3h-4l-4 8v8l8 4l8 4
+h8l8 -4v-4h8l4 -8l4 -8l4 -8v-8h-4v-8h4l-4 -8l-4 -8l-4 -8l-8 -8h-8v-8h-8v-8l-8 -4v0z" />
+    <glyph glyph-name="quotedblbase" unicode="&#x201e;" horiz-adv-x="156" 
+d="M0 -52v8l8 4l8 8v8h4l4 8v24h-8v8h-12l-4 8v8l4 8h4v8l8 4l8 4h8l8 -4h8v-4h4v-8h12v-8h8l4 8l4 8l8 4v4h16l8 -4l8 -4h8v-8h-4l4 -8h4v-24l-4 -8l-4 -8h-4v-16h-16v-8l-8 -8l-8 -4l-8 -4v-4h-8v8l8 4l8 8l4 8v16h-4v12l-8 4l-4 8h-12v-8h-4l-4 -8v-8h-4v-8h-4v-8h-8
+l-8 -8l-8 -8l-8 -4v-4h-8l-8 -4v0z" />
+    <glyph glyph-name="guilsinglleft" unicode="&#x2039;" horiz-adv-x="124" 
+d="M84 84l-8 4h-8v8l-8 8l-8 8h-8v8l-8 8h-8v4l-8 4h-8v16l-8 8l-4 8h4v8l8 8h8v8l8 8h4l4 8l8 8h8v8l8 8l8 8h8v8l8 4l8 -4v-32h-8v-8h-8l-8 -8l-8 -8v-8h-8l-8 -8v-8h8v-16h8v-8l8 -8l8 -8v-13l4 -3h4l4 -8h4v-16l-8 -4v0z" />
+    <glyph glyph-name="guilsinglright" unicode="&#x203a;" horiz-adv-x="116" 
+d="M8 84l-8 4v32h8l8 8l8 8v8h8l8 8l-8 8v24h-4l-4 8v8h-8v8h-8v8l-8 8v24l8 4l8 -4l8 -8v-8h8v-8h8l8 -8v-8l8 -4h8v-4h8v-8h8v-8l8 -8l4 -8l-4 -8v-8h-8l-8 -8v-8h-8l-8 -8l-8 -8l-8 -8v-8h-8v-8h-8l-8 -8l-8 -4v0z" />
+    <glyph glyph-name="Euro" unicode="&#x20ac;" horiz-adv-x="256" 
+d="M136 -8v4l-8 4l-8 4l-8 4h-8v4l-8 4h-8v8l-8 8h-8v8h-8v8l-4 8l-4 8l-4 8h-4v8l-4 8h-4v8l-4 8v16h-12v4h-16l-8 4v8l8 4l-8 4v4l8 4h8v8h4l4 4v4h8v8h4v8h-12v4h-16l-8 4v20l8 4v-4h16v4h12v16h4v8l4 8h4v8l4 8h4v8h16v8h4l4 4v4l-4 8l4 4l8 -4l8 8v8h4l4 8h4l4 4v4l8 4
+l8 4v4h24v4h24v-4h8v-4h8v-4h8v-4l8 -4h8v-4l8 -8v-8l-8 -8l-8 -4h-8l-8 4h-8v4h-8v4h-8v4l-8 4h-8l-8 -4l-8 -4l-8 -4v-4h-8l-8 -4v-4h-5l-3 -4v-4h-5l-3 -4l-4 -4l-4 -8v-8h-4l-4 -8v-8h-4l-4 -8v-8h8v-8h8l8 -4v-4l-4 -8l4 -8l-8 -4h-16v-4h-4v-24h-4v-4h16v-4h8l8 -4
+v-20l-8 -4v-4h-8v4h-12v-12l4 -8l4 -8h4v-8l4 -8h4v-8l4 -8h4v-5l4 -3l4 -4v-1l4 -3h4v-4l8 -4h8v-4h8v4h8v4h8v-4h8v4h16v-4h16l8 4h8l8 -4l8 -8v-8l-8 -8l-8 -4v-4h-8v-8h-16l-8 -4v-4h-8v4h-8v-4h-24z" />
+    <glyph glyph-name="trademark" unicode="&#x2122;" horiz-adv-x="316" 
+d="M20 188l-8 4v12l8 4v-4h8v8h8v-4h4v104h-4v-8h-8v-8h-8v-8l-4 -8h-16l-4 8h-4v24h4v8h-4v8h4l8 4h16v-4h8v4h32v-4h16v4h24l8 -4h4v-8h-4v-16h4v-16h-4l-4 -8h-16l-4 8v24h-16v4h-8v-12h4v-24h-4v-16h4v-24h-4v-16h4v-16h20l8 -4v-12l-8 -4h-48v4h-8v-4h-8zM132 188l-8 4
+v12l8 4h4v16h4v-8h4v16h-4v16h4v32h-8v24h4v8h-8l-8 4v12l8 4h24v-4h8v-8h16v-8h8v-8h4l4 -8l4 -8l4 -8l4 8l4 8l4 8l4 8l4 8h12v8h8v4h32l8 -4v-12l-8 -4h-4v-8h-4v-8l4 -8v-8h-8v-48h4v8h4v-24h-4v-8h8l8 -4v-12l-8 -4h-16v4h-8v-4h-16l-8 4v12l8 4h8v72h-4v8h-8v-8h-4v-8
+h-4l-4 -8v-8h-4l-4 -8l-4 -8h-8l-4 8h-4v8l-4 8h-4v8l-4 8l-4 8h-4v8l-4 8h-4v-96h8l8 -4v-12l-8 -4h-8v4l-4 8l-4 -8v-4h-24z" />
+    <glyph glyph-name="uniFB01" unicode="&#xfb01;" horiz-adv-x="304" 
+d="M128 24l8 4h40v12h4v8h4v4h8v4h-4v24h-4v8h4v8h-4v8h4v8h-4v8h-4v24h4v16h-4v8h4v8h-8v16h-8v8h-8v4h-24l-8 4l-8 -4h-40v-4h4v-40h-4v-8h4v-24h-4v-16h4v-16h-4v-8h4v-16h-4v-16h-4v-24h4v-4h40l8 -4v0zM232 -4v4h-24v4h-8v-4h-8v4h-24v-4h-8v4h-16v-4h-8v4h-8l-8 -4v4
+h-16v-4h-8v4h-16v-4h-64v4h-8v-4l-8 4v4l8 4l-8 4v8l8 4h40v20h4v8h-4v8h4v64h-4v8h4v8h-4v40h-4v8h4v12h-40l-8 4v20l8 4v4h8v-4h8v4h24v36l4 8l4 8v8h4v8h4v8h8v8h8l8 4l8 4v4h8v4h56l8 -4l8 -4h8v-4l8 -4v-8h8l8 -8v-8h4l4 -8v-8l-4 -8h-4l-8 -4v-4h-8l4 -8h-12l-8 4v4
+h-8l-4 8l-4 8v4l-4 4h-4v8h-8v8l-8 4h-8l-8 -4v-8l-8 -4v-4h-4l-4 -8h-5l-3 -4v-8l-8 4l-4 -8l-4 -8v-20h16v-4h8v-4h8v4h8l8 -4l8 4h8v-4h8v4h16v-4h32v4h8q3 0 5 -3q3 -2 3 -5h4v-8h-4l-8 -4l8 -4h4v-32h-4v-8h4v-16h-4v-8h-4v-16h4v-8h-4v-16h4v-16h4v-24h-4v-8h4v-8h-4
+v-8h8v-12h40l8 -4v-20l-8 -4v-4h-16v4h-8v-4h-8z" />
+    <glyph glyph-name="uniFB02" unicode="&#xfb02;" horiz-adv-x="392" 
+d="M8 -4v4l-8 4v20l8 4h8v4h8v-4h8v4h16v8h4v16h-4v8h4v8h-4v32h4v24h-8v16h4v8h-4v16h4v24h-4v8h4v4h-40l-8 4v20l8 4h36v16h8v8h-4v8h-4v8h4v8h4l4 8l4 8l4 8v8h8v8h8l8 4v4h8l8 4v4h56l8 -4l8 -4l8 -4v8l8 4v-4h8v4h24v4h32v-8h8v4h8v-32h8v-24h4v-8h4v-32h4v-56h-4v-8h4
+v-112h-8v-32h4v-4h16v-4h16v4h32l8 -4v-20l-8 -4h-8v4h-24v-4h-8v4h-40v-8h-48v4h-24v-4h-8v4l-8 4v20l8 4v-4h24v4h8v-4h16v4h16v52h-4v24h4v8h4v16h-8v24h8v40h-4v32h4v24h-4v8h4v8h-4v8h-4v24h4v8h-4v8h-4v-4h-48l8 -4l4 -8l4 -8v-8l-4 -8h-12l-8 -4v12l-4 8h-4v-4l-8 -4
+l-8 4v4h-8l4 8l-4 4l-8 4l-8 4h-16v-4h-8l-8 -4l-8 -4h-8v-8l-4 -8h-4v-8l-4 -8v-24h-4v-8h40l8 -4v-20l-8 -4h-40v-4h4v-16h-4v-8h4v-24h-4v-8h4v-8h-4v-8h4v-16h-4v-8h4v-8h-4v-8h4v-32h-4v-8h4v-16h4v-4h8v4h8v-4h16l8 -4v-20l-8 -4v-4h-24v4h-8v-4h-48v4h-24v-4h-8z" />
+  </font>
+</defs></svg>
