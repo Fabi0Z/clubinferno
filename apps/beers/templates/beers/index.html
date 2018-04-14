@@ -1,0 +1,22 @@
+{% if beers_list %}
+<div class="sponsor-container">
+  {% for beer in beers_list %}
+  <a href={{beer.id}}>
+    <div class='sponsor'>
+      <img src='{{beer.picture.url}}' />
+      <h2>{{beer.name}}</h2></img>
+    </div>
+  </a>
+  <div id="id" class=overlay2>
+    <div class=popup>
+      <h2>{{beer.name}}</h2>
+      <a id=close href=#>&times;</a>
+      <img src='{{beer.picture.url}}' />
+      <p>{{beer.description}}</p>
+      <a href='{{beer.website}}'><i class='fa fa-globe' aria-hidden='true'></i> Vai al sito!</a>
+    </div>
+  </div>" {% endfor %}
+</div>
+{% else %}
+<p>No polls are available.</p>
+{% endif %}

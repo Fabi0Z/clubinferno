@@ -1,12 +1,8 @@
-from django.http import HttpResponse
+from django.shortcuts import render
 from .models import Beer
 
 
-def detail(request, beer_id):
-    return HttpResponse("You're looking at beer %s." % beer_id)
-
-
 def index(request):
-    last_beer = Beer.objects.all()
-    output = ', '.join([b.name for b in last_beer])
-    return HttpResponse(output)
+    beers_list = Beer.objects.all()
+    context = {'beers_list': beers_list}
+    return render(request, 'beers/index.html', context)
