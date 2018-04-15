@@ -1,0 +1,30 @@
+{% extends "clubinferno/base.html" %}
+{% block content %}
+  {% if sponsors_list %}
+    <div class="sponsor-container">
+      {% for sponsor in sponsors_list %}
+      <a href=#{{sponsor.id}}>
+        <div class='sponsor'>
+          <img src='{{sponsor.picture.url}}' />
+          <h2>{{sponsor.name}}</h2></img>
+        </div>
+      </a>
+      <div id="{{sponsor.id}}" class=overlay2>
+        <div class=popup>
+          <h2>{{sponsor.name}}</h2>
+          <a id=close href=#>&times;</a>
+          <img src='{{sponsor.picture.url}}' />
+          <p>{{sponsor.description}}</p>
+          {% if sponsor.website %}
+              <a href='{{sponsor.website}}'><i class='fa fa-globe' aria-hidden='true'></i> Vai al sito!</a>
+          {% endif %}
+          {% if sponsor.email %}
+              <a href='mailto:{{sponsor.email}}'><i class='fa fa-envelope' aria-hidden='true'></i> Scrivi un'email</a>
+          {% endif %}
+        </div>
+      </div>" {% endfor %}
+    </div>
+    {% else %}
+    <p>Nessuno sponsor disponibile</p>
+  {% endif %}
+{% endblock content %}
