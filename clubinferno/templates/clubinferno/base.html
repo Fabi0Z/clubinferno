@@ -1,3 +1,4 @@
+{% load static %}
 <!DOCTYPE html>
 <html lang="it">
 
@@ -11,13 +12,13 @@
   <meta name="author" content="Radical Spaghetti">
 
   <!-- Stylesheet and other stuffs -->
-  <link rel="stylesheet" type="text/css" href="css/style.css" />
-  <link rel="stylesheet" type="text/css" href="fonts/RM_Typerighter_Regular/RM_Typerighter_Regular.css" />
-  <link rel="stylesheet" type="text/css" href="fonts/RM_Typerighter_old_Regular/RM_Typerighter_old_Regular.css" />
-  <link rel="stylesheet" type="text/css" href="fonts/Font_Awesome/css/font-awesome.css" />
+  <link rel="stylesheet" type="text/css" href="{% static 'clubinferno/css/style.css' %}" />
+  <link rel="stylesheet" type="text/css" href="{% static 'clubinferno/fonts/RM_Typerighter_old_Regular/RM_Typerighter_old_Regular.css' %}" />
+  <link rel="stylesheet" type="text/css" href="{% static 'clubinferno/fonts/RM_Typerighter_Regular/RM_Typerighter_Regular.css' %}" />
+  <link rel="stylesheet" type="text/css" href="{% static 'clubinferno/fonts/Font_Awesome/css/font-awesome.css' %}" />
   <script src="//ajax.googleapis.com/ajax/libs/jquery/1.6.4/jquery.min.js" type="text/javascript"></script>
-  <script type="text/javascript" src="js/showHideMobile.js"></script>
-  <script type="text/javascript" src="js/hidePopup.js"></script>
+  <script type="text/javascript" src="{% static 'clubinferno/js/showHideMobile.js' %}"></script>
+  <script type="text/javascript" src="{% static 'clubinferno/js/hidePopup.js' %}"></script>
 
 </head>
 
@@ -26,7 +27,7 @@
     <div class="home">
       <header class="header">
         <div class="logo">
-          <a href="home"><img src="img/logo-sinistra.svg"></a>
+          <a href="home"><img src="{% static 'clubinferno/img/logo-sinistra.svg' %}"></a>
         </div>
         <nav class="menu">
           <ul>
