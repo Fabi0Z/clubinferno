@@ -5,7 +5,9 @@
       {% for beer in beers_list %}
       <a href=#{{beer.id}}>
         <div class='sponsor'>
-          <img src='{{beer.picture.url}}' />
+          {% if beer.picture %}
+              <img src='{{beer.picture.url}}' />
+          {% endif %}
           <h2>{{beer.name}}</h2></img>
         </div>
       </a>
@@ -13,13 +15,19 @@
         <div class=popup>
           <h2>{{beer.name}}</h2>
           <a id=close href=#>&times;</a>
-          <img src='{{beer.picture.url}}' />
-          <p>{{beer.description}}</p>
-          <a href='{{beer.website}}'><i class='fa fa-globe' aria-hidden='true'></i> Vai al sito!</a>
+          {% if beer.picture %}
+              <img src='{{beer.picture.url}}' />
+          {% endif %}
+          {% if beer.description %}
+              <p>{{beer.description}}</p>
+          {% endif %}
+          {% if beer.website %}
+              <a href='{{beer.website}}'><i class='fa fa-globe' aria-hidden='true'></i> Vai al sito!</a>
+          {% endif %}
         </div>
       </div>" {% endfor %}
     </div>
     {% else %}
-    <p>No polls are available.</p>
+    <p>No beers.</p>
   {% endif %}
 {% endblock content %}
