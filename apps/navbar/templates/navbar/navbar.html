@@ -1,0 +1,59 @@
+{% block navbar %}
+<div class="home">
+  <header class="header">
+    <div class="logo">
+      <a href="../"><img src="{% static 'clubinferno/img/logo-sinistra.svg' %}"></a>
+    </div>
+    <nav class="menu">
+      <ul>
+        <!-- <li>
+          <div class="flexbox-container">
+            <a href="user" id="icona-user"><i class="fa fa-user-circle" aria-hidden="true"></i></a>
+            <a href="user" id="user-name">
+              <h2>username</h2>
+            </a>
+            <i class='icon-arrow' id="user">
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="120.6 59.5 612 359.1">
+                  <path fill="#c52927" d="M715.7,163.2c-21.1,22.2-248,237.4-248,237.4c-11.6,11.6-26.3,18-41.2,18s-30.6-6.3-41.2-18c0,0-225.9-215.2-248-237.4c-21.1-22.2-23.2-61.2,0-85.5c23.2-23.2,54.825.3,83.3,0l205.8,198.5l206-198.4c28.5-25.3,60.1-23.2,83.3,0C738.8,102.1,737.8,141.1,715.7,163.2z"/>
+              </svg>
+            </i>
+          </div>
+          <ul class="submenu">
+            <li class="subOption"><a href="user">Pannello Utente</a></li>
+            <li class="subOption"><a href="php/logout">Logout</a></li>
+          </ul>
+        </li> -->
+        <!-- Getting rid of that annoying space at desktop size-->
+        <li>
+          <a href="">Chi siamo</a>
+        </li>
+        <li>
+          <a href="../beers">Le nostre birre</a>
+        </li>
+        <li>
+          <div class="flexbox-container">
+            <a href="">Gallery</a>
+            <i class='icon-arrow'>
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="120.6 59.5 612 359.1">
+                    <path fill="#c52927" d="M715.7,163.2c-21.1,22.2-248,237.4-248,237.4c-11.6,11.6-26.3,18-41.2,18s-30.6-6.3-41.2-18c0,0-225.9-215.2-248-237.4c-21.1-22.2-23.2-61.2,0-85.5c23.2-23.2,54.825.3,83.3,0l205.8,198.5l206-198.4c28.5-25.3,60.1-23.2,83.3,0C738.8,102.1,737.8,141.1,715.7,163.2z"/>
+                </svg>
+            </i>
+          </div>
+          <ul class="submenu">
+            <li class="subOption"><a href="photoGallery">Foto</a></li>
+            <li class="subOption"><a href="">Video</a></li>
+          </ul>
+        </li>
+        <li>
+          <a href="">Per soli Bikers</a>
+        </li>
+        <li>
+          <a href="../sponsors">Sponsors</a>
+        </li>
+      </ul>
+      <div class="hamburger"><span></span></div>
+      <div class="dimmer"></div>
+    </nav>
+  </header>
+</div>
+{% endblock navbar %}
