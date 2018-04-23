@@ -17,6 +17,10 @@ input:-webkit-autofill {
   -webkit-box-shadow : 0 0 0 50px #212121 inset;
 }
 
+a {
+  text-decoration : none;
+}
+
 #background {
   width                 : 100vw;
   height                : 100vh;
@@ -147,6 +151,8 @@ input:-webkit-autofill {
 #showPassword {
   display            : inline;
   -webkit-appearance : none;
+  width              : auto;
+  height             : auto;
   margin-left        : -60px;
   color              : whitesmoke;
   border             : 0;
@@ -157,6 +163,8 @@ input:-webkit-autofill {
 #showPassword2 {
   display            : inline;
   -webkit-appearance : none;
+  width              : auto;
+  height             : auto;
   margin-left        : -60px;
   color              : whitesmoke;
   border             : 0;
@@ -821,6 +829,8 @@ label3:focus {
   margin-left  : auto;
   padding-top  : 5vh;
   padding-left : 5vw;
+  text-align   : center;
+  font-family  : 'RM Typerighter Regular';
 }
 
 .sponsor img {
@@ -949,6 +959,8 @@ label3:focus {
 
   .newsbox span {
     display           : inline;
+    float             : right;
+    margin-top        : 38vh;
     margin-left       : -51px;
     padding           : 8px 16px 8px 16px;
     color             : darkgray;
